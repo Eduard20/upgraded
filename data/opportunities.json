@@ -32,7 +32,8 @@
         "label": "Discovery: CFP Watch",
         "url": "https://cfp.watch/cfps/2027-dutch-ai-conference/"
       }
-    ]
+    ],
+    "kind": "Speaker call"
   },
   {
     "id": "devsum-2027",
@@ -63,7 +64,8 @@
         "label": "Official submission and terms",
         "url": "https://sessionize.com/devsum-2027"
       }
-    ]
+    ],
+    "kind": "Speaker call"
   },
   {
     "id": "pixel-pioneers-2027",
@@ -94,7 +96,8 @@
         "label": "Official speaker call",
         "url": "https://pixelpioneers.co/call-for-speakers"
       }
-    ]
+    ],
+    "kind": "Speaker call"
   },
   {
     "id": "csis-aila-2027",
@@ -129,7 +132,8 @@
         "label": "Scholarship limits: official application, question 26",
         "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-09/Spring%202026%20AILA%20International%20Fellowship%20Application%20-%20PDF_0.pdf"
       }
-    ]
+    ],
+    "kind": "Fellowship"
   },
   {
     "id": "hisa-fdf-2027",
@@ -168,7 +172,8 @@
         "label": "Refund and reimbursement policy",
         "url": "https://headwayinstitute.org/refund-policy/"
       }
-    ]
+    ],
+    "kind": "Scholarship"
   },
   {
     "id": "cgdl-ygf-2027",
@@ -203,7 +208,8 @@
         "label": "Official terms, section 12",
         "url": "https://thecgdl.org/term-conditions/"
       }
-    ]
+    ],
+    "kind": "Scholarship"
   },
   {
     "id": "world-bank-youth-summit",
@@ -239,7 +245,8 @@
         "label": "Official competition FAQs",
         "url": "https://www.worldbank.org/content/dam/photos/768x384/2026/jan/PC26%20FAQs.pdf"
       }
-    ]
+    ],
+    "kind": "Conference"
   },
   {
     "id": "one-young-world-2027",
@@ -276,7 +283,8 @@
         "label": "Example past award: Audi 2026",
         "url": "https://www.oneyoungworld.com/scholarship/audi-environmental-foundation-scholarship-2026"
       }
-    ]
+    ],
+    "kind": "Scholarship"
   },
   {
     "id": "salzburg-global",
@@ -308,7 +316,8 @@
         "label": "Official programme and scholarship policy",
         "url": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society"
       }
-    ]
+    ],
+    "kind": "Leadership programme"
   },
   {
     "id": "imf-youth-fellowship",
@@ -339,7 +348,8 @@
         "label": "Official IMF youth hub",
         "url": "https://www.imf.org/en/about/partners/youth"
       }
-    ]
+    ],
+    "kind": "Fellowship"
   },
   {
     "id": "imf-cef-commercial-bank",
@@ -369,6 +379,605 @@
       {
         "label": "Official administrative and eligibility terms",
         "url": "https://www.cef.imf.org/content/cef-imf/en1/Training/AdministrativeArrangements.html"
+      }
+    ],
+    "kind": "Course"
+  },
+  {
+    "id": "ripe-94-95-fellowship",
+    "kind": "Fellowship",
+    "title": "RIPE Fellowship · RIPE 94 Vilnius / RIPE 95 Madrid",
+    "host": "RIPE NCC",
+    "location": "Vilnius, Lithuania (or Madrid, Spain in Nov 2027)",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "Internet governance",
+      "Leadership"
+    ],
+    "role": "Fellow",
+    "durationDays": 5,
+    "dateStart": "2027-05-24",
+    "dateEnd": "2027-05-28",
+    "deadline": "2026-11-23",
+    "availability": "open",
+    "funding": "full",
+    "fundingSummary": "Free meeting ticket, travel and accommodation, plus coaching, public-speaking training and a peer group.",
+    "costs": "No stipend mentioned. Visa and some travel costs may not be fully covered; reimbursement is not possible for residents of certain countries.",
+    "eligibility": "18+ and resident in the RIPE NCC service region (the UAE is in it). You must work or study in a field directly tied to Internet technical coordination/operations. General IT or software roles alone are not enough. You must pass the free RIPE 101 course quiz before you are invited to apply.",
+    "summary": "A week at Europe’s main network-operator meeting: routing, DNS, security, policy. A strong fit only if your bank role touches infrastructure, networking or Internet security.",
+    "caution": "Deadline is 23 Nov 2026 and the RIPE 101 quiz comes first, so start now. Frame your infrastructure/ops responsibilities clearly.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official RIPE Fellowship page",
+        "url": "https://www.ripe.net/community/community-initiatives/ripe-fellowship/"
+      }
+    ]
+  },
+  {
+    "id": "dxday-2027-ai",
+    "kind": "Speaker call",
+    "title": "dxday 2027 AI Edition · speaker call",
+    "host": "dxday",
+    "location": "Bologna, Italy",
+    "region": "Europe",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Leadership"
+    ],
+    "role": "Speaker",
+    "durationDays": 1,
+    "dateStart": "2027-04-12",
+    "dateEnd": "2027-04-12",
+    "deadline": "2026-11-30",
+    "availability": "open",
+    "funding": "partial",
+    "fundingSummary": "Free ticket, speakers’ dinner, single hotel room for up to 3 nights (if travelling from outside Europe) and travel refunded up to €500 from outside Europe.",
+    "costs": "Flights from Dubai may exceed the €500 cap. Visa and meals outside the dinner are on you.",
+    "eligibility": "No age limit. Talks should come from people who have “done the work”; first-time speakers are welcome and get coaching. Sessions are 35–40 minutes in English.",
+    "summary": "One-day applied-AI conference. A talk on running AI delivery inside a large regulated bank would fit well.",
+    "caution": "Check the travel cap against real fares before accepting.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official call for papers (Sessionize)",
+        "url": "https://sessionize.com/dxday-2027-AI-edition/"
+      }
+    ]
+  },
+  {
+    "id": "kubecon-eu-2027-scholarship",
+    "kind": "Scholarship",
+    "title": "KubeCon + CloudNativeCon Europe 2027 · free pass scholarship",
+    "host": "Cloud Native Computing Foundation (Linux Foundation)",
+    "location": "Barcelona, Spain",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "AI",
+      "Cloud"
+    ],
+    "role": "Participant",
+    "durationDays": 4,
+    "dateStart": "2027-03-15",
+    "dateEnd": "2027-03-18",
+    "deadline": "2027-02-05",
+    "availability": "open",
+    "funding": "partial",
+    "fundingSummary": "Complimentary All-Access pass, including CNCF-hosted co-located events.",
+    "costs": "Travel, hotel and visa are your responsibility.",
+    "eligibility": "For people who could not attend without registration help. Past cycles had diversity, need-based and maintainer tracks. No age limit stated.",
+    "summary": "The largest cloud-native and platform-engineering conference in Europe, with a growing AI-infrastructure track.",
+    "caution": "The 2027 form is a SurveyMonkey link; confirm it on the Linux Foundation event page. Passes can run out before the deadline, so apply early.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Scholarship application form",
+        "url": "https://www.surveymonkey.com/r/KCCNCEU27"
+      },
+      {
+        "label": "Official event page",
+        "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
+      }
+    ]
+  },
+  {
+    "id": "icann-fellowship-agm-2027",
+    "kind": "Fellowship",
+    "title": "ICANN Fellowship · next newcomer round",
+    "host": "ICANN",
+    "location": "Rotating worldwide (next newcomer-eligible meeting: ICANN90, late 2027)",
+    "region": "International",
+    "topics": [
+      "Internet governance",
+      "Policy",
+      "Engineering"
+    ],
+    "role": "Fellow",
+    "durationDays": 6,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "full",
+    "fundingSummary": "Fellows receive travel assistance to attend an ICANN public meeting, plus mentoring and onboarding into the policy community.",
+    "costs": "ICANN’s page does not itemise airfare, hotel and stipend. Check the terms when the round opens.",
+    "eligibility": "21+, all regions and sectors. You must complete the ICANN Learn course(s). The ICANN89 round (5 Nov–5 Dec 2026) is for alumni only, so a first-time applicant should aim for the following round.",
+    "summary": "A route into global Internet policy (domain names, DNS security, AI and identity debates) with a strong alumni network.",
+    "caution": "Past annual-meeting rounds opened around March, but no date is announced yet. Do the ICANN Learn courses now.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official Fellowship Program page",
+        "url": "https://www.icann.org/fellowshipprogram"
+      }
+    ]
+  },
+  {
+    "id": "globsec-young-leaders-2027",
+    "kind": "Leadership programme",
+    "title": "GLOBSEC Young Leaders Forum 2027",
+    "host": "GLOBSEC",
+    "location": "Prague, Czechia (expected)",
+    "region": "Europe",
+    "topics": [
+      "Policy",
+      "Leadership",
+      "Security"
+    ],
+    "role": "Participant",
+    "durationDays": 3,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Funding for 2027 is not yet published. Check the call for travel and accommodation support.",
+    "costs": "Unknown until the 2027 call opens.",
+    "eligibility": "Past editions: ages 25–35 (you qualify at 31), with a CV and motivation letter. The 2026 deadline was 6 March 2026.",
+    "summary": "A young-leaders track alongside GLOBSEC Forum, one of Central Europe’s main security and geopolitics conferences, with policy, tech and business participants.",
+    "caution": "Age range and funding come from aggregator listings of past calls. Verify on globsec.org when the 2027 call appears, likely early 2027.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "GLOBSEC",
+        "url": "https://www.globsec.org/"
+      },
+      {
+        "label": "Discovery: 2026 call on Opportunity Desk",
+        "url": "https://opportunitydesk.org/2026/02/24/globsec-young-leaders-forum-2026/"
+      }
+    ]
+  },
+  {
+    "id": "wef-young-global-leaders",
+    "kind": "Leadership programme",
+    "title": "WEF Forum of Young Global Leaders · nomination watch",
+    "host": "World Economic Forum",
+    "location": "Global, with sessions in Geneva and elsewhere",
+    "region": "International",
+    "topics": [
+      "Leadership",
+      "Policy",
+      "AI"
+    ],
+    "role": "Nominee",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Not published per participant. Verify with the Forum if nominated.",
+    "costs": "Unknown.",
+    "eligibility": "Under 40. Referral and nomination only: unsolicited applications are not accepted. A third-party listing gave a Class of 2027 birth window of 1988–1998, with nominations closing 10 May 2026.",
+    "summary": "WEF’s flagship network for leaders under 40. Worth knowing about for the long term: senior leaders, alumni or WEF partners (Emirates NBD may be one) can nominate you.",
+    "caution": "Realistic only with a strong external profile and a nominator. Treat it as a long-term goal.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official nomination criteria",
+        "url": "https://weforum.org/about/nominate-a-young-global-leader"
+      }
+    ]
+  },
+  {
+    "id": "munich-young-leaders",
+    "kind": "Leadership programme",
+    "title": "Munich Young Leaders · Munich Security Conference",
+    "host": "Körber-Stiftung & Munich Security Conference",
+    "location": "Munich, Germany",
+    "region": "Europe",
+    "topics": [
+      "Policy",
+      "Security",
+      "Leadership"
+    ],
+    "role": "Nominee",
+    "durationDays": 4,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Not stated on the programme page.",
+    "costs": "Unknown.",
+    "eligibility": "Under 40, excellent English, foreign- and security-policy experience, and engagement beyond your job. German embassies each propose up to three candidates; you cannot apply directly.",
+    "summary": "A small cohort that joins the Munich Security Conference each February.",
+    "caution": "Low fit unless your work moves toward tech/AI security policy. Listed so you know the route exists.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official programme page",
+        "url": "https://koerber-stiftung.de/en/projects/munich-young-leaders/"
+      }
+    ]
+  },
+  {
+    "id": "ivlp-us-exchange",
+    "kind": "Leadership programme",
+    "title": "International Visitor Leadership Program (IVLP)",
+    "host": "U.S. Department of State",
+    "location": "Several U.S. cities",
+    "region": "North America",
+    "topics": [
+      "Leadership",
+      "Policy",
+      "Innovation"
+    ],
+    "role": "Nominee",
+    "durationDays": 21,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "full",
+    "fundingSummary": "A U.S. government exchange. The State Department organises and funds the programme.",
+    "costs": "Confirm per diem and incidentals with the embassy if nominated.",
+    "eligibility": "No application: U.S. embassies nominate mid-career professionals and emerging leaders. Projects often cover tech, innovation, entrepreneurship and finance.",
+    "summary": "Up to three weeks of meetings with U.S. counterparts. Build a relationship with the U.S. Embassy in Abu Dhabi (or Yerevan) to be considered.",
+    "caution": "Usually up to 3 weeks, a bit longer than your 2-week preference.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official IVLP page",
+        "url": "https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp"
+      }
+    ]
+  },
+  {
+    "id": "world-governments-summit-2027",
+    "kind": "Conference",
+    "title": "World Governments Summit 2027",
+    "host": "World Governments Summit Organization",
+    "location": "Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "AI",
+      "Policy",
+      "Leadership",
+      "Innovation"
+    ],
+    "role": "Participant",
+    "durationDays": 3,
+    "dateStart": "2027-02-01",
+    "dateEnd": "2027-02-03",
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Local to you, so no travel. Registration terms for 2027 are not yet published.",
+    "costs": "Attendance has historically been invitation-led. Check whether Emirates NBD has delegate places.",
+    "eligibility": "Invitation or registration once announced.",
+    "summary": "Heads of government, ministers and tech CEOs in Dubai, with heavy AI-in-government programming.",
+    "caution": "Watch worldgovernmentssummit.org for registration. Ask your bank’s government-relations team.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official dates (UAE Media Office)",
+        "url": "https://mediaoffice.ae/en/news/2026/february/08-02/guided-by-the-vision-of-uae-president-and-mohammed-bin-rashid-wgs2027-set-from-1-to-3-feb"
+      },
+      {
+        "label": "Official site",
+        "url": "https://www.worldgovernmentssummit.org/"
+      }
+    ]
+  },
+  {
+    "id": "gitex-global-2026",
+    "kind": "Conference",
+    "title": "GITEX Global 2026 + Expand North Star",
+    "host": "Dubai World Trade Centre",
+    "location": "Expo City Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Innovation"
+    ],
+    "role": "Participant",
+    "durationDays": 4,
+    "dateStart": "2026-12-08",
+    "dateEnd": "2026-12-11",
+    "deadline": null,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Local. Third-party listings say the Expand North Star (startup) pass is free and the GITEX visitor pass is about AED 630.",
+    "costs": "Prices are unverified on gitex.com. Vendors and partners often hand out free visitor codes, and Emirates NBD may have some.",
+    "eligibility": "Open registration.",
+    "summary": "The region’s biggest tech and AI show, held for the first time at Expo City in December.",
+    "caution": "Dates and venue come from aggregators that disagree slightly; confirm on gitex.com.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://www.gitex.com/"
+      },
+      {
+        "label": "Discovery: event listing",
+        "url": "https://www.beri.net/events/gitex-global-2026"
+      }
+    ]
+  },
+  {
+    "id": "ai-for-good-2027",
+    "kind": "Conference",
+    "title": "AI for Good Global Summit 2027",
+    "host": "ITU (UN agency) with 40+ UN partners",
+    "location": "Palexpo, Geneva, Switzerland",
+    "region": "Europe",
+    "topics": [
+      "AI",
+      "Policy",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "durationDays": 4,
+    "dateStart": "2027-06-21",
+    "dateEnd": "2027-06-24",
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Pass prices for 2027 are not yet published. A free tier was reported by a third party.",
+    "costs": "Travel and Geneva hotels are expensive and not covered. Much of the programme is streamed free online.",
+    "eligibility": "Open registration. Speaker, startup and partner calls run separately.",
+    "summary": "The UN’s main AI summit, which fits your AI-leadership focus. The Swiss-hosted Geneva AI Summit takes place the same week.",
+    "caution": "An ITU letter gives 21–24 June and other materials say the week of 21–25 June. Confirm on aiforgood.itu.int.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://aiforgood.itu.int/"
+      }
+    ]
+  },
+  {
+    "id": "pycon-us-2027-travel-grant",
+    "kind": "Scholarship",
+    "title": "PyCon US 2027 · travel grant watch",
+    "host": "Python Software Foundation",
+    "location": "Long Beach, California, USA",
+    "region": "North America",
+    "topics": [
+      "Engineering",
+      "AI"
+    ],
+    "role": "Participant",
+    "durationDays": 5,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "fundingSummary": "Grants usually cover airfare and similar travel costs, but the budget only covers part of the applicants.",
+    "costs": "Amounts vary, and not every applicant receives full travel.",
+    "eligibility": "Open to anyone; no age limit. Past cycles opened around December and closed in February.",
+    "summary": "The main Python conference, with strong AI/ML, data and engineering-leadership talks.",
+    "caution": "2027 dates have not been announced. Sign up for the PyCon US newsletter.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Travel grants page (2026 cycle)",
+        "url": "https://us.pycon.org/2026/attend/travel-grants/"
+      }
+    ]
+  },
+  {
+    "id": "bluedot-agi-strategy",
+    "kind": "Course",
+    "title": "BlueDot Impact · AGI Strategy (cohort course)",
+    "host": "BlueDot Impact",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "AI",
+      "Policy",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "format": "Online · 5–6 weeks part-time or 5-day intensive",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "Free. Each week combines 2–3 hours of reading with a 2-hour live facilitated discussion.",
+    "costs": "Your time only.",
+    "eligibility": "Application needed; about half of applicants were admitted in a recent cohort. It is the gateway to BlueDot’s AI Governance course.",
+    "summary": "A well-regarded free AI-strategy and governance course with a strong professional network. Good for AI-leadership credibility.",
+    "caution": "Cohorts run on a rolling basis; check the course page for the next deadline.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official course page",
+        "url": "https://bluedot.org/courses/agi-strategy"
+      }
+    ]
+  },
+  {
+    "id": "unesco-ai-ethics-mooc",
+    "kind": "Course",
+    "title": "UNESCO Global MOOC on the Ethics of AI",
+    "host": "UNESCO with LG AI Research",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "AI",
+      "Policy",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "format": "Online · self-paced, about 8–10 hours",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "Free, with a shareable certificate.",
+    "costs": "Your time only.",
+    "eligibility": "Open to all.",
+    "summary": "Ten modules on responsible AI. Useful framing for AI governance in a regulated bank.",
+    "caution": "Sources disagree on whether it is hosted on UNESCO OpenLearning, Coursera or both. Use the official UNESCO link.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "UNESCO OpenLearning course page",
+        "url": "https://openlearning.unesco.org/courses/course-v1:UNESCO+ETHICSAI101+2026_T3/about"
+      }
+    ]
+  },
+  {
+    "id": "ai-for-everyone",
+    "kind": "Course",
+    "title": "AI For Everyone (Andrew Ng)",
+    "host": "DeepLearning.AI on Coursera",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "AI",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "format": "Online · self-paced, about 7 hours",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "conditional",
+    "fundingSummary": "Learning materials are usually free (audit or “no certificate” mode). The certificate is paid.",
+    "costs": "Coursera certificate fee if you want one. Financial aid is possible.",
+    "eligibility": "Open to all.",
+    "summary": "A short non-technical course for leading AI initiatives in an organisation. Quick to finish; useful for briefing teams.",
+    "caution": "You may already know this material. Skip it if it is too basic.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Coursera course page",
+        "url": "https://www.coursera.org/learn/ai-for-everyone"
+      }
+    ]
+  },
+  {
+    "id": "dw-nicos-weg-german",
+    "kind": "Language",
+    "title": "Learn German free · Nicos Weg A1–B1",
+    "host": "Deutsche Welle",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "Language",
+      "German"
+    ],
+    "role": "Learner",
+    "format": "Online · self-paced A1 → B1",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "Completely free, with a level test and a DW certificate at the end of each level.",
+    "costs": "None.",
+    "eligibility": "Open to all, and beginner-friendly.",
+    "summary": "A video-series German course from Germany’s public broadcaster, built with the Federal Employment Agency.",
+    "caution": "Combine it with conversation practice; Goethe-Institut courses in Dubai are paid.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "DW Learn German",
+        "url": "https://learngerman.dw.com/en/nicos-weg/c-36519789"
+      }
+    ]
+  },
+  {
+    "id": "upv-basic-spanish",
+    "kind": "Language",
+    "title": "Basic Spanish 1–3 (edX)",
+    "host": "Universitat Politècnica de València",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "Language",
+      "Spanish"
+    ],
+    "role": "Learner",
+    "format": "Online · about 7 weeks, 4–5 hours/week",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "conditional",
+    "fundingSummary": "Free audit track. The verified certificate costs roughly $29–40.",
+    "costs": "Audit access may be time-limited.",
+    "eligibility": "Open to all; no prior Spanish needed.",
+    "summary": "A university-made beginner sequence for English speakers, in three parts.",
+    "caution": "Reviewers say the listening is fast and practice is light. For in-person classes, UCAM Dubai is the Gulf’s Instituto Cervantes-accredited centre (paid).",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "edX Spanish courses",
+        "url": "https://www.edx.org/learn/spanish"
+      },
+      {
+        "label": "Discovery: Class Central",
+        "url": "https://classcentral.com/course/edx-basic-spanish-1-getting-started-3698"
+      }
+    ]
+  },
+  {
+    "id": "unistrasi-learn-italian",
+    "kind": "Language",
+    "title": "Introduction to Italian (FutureLearn)",
+    "host": "Università per Stranieri di Siena",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "Language",
+      "Italian"
+    ],
+    "role": "Learner",
+    "format": "Online · self-paced beginner course",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "conditional",
+    "fundingSummary": "Free limited-time access on FutureLearn. Unlimited access and a certificate are paid.",
+    "costs": "Upgrade fee is optional.",
+    "eligibility": "Open to all; aimed at absolute beginners.",
+    "summary": "A beginner course from Italy’s specialist university for teaching Italian to foreigners.",
+    "caution": "Free access periods on FutureLearn are limited, so finish within the window.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "FutureLearn course page",
+        "url": "https://www.futurelearn.com/courses/learn-italian"
       }
     ]
   }
