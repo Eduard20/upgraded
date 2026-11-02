@@ -1045,5 +1045,42 @@
         "url": "https://www.rycowb.org/wp-content/uploads/2026/08/FAQ-MIRAI-Program-2026-2027.pdf"
       }
     ]
+  },
+  {
+    "id": "isf-fellowship-next",
+    "kind": "Fellowship",
+    "title": "International Strategy Forum (ISF) Fellowship · next cohort",
+    "host": "Special Competitive Studies Project (founded by Eric Schmidt)",
+    "location": "In-person convenings (locations vary) + virtual sessions",
+    "region": "International",
+    "topics": [
+      "AI",
+      "Policy",
+      "Leadership",
+      "Innovation"
+    ],
+    "role": "Fellow",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "verifiedAt": "2026-11-02",
+    "fundingSummary": "A selective, year-long fellowship built around in-person convenings. The call does not state whether travel to convenings is paid; earlier Schmidt Futures cohorts were sponsored, so ask isfteam@scsp.ai.",
+    "costs": "Not stated in the call.",
+    "eligibility": "Rising global leaders aged 25–35 (you qualify) with demonstrated leadership potential and recognised expertise in their field. Nationality is not restricted in the call.",
+    "summary": "A network of emerging leaders working on technology, AI and geopolitics, with regional tracks for Europe and Asia run with ECFR and Singapore’s RSIS. Strong fit for an AI-leadership profile.",
+    "caution": "The 2027 cohort closed on 31 July 2026. Expect the next call around mid-2027, and confirm the funding terms before applying.",
+    "links": [
+      {
+        "label": "2027 call announcement (SCSP)",
+        "url": "https://scsp222.substack.com/p/applications-now-open-international"
+      },
+      {
+        "label": "ISF Asia at RSIS",
+        "url": "https://rsis.edu.sg/outreach/international-strategy-forum-asia-isf-asia/"
+      }
+    ]
   }
 ]
