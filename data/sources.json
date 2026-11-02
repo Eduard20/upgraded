@@ -375,5 +375,222 @@
     "description": "Official summit dates and a starting point for sponsor-specific scholarships.",
     "caution": "Check each scholarship’s age, country, impact and coverage requirements; summit dates alone do not mean funding is open.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "mbzuai-iec",
+    "name": "MBZUAI Incubation & Entrepreneurship Center",
+    "url": "https://mbzuai.ac.ae/innovation-partnerships/incubation-entrepreneurship-center",
+    "category": "University / innovation",
+    "topics": [
+      "AI",
+      "Entrepreneurship"
+    ],
+    "region": "UAE",
+    "description": "Palmside Chats, AI Is My Co-founder workshops, hackathons and Demo Day can welcome external visitors.",
+    "caution": "Grants target affiliated founders; no current dated funded public event verified.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "atrc-challengeon",
+    "name": "ATRC / ASPIRE ChallengeON",
+    "url": "https://challengeon.atrc.ae/en",
+    "category": "Competition directory",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Innovation"
+    ],
+    "region": "UAE",
+    "description": "Official challenge discovery hub.",
+    "caution": "Verify each challenge’s eligibility, deadlines, travel support and prize conditions.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "dubai-ai-agents",
+    "name": "Dubai Chamber · Create AI Agents",
+    "url": "https://www.dubaichambers.com/en/web/dubai-chamber-of-digital-economy/create-ai-agents",
+    "category": "Institutional competition",
+    "topics": [
+      "AI",
+      "Entrepreneurship"
+    ],
+    "region": "UAE",
+    "description": "Official agent-building competition, workshops and mentorship.",
+    "caution": "Prizes are conditional; not participation funding.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "temasek-liveability",
+    "name": "Temasek Foundation · Liveability Challenge",
+    "url": "https://www.theliveabilitychallenge.org/faq/submission",
+    "category": "Foundation / competition",
+    "topics": [
+      "Climate",
+      "Oceans",
+      "Entrepreneurship"
+    ],
+    "region": "Asia",
+    "description": "Climate innovation challenge with competitive finalist support.",
+    "caution": "Project readiness requirements and extended commitments apply.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "hku-aiifl",
+    "name": "HKU Asian Institute of International Financial Law",
+    "url": "https://aiifl.law.hku.hk/projects/money-private-law-and-regulation/",
+    "category": "University / policy",
+    "topics": [
+      "Law",
+      "Finance",
+      "Regulation"
+    ],
+    "region": "Asia",
+    "description": "Research events linking financial markets, law and policy.",
+    "caution": "Fee waiver does not imply funded travel.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "tokyo-forum",
+    "name": "University of Tokyo · Tokyo Forum",
+    "url": "https://www.u-tokyo.ac.jp/focus/en/events/z1311_00011.html",
+    "category": "University / dialogue",
+    "topics": [
+      "AI",
+      "Society",
+      "Governance"
+    ],
+    "region": "Asia",
+    "description": "Public cross-disciplinary forum with Chey Institute.",
+    "caution": "Current event admission is free, travel is not funded.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "eui-stg-exed",
+    "name": "European University Institute · Executive training",
+    "url": "https://exed.eui.eu/open-courses/global-tax-policy-and-sustainable-governance",
+    "category": "University / executive education",
+    "topics": [
+      "Tax",
+      "Governance",
+      "Policy"
+    ],
+    "region": "Europe",
+    "description": "Short executive courses and separate scholarship policies.",
+    "caution": "Verify current course-specific scholarship availability.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "hks-executive",
+    "name": "Harvard Kennedy School · Executive education funding",
+    "url": "https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-executive-education-program",
+    "category": "University / executive education",
+    "topics": [
+      "Leadership",
+      "Finance",
+      "Policy"
+    ],
+    "region": "North America",
+    "description": "Funding policy for executive education programmes.",
+    "caution": "Partial tuition assistance is discretionary; not generic travel funding.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "young-bled",
+    "name": "Young Bled Strategic Forum",
+    "url": "https://2025.bledstrategicforum.org/news/young-bled-strategic-forum-2026-applications-now-open/",
+    "category": "Leadership / policy",
+    "topics": [
+      "Leadership",
+      "Diplomacy"
+    ],
+    "region": "Europe",
+    "description": "Monitor official youth-leadership calls.",
+    "caution": "Linked call is the closed 2026 cycle; do not reuse dates for 2027.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "hub71-access",
+    "name": "Hub71 Access",
+    "url": "https://www.hub71.com/faqs",
+    "category": "Startup accelerator",
+    "topics": [
+      "Entrepreneurship",
+      "Investment"
+    ],
+    "region": "UAE",
+    "description": "Abu Dhabi startup ecosystem and programme eligibility.",
+    "caution": "Access is a 12-month company accelerator with equity/SAFE terms, not a short individual retreat.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "nato-ypp",
+    "name": "NATO Young Professionals Programme",
+    "url": "https://www.nato.int/en/work-with-us/careers/young-professionals--programme",
+    "category": "Institution / eligibility",
+    "topics": [
+      "Security",
+      "Policy"
+    ],
+    "region": "International",
+    "description": "Official age, nationality and programme requirements.",
+    "caution": "Three-year employment; ages 21–32 and NATO-member citizenship required. Not a short funded event.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "nato-diana",
+    "name": "NATO DIANA challenges",
+    "url": "https://www.diana.nato.int/connect/-nato-diana-challenge-call-qa-your-key-questions-answered-2.html",
+    "category": "Institutional competition",
+    "topics": [
+      "Security",
+      "Innovation"
+    ],
+    "region": "International",
+    "description": "Official company-challenge eligibility and programme terms.",
+    "caution": "Six-month accelerator with NATO-related ownership criteria; not an individual visit.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "un-apcict",
+    "name": "UN APCICT · Digital Leaders Programme",
+    "url": "https://www.unapcict.org/events/2026-apcict-annual-digital-leaders-programme",
+    "category": "UN / eligibility",
+    "topics": [
+      "AI",
+      "Governance"
+    ],
+    "region": "Asia",
+    "description": "December 1–2, 2026 responsible-AI programme in Incheon.",
+    "caution": "Government officials, invitation only; no public funding terms verified.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "worldbank-govtech",
+    "name": "World Bank Korea · GovTech Bootcamp",
+    "url": "https://www.worldbank.org/en/programs/govtech/govtech-bootcamp-for-ai-in-governance-and-public-administration",
+    "category": "Institution / eligibility",
+    "topics": [
+      "AI",
+      "Government"
+    ],
+    "region": "Asia",
+    "description": "Official government-team AI capacity-building programme.",
+    "caution": "December 7–11, 2026; deadline October 2 passed. Restricted to government teams from eligible low/middle-income countries.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "mas-hackcelerator",
+    "name": "MAS / GFTN Global FinTech Hackcelerator",
+    "url": "https://www.fintechfestival.sg/global-fintech-hackcelerator",
+    "category": "Institutional competition",
+    "topics": [
+      "Fintech",
+      "Wealth management",
+      "AI"
+    ],
+    "region": "Asia",
+    "description": "Startup challenges and team-level travel/participation grants.",
+    "caution": "Last audited cycle closed; prizes separate from travel support.",
+    "verifiedAt": "2026-11-02"
   }
 ]

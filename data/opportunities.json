@@ -401,12 +401,12 @@
     "dateEnd": "2027-05-28",
     "deadline": "2026-11-23",
     "availability": "open",
-    "funding": "full",
-    "fundingSummary": "Free meeting ticket, travel and accommodation, plus coaching, public-speaking training and a peer group.",
+    "funding": "partial",
+    "fundingSummary": "Meeting ticket, travel, accommodation and coaching for selected fellows. Some visa or travel expenses may remain uncovered.",
     "costs": "No stipend mentioned. Visa and some travel costs may not be fully covered; reimbursement is not possible for residents of certain countries.",
     "eligibility": "18+ and resident in the RIPE NCC service region (the UAE is in it). You must work or study in a field directly tied to Internet technical coordination/operations. General IT or software roles alone are not enough. You must pass the free RIPE 101 course quiz before you are invited to apply.",
-    "summary": "A week at Europe’s main network-operator meeting (routing, DNS, security, Internet policy), with your ticket, travel and hotel paid.",
-    "caution": "Engineers qualify if their work touches networks, infrastructure, cloud or platform operations, DNS or security. Pure app or software development alone is not enough, so put the infrastructure side of your role first. Pass the RIPE 101 quiz before 23 Nov.",
+    "summary": "A five-day network-operator meeting covering routing, DNS, security and Internet policy, with competitive participation support.",
+    "caution": "Deadline: 23 November 2026, 23:59 UTC+1. RIPE 101 quiz required before application. RIPE 94: Vilnius, May 24–28; RIPE 95: Madrid, November 15–19, 2027. Confirm individual reimbursement eligibility and exclusions.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -435,10 +435,10 @@
     "availability": "open",
     "funding": "partial",
     "fundingSummary": "Free ticket, speakers’ dinner, single hotel room for up to 3 nights (if travelling from outside Europe) and travel refunded up to €500 from outside Europe.",
-    "costs": "Flights from Dubai may exceed the €500 cap. Visa and meals outside the dinner are on you.",
-    "eligibility": "No age limit. Talks should come from people who have “done the work”; first-time speakers are welcome and get coaching. Sessions are 35–40 minutes in English.",
-    "summary": "One-day applied-AI conference. A talk on running AI delivery inside a large regulated bank would fit well.",
-    "caution": "Check the travel cap against real fares before accepting.",
+    "costs": "Travel reimbursement is capped at €500 for speakers travelling from outside Europe. Up to three hotel nights; confirm visa and other meals separately.",
+    "eligibility": "No age restriction stated. Practical talks and first-time speakers are welcome; sessions are 35–40 minutes in English.",
+    "summary": "One-day applied-AI conference with a competitive speaking route.",
+    "caution": "CFP deadline November 30, 2026 (CET). Confirm the travel cap and exact award terms before accepting.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -450,7 +450,7 @@
   {
     "id": "kubecon-eu-2027-scholarship",
     "kind": "Scholarship",
-    "title": "KubeCon + CloudNativeCon Europe 2027 · free pass scholarship",
+    "title": "KubeCon + CloudNativeCon Europe 2027 · travel / pass support",
     "host": "Cloud Native Computing Foundation (Linux Foundation)",
     "location": "Barcelona, Spain",
     "region": "Europe",
@@ -463,14 +463,14 @@
     "durationDays": 4,
     "dateStart": "2027-03-15",
     "dateEnd": "2027-03-18",
-    "deadline": "2027-02-05",
+    "deadline": "2027-01-18",
     "availability": "open",
-    "funding": "partial",
-    "fundingSummary": "Complimentary All-Access pass, including CNCF-hosted co-located events.",
-    "costs": "Travel, hotel and visa are your responsibility.",
-    "eligibility": "For people who could not attend without registration help. Past cycles had diversity, need-based and maintainer tracks. No age limit stated.",
+    "funding": "conditional",
+    "fundingSummary": "Separate need-based routes: travel grant reimburses economy travel, eligible hotel nights including the previous night and airport transfers; registration scholarship provides an All-Access pass.",
+    "costs": "Travel awards are reimbursements with programme-specific limits. Other costs and any uncovered travel remain the recipient’s responsibility.",
+    "eligibility": "Need-based support for people who could not otherwise attend. Applicants with employer funding should not apply. Travel-grant and registration-scholarship applications have different deadlines.",
     "summary": "The largest cloud-native and platform-engineering conference in Europe, with a growing AI-infrastructure track.",
-    "caution": "The 2027 form is a SurveyMonkey link; confirm it on the Linux Foundation event page. Passes can run out before the deadline, so apply early.",
+    "caution": "Travel grant deadline: January 18, 2027. Registration-only scholarship deadline: February 5, 2027. Do not confuse a free pass with funded travel.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -480,6 +480,10 @@
       {
         "label": "Official event page",
         "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
+      },
+      {
+        "label": "Official scholarship and travel-funding terms",
+        "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships-travel-funding/"
       }
     ]
   },
@@ -501,17 +505,21 @@
     "dateEnd": null,
     "deadline": null,
     "availability": "watchlist",
-    "funding": "full",
-    "fundingSummary": "Fellows receive travel assistance to attend an ICANN public meeting, plus mentoring and onboarding into the policy community.",
-    "costs": "ICANN’s page does not itemise airfare, hotel and stipend. Check the terms when the round opens.",
-    "eligibility": "21+, all regions and sectors. You must complete the ICANN Learn course(s). The ICANN89 round (5 Nov–5 Dec 2026) is for alumni only, so a first-time applicant should aim for the following round.",
+    "funding": "partial",
+    "fundingSummary": "Selected fellows receive economy travel, single-room lodging and a stipend capped at US$500. Visa support is capped at US$200.",
+    "costs": "Insurance is excluded; visa or incidental costs above the stated caps remain the participant’s responsibility.",
+    "eligibility": "21+, subject to the programme’s selection and learning requirements. ICANN89 applications (November 5–December 5, 2026) are alumni-only; first-time applicants need a later eligible round.",
     "summary": "A route into global Internet policy (domain names, DNS security, AI and identity debates) with a strong alumni network.",
-    "caution": "Past annual-meeting rounds opened around March, but no date is announced yet. Do the ICANN Learn courses now.",
+    "caution": "No verified open newcomer round. The listed annual-meeting format is six days; confirm the exact next-cycle schedule and costs.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "Official Fellowship Program page",
         "url": "https://www.icann.org/fellowshipprogram"
+      },
+      {
+        "label": "Official fellowship terms and coverage",
+        "url": "https://www.icann.org/resources/pages/fellowship-terms-conditions"
       }
     ]
   },
@@ -520,7 +528,7 @@
     "kind": "Leadership programme",
     "title": "GLOBSEC Young Leaders Forum 2027",
     "host": "GLOBSEC",
-    "location": "Prague, Czechia (expected)",
+    "location": "Location to be announced",
     "region": "Europe",
     "topics": [
       "Policy",
@@ -536,9 +544,9 @@
     "funding": "unknown",
     "fundingSummary": "Funding for 2027 is not yet published. Check the call for travel and accommodation support.",
     "costs": "Unknown until the 2027 call opens.",
-    "eligibility": "Past editions: ages 25–35 (you qualify at 31), with a CV and motivation letter. The 2026 deadline was 6 March 2026.",
-    "summary": "A young-leaders track alongside GLOBSEC Forum, one of Central Europe’s main security and geopolitics conferences, with policy, tech and business participants.",
-    "caution": "Age range and funding come from aggregator listings of past calls. Verify on globsec.org when the 2027 call appears, likely early 2027.",
+    "eligibility": "The official 2026 call targeted ages 25–35 and included AI/cyber backgrounds. A 2027 call and eligibility are not yet verified.",
+    "summary": "Young-leaders discussions alongside the GLOBSEC security and geopolitics forum.",
+    "caution": "Watchlist only. No confirmed 2027 application dates, location or funding terms.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -548,6 +556,10 @@
       {
         "label": "Discovery: 2026 call on Opportunity Desk",
         "url": "https://opportunitydesk.org/2026/02/24/globsec-young-leaders-forum-2026/"
+      },
+      {
+        "label": "Official 2026 call (past cycle)",
+        "url": "https://www.globsec.org/events/young-leaders-forum-2026"
       }
     ]
   },
@@ -572,16 +584,21 @@
     "funding": "unknown",
     "fundingSummary": "Not published per participant. Verify with the Forum if nominated.",
     "costs": "Unknown.",
-    "eligibility": "Under 40. Referral and nomination only: unsolicited applications are not accepted. A third-party listing gave a Class of 2027 birth window of 1988–1998, with nominations closing 10 May 2026.",
-    "summary": "WEF’s flagship network for leaders under 40. Worth knowing about for the long term: senior leaders, alumni or WEF partners (Emirates NBD may be one) can nominate you.",
-    "caution": "Realistic only with a strong external profile and a nominator. Treat it as a long-term goal.",
+    "eligibility": "Nomination-based leadership network, generally for leaders under 40; verify the current official criteria and selection cycle.",
+    "summary": "A three-year leadership network, not a short funded conference application.",
+    "caution": "Long-term programme. No verified travel-funding package or current nomination deadline. Individual summit invitations do not establish a fully funded place.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "Official nomination criteria",
         "url": "https://weforum.org/about/nominate-a-young-global-leader"
+      },
+      {
+        "label": "Official Young Global Leaders programme",
+        "url": "https://www.younggloballeaders.org/"
       }
-    ]
+    ],
+    "format": "Three-year leadership programme; individual convenings vary"
   },
   {
     "id": "munich-young-leaders",
@@ -604,9 +621,9 @@
     "funding": "unknown",
     "fundingSummary": "Not stated on the programme page.",
     "costs": "Unknown.",
-    "eligibility": "Under 40, excellent English, foreign- and security-policy experience, and engagement beyond your job. German embassies each propose up to three candidates; you cannot apply directly.",
+    "eligibility": "Under 40, excellent English and relevant foreign/security-policy background. Nomination-based; no direct open application established.",
     "summary": "A small cohort that joins the Munich Security Conference each February.",
-    "caution": "Low fit unless your work moves toward tech/AI security policy. Listed so you know the route exists.",
+    "caution": "No verified 2027 application round or funding terms. A nomination route, not a public scholarship call.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -628,7 +645,7 @@
       "Innovation"
     ],
     "role": "Nominee",
-    "durationDays": 21,
+    "durationDays": null,
     "dateStart": null,
     "dateEnd": null,
     "deadline": null,
@@ -636,16 +653,21 @@
     "funding": "full",
     "fundingSummary": "A U.S. government exchange. The State Department organises and funds the programme.",
     "costs": "Confirm per diem and incidentals with the embassy if nominated.",
-    "eligibility": "No application: U.S. embassies nominate mid-career professionals and emerging leaders. Projects often cover tech, innovation, entrepreneurship and finance.",
-    "summary": "Up to three weeks of meetings with U.S. counterparts. Build a relationship with the U.S. Embassy in Abu Dhabi (or Yerevan) to be considered.",
-    "caution": "Usually up to 3 weeks, a bit longer than your 2-week preference.",
+    "eligibility": "U.S. embassies nominate professionals; there is no public individual application.",
+    "summary": "A U.S. government exchange comprising professional meetings and visits. Project lengths vary from two days to three weeks.",
+    "caution": "Duration, funding details and participation depend on the specific nominated project. Do not assume a short slot is available.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "Official IVLP page",
         "url": "https://exchanges.state.gov/non-us/program/international-visitor-leadership-program-ivlp"
+      },
+      {
+        "label": "Official programme factsheet",
+        "url": "https://exchanges.state.gov/files/exchanges/external_ivlp_one_pager_-_2025_0.pdf"
       }
-    ]
+    ],
+    "format": "Projects vary from 2 days to 3 weeks"
   },
   {
     "id": "world-governments-summit-2027",
@@ -667,11 +689,11 @@
     "deadline": null,
     "availability": "watchlist",
     "funding": "unknown",
-    "fundingSummary": "Local to you, so no travel. Registration terms for 2027 are not yet published.",
-    "costs": "Attendance has historically been invitation-led. Check whether Emirates NBD has delegate places.",
-    "eligibility": "Invitation or registration once announced.",
+    "fundingSummary": "No verified individual travel scholarship or funded public application route.",
+    "costs": "Registration, invitation and funding terms must be confirmed with the organiser.",
+    "eligibility": "Individual attendance route not verified; check official registration/invitation arrangements.",
     "summary": "Heads of government, ministers and tech CEOs in Dubai, with heavy AI-in-government programming.",
-    "caution": "Watch worldgovernmentssummit.org for registration. Ask your bank’s government-relations team.",
+    "caution": "February 1–3, 2027 dates confirmed. Do not treat local residence or institutional affiliation as an invitation.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -687,9 +709,9 @@
   {
     "id": "gitex-global-2026",
     "kind": "Conference",
-    "title": "GITEX Global 2026 + Expand North Star",
+    "title": "GITEX Global 2026 · summit and expo",
     "host": "Dubai World Trade Centre",
-    "location": "Expo City Dubai, UAE",
+    "location": "Dubai World Trade Centre (summit); Dubai Exhibition Centre, Expo City (expo)",
     "region": "UAE",
     "topics": [
       "AI",
@@ -697,17 +719,17 @@
       "Innovation"
     ],
     "role": "Participant",
-    "durationDays": 4,
-    "dateStart": "2026-12-08",
+    "durationDays": 5,
+    "dateStart": "2026-12-07",
     "dateEnd": "2026-12-11",
     "deadline": null,
-    "availability": "open",
+    "availability": "watchlist",
     "funding": "unknown",
-    "fundingSummary": "Local. Third-party listings say the Expand North Star (startup) pass is free and the GITEX visitor pass is about AED 630.",
-    "costs": "Prices are unverified on gitex.com. Vendors and partners often hand out free visitor codes, and Emirates NBD may have some.",
-    "eligibility": "Open registration.",
-    "summary": "The region’s biggest tech and AI show, held for the first time at Expo City in December.",
-    "caution": "Dates and venue come from aggregators that disagree slightly; confirm on gitex.com.",
+    "fundingSummary": "No verified travel scholarship or free-ticket funding route in this scan.",
+    "costs": "Ticket prices and sponsored passes were not verified. Travel and incidental expenses are not established as covered.",
+    "eligibility": "Check the official registration terms for the desired ticket type.",
+    "summary": "December 7 summit at Dubai World Trade Centre, followed by the December 8–11 expo at Dubai Exhibition Centre, Expo City.",
+    "caution": "Two venues and separate programme dates. Removed unverified ticket-price and free-pass claims; check the official ticket route.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -717,6 +739,10 @@
       {
         "label": "Discovery: event listing",
         "url": "https://www.beri.net/events/gitex-global-2026"
+      },
+      {
+        "label": "Official 2026 dates and venues",
+        "url": "https://www.gitex.com/plan-your-visit-2026"
       }
     ]
   },
@@ -739,16 +765,20 @@
     "deadline": null,
     "availability": "watchlist",
     "funding": "unknown",
-    "fundingSummary": "Pass prices for 2027 are not yet published. A free tier was reported by a third party.",
-    "costs": "Travel and Geneva hotels are expensive and not covered. Much of the programme is streamed free online.",
+    "fundingSummary": "No verified 2027 travel/accommodation scholarship in this scan.",
+    "costs": "Participation fees and any financial support require confirmation; travel is not established as covered.",
     "eligibility": "Open registration. Speaker, startup and partner calls run separately.",
-    "summary": "The UN’s main AI summit, which fits your AI-leadership focus. The Swiss-hosted Geneva AI Summit takes place the same week.",
-    "caution": "An ITU letter gives 21–24 June and other materials say the week of 21–25 June. Confirm on aiforgood.itu.int.",
+    "summary": "ITU’s cross-disciplinary AI summit at Palexpo, Geneva, June 21–24, 2027.",
+    "caution": "Official 2027 dates confirmed. Attendance, speaking and funding are separate application routes.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "Official site",
         "url": "https://aiforgood.itu.int/"
+      },
+      {
+        "label": "Official 2027 summit",
+        "url": "https://2027summit.aiforgood.itu.int/"
       }
     ]
   },
@@ -764,22 +794,26 @@
       "AI"
     ],
     "role": "Participant",
-    "durationDays": 5,
-    "dateStart": null,
-    "dateEnd": null,
+    "durationDays": 7,
+    "dateStart": "2027-05-12",
+    "dateEnd": "2027-05-18",
     "deadline": null,
     "availability": "watchlist",
     "funding": "conditional",
-    "fundingSummary": "Grants usually cover airfare and similar travel costs, but the budget only covers part of the applicants.",
-    "costs": "Amounts vary, and not every applicant receives full travel.",
-    "eligibility": "Open to anyone; no age limit. Past cycles opened around December and closed in February.",
+    "fundingSummary": "Past grants supported registration, travel and hotel costs, with reimbursement after attendance. 2027 grant terms are not yet verified.",
+    "costs": "Applicants may need to pay travel upfront. Award amounts and uncovered expenses depend on the new call.",
+    "eligibility": "Check the 2027 grant call when published; past awards do not guarantee future eligibility.",
     "summary": "The main Python conference, with strong AI/ML, data and engineering-leadership talks.",
-    "caution": "2027 dates have not been announced. Sign up for the PyCon US newsletter.",
+    "caution": "Official 2027 dates are May 12–18 (seven days). No verified open 2027 grant call. Do not assume attending fewer days preserves grant eligibility.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "Travel grants page (2026 cycle)",
         "url": "https://us.pycon.org/2026/attend/travel-grants/"
+      },
+      {
+        "label": "Official 2027 dates announcement",
+        "url": "https://pycon.blogspot.com/2026/09/pycon-us-2026-recap-and-recordings.html"
       }
     ]
   },
@@ -802,11 +836,11 @@
     "deadline": null,
     "availability": "open",
     "funding": "free",
-    "fundingSummary": "Free entry. Most workshops are free walk-ins; some need pre-registration.",
-    "costs": "Downtown Design (4–8 Nov) is ticketed. Parking and transport are on you.",
-    "eligibility": "Open to everyone.",
+    "fundingSummary": "Free general entry, all ages. Separately ticketed Downtown Design runs November 4–8.",
+    "costs": "Own transport and any separately ticketed activities.",
+    "eligibility": "General festival open to all ages; individual workshops may have separate terms.",
     "summary": "The region’s largest design festival: installations, talks, product and furniture design, and hands-on workshops.",
-    "caution": "It starts tomorrow. Check dubaidesignweek.ae for workshops that need booking.",
+    "caution": "Festival November 3–8, 2026. Downtown Design has separate admission terms.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -816,6 +850,10 @@
       {
         "label": "Discovery: dates & what’s free",
         "url": "https://www.emirates247.com/uae-guide/dubai-design-week-2026-dates-tickets-highlights-and-whats-free-at-the-12th-edition/7287"
+      },
+      {
+        "label": "Official visitor information",
+        "url": "https://www.dubaidesignweek.ae/visit/"
       }
     ]
   },
@@ -837,28 +875,28 @@
     "dateEnd": "2026-11-15",
     "deadline": null,
     "availability": "open",
-    "funding": "free",
-    "fundingSummary": "Free entry, with free shuttle buses announced. Registering in advance skips queues.",
-    "costs": "Books and some workshops are extra.",
-    "eligibility": "Open to everyone.",
+    "funding": "unknown",
+    "fundingSummary": "Some individual workshops are explicitly free. General-entry and transport arrangements were not verified.",
+    "costs": "Confirm general admission and any specific activity costs. Own transport unless a current official shuttle is confirmed.",
+    "eligibility": "Public visitor event; individual workshops have age and booking requirements.",
     "summary": "One of the world’s largest book fairs, with a 12-day programme of author talks and workshops.",
-    "caution": "Free entry comes from a guide, not the official site; confirm on sibf.com.",
+    "caution": "November 4–15, 2026 dates at Expo Centre Sharjah confirmed. Workshop availability and booking vary.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
-        "label": "Dates (Khaleej Times)",
-        "url": "https://www.khaleejtimes.com/uae/sharjah-international-book-fair-2026-november-4-to-15"
+        "label": "Official visitor information",
+        "url": "https://sibf.com/en/visit"
       },
       {
-        "label": "Official site",
-        "url": "https://www.sibf.com/"
+        "label": "Official workshops",
+        "url": "https://sibf.com/en/activities-workshops"
       }
     ]
   },
   {
     "id": "dubai-watch-week-2026",
     "kind": "Festival & culture",
-    "title": "Dubai Watch Week 2026 · free watchmaking masterclasses",
+    "title": "Dubai Watch Week 2027 · next-edition watch",
     "host": "Dubai Watch Week (Ahmed Seddiqi & Sons)",
     "location": "Burj Park, Downtown Dubai, UAE",
     "region": "UAE",
@@ -869,25 +907,25 @@
     ],
     "role": "Participant",
     "durationDays": 5,
-    "dateStart": "2026-11-18",
-    "dateEnd": "2026-11-22",
+    "dateStart": "2027-11-17",
+    "dateEnd": "2027-11-21",
     "deadline": null,
-    "availability": "open",
-    "funding": "free",
-    "fundingSummary": "Free admission with online pre-registration. In 2025 it included hands-on masterclasses (e.g. Hublot Watch Academy movement casing, Hermès) and collector talks.",
-    "costs": "None for entry. Popular masterclasses fill fast.",
-    "eligibility": "Open to everyone 18+ who registers.",
-    "summary": "The region’s main horology festival: brand masterclasses where you handle real movements, talks by watchmakers, and exhibitions under the Burj Khalifa.",
-    "caution": "The 2026 dates (18–22 Nov) come from one article, so confirm on dubaiwatchweek.com and book sessions as soon as registration opens.",
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "2027 registration and fee terms are not yet verified.",
+    "costs": "Confirm admission, workshop and transport costs when the 2027 programme is published.",
+    "eligibility": "2027 age and participation requirements are not yet verified; no blanket 18+ restriction established.",
+    "summary": "Biennial horology festival with the next edition announced for November 17–21, 2027 at Dubai Mall / Burj Park.",
+    "caution": "Corrected from an unverified 2026 listing. Stable record ID retained to preserve saved notes and ratings.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
-        "label": "Official site",
-        "url": "https://www.dubaiwatchweek.com/"
+        "label": "Official organiser announcement",
+        "url": "https://ae.linkedin.com/showcase/dubai-watch-week/"
       },
       {
-        "label": "Discovery: 2026 dates",
-        "url": "https://www.luxuryproperty.com/blog/dubai-watch-week-2026"
+        "label": "Organiser-owned edition background",
+        "url": "https://seddiqiholding.com/news-and-insights/vision-driving-dubai-watch-weeks-global-ambitions-interview-hind-seddiqi"
       }
     ]
   },
@@ -910,19 +948,19 @@
     "availability": "open",
     "funding": "free",
     "fundingSummary": "Free; registration and an official bib are required. The wider challenge (31 Oct–29 Nov) has free daily events across the city.",
-    "costs": "None.",
-    "eligibility": "Open to everyone. 5 km and 10 km routes.",
-    "summary": "Run down a closed Sheikh Zayed Road with roughly 300,000 people. The challenge month also includes free yoga, paddle and fitness villages.",
-    "caution": "Places have run out in past years, so register early on dubairun.com.",
+    "costs": "Free participation; own transport and incidental costs.",
+    "eligibility": "All ages. Under-18s require adult accompaniment and guardian waiver; registration and official bib required.",
+    "summary": "Dubai Run on Sheikh Zayed Road, November 22, 2026, 06:30–09:00, with 5 km and 10 km routes.",
+    "caution": "Check registration availability and bib collection instructions before attending.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
-        "label": "Official Dubai Run page",
-        "url": "https://www.dubaifitnesschallenge.com/en/whats-on/events/dubai-run/"
+        "label": "Official Dubai Run",
+        "url": "https://www.dubaifitnesschallenge.com/en/dubai-run"
       },
       {
-        "label": "Dates (UAE Media Office)",
-        "url": "https://prod.mediaoffice.ae/en/news/2026/august/13-08/dubai-fitness-challenge-returns-for-tenth-edition-from-31-october-to-29-november"
+        "label": "Official participation FAQs",
+        "url": "https://www.dubaifitnesschallenge.com/en/faqs"
       }
     ]
   },
@@ -939,22 +977,405 @@
       "Volunteering"
     ],
     "role": "Volunteer",
-    "durationDays": 14,
+    "durationDays": null,
     "dateStart": null,
     "dateEnd": null,
     "deadline": null,
     "availability": "watchlist",
     "funding": "unknown",
-    "fundingSummary": "Set by each host project; many camps provide food and lodging but not travel.",
-    "costs": "Usually your travel, sometimes a participation fee.",
+    "fundingSummary": "Historical 2026 guidance: hosts should provide food, accommodation and local transport. 2027 project terms are not confirmed.",
+    "costs": "Historical guidance leaves travel to volunteers; partial participation fees are permitted. Check each 2027 host.",
     "eligibility": "Youth-focused campaign: each project sets its own age range. Many accept adults, but check before applying.",
-    "summary": "Two-week-ish volunteer camps restoring and promoting World Heritage sites, worldwide. UNESCO picks organisations first, then volunteers apply to each project.",
-    "caution": "The project list for 2027 is expected around early 2027.",
+    "summary": "Volunteer projects at World Heritage sites. UNESCO selects organisations, then volunteers apply to individual projects.",
+    "caution": "2026 guidance schedules the 2027 organisation call for November/December 2026. No guaranteed early-2027 project-list release or fixed 14-day duration.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
         "label": "WHV 2026 campaign (UNESCO)",
         "url": "https://whc.unesco.org/en/volunteers2026"
+      },
+      {
+        "label": "Official historical campaign guidance",
+        "url": "https://whc.unesco.org/document/223940"
+      }
+    ],
+    "format": "Project-specific; historical minimum 10 days, ideally 2–3 weeks"
+  },
+  {
+    "id": "dubai-create-ai-agents",
+    "title": "Create AI Agents Championship",
+    "host": "Dubai Chamber of Digital Economy",
+    "location": "Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "AI",
+      "Entrepreneurship",
+      "Competition"
+    ],
+    "kind": "Competition",
+    "role": "Competitor",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "summary": "Multi-month AI-agent development competition; finale advertised for the first week of May 2027.",
+    "fundingSummary": "Free entry, workshops and mentorship. Four winners receive US$150,000 each.",
+    "costs": "Prizes are not participation or travel funding. Development time, travel and business obligations are not covered by a generic grant.",
+    "eligibility": "Individuals or teams of up to six; all ages, with category-specific rules. Original participant-owned intellectual property is required. Winners must establish a Dubai company.",
+    "caution": "English page says registration until January 2027, without an exact day; older Arabic material says December. Verify the current deadline. This is not a short funded retreat.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official competition",
+        "url": "https://www.dubaichambers.com/en/web/dubai-chamber-of-digital-economy/create-ai-agents"
+      },
+      {
+        "label": "Official registration",
+        "url": "https://myhub.dubaichamber.com/en/web/dubai-chamber-of-digital-economy/create-ai-agents-register-your-interest"
+      }
+    ],
+    "format": "Multi-month competition; May 2027 finale"
+  },
+  {
+    "id": "dubai-future-week-2026",
+    "title": "Dubai Future Week · Grandmaster Challenge",
+    "host": "Dubai Future Foundation",
+    "location": "Emirates Towers, Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "AI",
+      "Innovation",
+      "Competition"
+    ],
+    "kind": "Conference",
+    "role": "Visitor",
+    "durationDays": 4,
+    "dateStart": "2026-11-18",
+    "dateEnd": "2026-11-21",
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "summary": "Dubai Future Week runs November 18–21. Grandmaster Challenge is listed November 18, 10:00–17:00.",
+    "fundingSummary": "Public registration is listed; financial support not verified.",
+    "costs": "Admission terms and travel support need confirmation.",
+    "eligibility": "Public visitor registration; no verified open contestant application.",
+    "caution": "A visitor lead, not a confirmed funded place or open competition entry.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official programme",
+        "url": "https://www.dubaifutureweek.com/en/whats-happening"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-forum-2026",
+    "title": "Tokyo Forum 2026",
+    "host": "University of Tokyo & Chey Institute",
+    "location": "Tokyo, Japan",
+    "region": "Asia",
+    "topics": [
+      "AI",
+      "Society",
+      "Governance"
+    ],
+    "kind": "Conference",
+    "role": "Participant",
+    "durationDays": 2,
+    "dateStart": "2026-11-20",
+    "dateEnd": "2026-11-21",
+    "deadline": "2026-11-21",
+    "availability": "open",
+    "funding": "free",
+    "summary": "English-language public forum on AI, society and governance.",
+    "fundingSummary": "Free admission only.",
+    "costs": "Travel, hotel and incidental costs are not funded.",
+    "eligibility": "Public and corporate participants welcome; registration subject to capacity.",
+    "caution": "Registration through November 21, subject to remaining capacity. No open speaker call verified.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official University of Tokyo event",
+        "url": "https://www.u-tokyo.ac.jp/focus/en/events/z1311_00011.html"
+      }
+    ]
+  },
+  {
+    "id": "liveability-challenge-2027",
+    "title": "The Liveability Challenge 2027",
+    "host": "Temasek Foundation",
+    "location": "Singapore",
+    "region": "Asia",
+    "topics": [
+      "Climate",
+      "Oceans",
+      "Cooling",
+      "Entrepreneurship"
+    ],
+    "kind": "Competition",
+    "role": "Finalist",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": "2027-02-12",
+    "availability": "open",
+    "funding": "conditional",
+    "summary": "Global challenge for climate, oceans and cooling solutions with a May 2027 finale.",
+    "fundingSummary": "Free entry; overseas finalists can receive conditional travel and accommodation support.",
+    "costs": "April coaching and project commitments extend beyond the finale. Exact award terms and any uncovered expenses must be confirmed.",
+    "eligibility": "Global teams with participants 18+; technology readiness level 6 and demonstrated proof of concept required.",
+    "caution": "Deadline February 12, 23:59 GMT+8. Exact finale dates not established. Not a generic individual fellowship.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official submission FAQs",
+        "url": "https://www.theliveabilitychallenge.org/faq/submission"
+      }
+    ],
+    "format": "Project competition; April coaching and May 2027 finale"
+  },
+  {
+    "id": "mas-hackcelerator-next",
+    "title": "Global FinTech Hackcelerator · next-cycle watch",
+    "host": "Monetary Authority of Singapore / GFTN",
+    "location": "Singapore",
+    "region": "Asia",
+    "topics": [
+      "AI",
+      "Wealth management",
+      "Fintech"
+    ],
+    "kind": "Competition",
+    "role": "Startup finalist",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "summary": "Market-ready fintech startup challenge; the 2026 cycle included a Julius Baer AI/private-banking wealth challenge.",
+    "fundingSummary": "2026 finalists received S$20,000 per team for travel and participation. S$80,000 prizes were separate.",
+    "costs": "Team-level support is not an unlimited individual travel scholarship. New-cycle funding is unconfirmed.",
+    "eligibility": "Market-ready startup required. The 2026 deadline was August 21 and has passed.",
+    "caution": "2026 mandatory Singapore dates November 11–13 and November 18 span eight calendar days, plus virtual preparation. No verified next-cycle call.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official Hackcelerator",
+        "url": "https://www.fintechfestival.sg/global-fintech-hackcelerator"
+      }
+    ],
+    "format": "Multi-stage startup programme"
+  },
+  {
+    "id": "hku-money-law-2027",
+    "title": "Money, Private Law and Regulation · call for papers",
+    "host": "University of Hong Kong, AIIFL",
+    "location": "Hong Kong",
+    "region": "Asia",
+    "topics": [
+      "Law",
+      "Finance",
+      "Regulation"
+    ],
+    "kind": "Speaker call",
+    "role": "Research presenter",
+    "durationDays": 2,
+    "dateStart": "2027-06-17",
+    "dateEnd": "2027-06-18",
+    "deadline": "2027-01-15",
+    "availability": "open",
+    "funding": "partial",
+    "summary": "Two-day research conference connecting money, private law and financial regulation.",
+    "fundingSummary": "No registration fee for speakers.",
+    "costs": "Travel and hotel are self-funded.",
+    "eligibility": "Practitioners and policymakers can submit original research. Abstract deadline January 15; full paper due April 30.",
+    "caution": "A research submission, not an attendance scholarship. Accepted speakers receive fee-free access only.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official conference and call",
+        "url": "https://aiifl.law.hku.hk/projects/money-private-law-and-regulation/"
+      }
+    ]
+  },
+  {
+    "id": "singapore-fintech-festival-2026",
+    "title": "Singapore FinTech Festival · trade visitor pass",
+    "host": "GFTN",
+    "location": "Singapore",
+    "region": "Asia",
+    "topics": [
+      "Fintech",
+      "Banking",
+      "AI",
+      "Investment"
+    ],
+    "kind": "Conference",
+    "role": "Trade visitor",
+    "durationDays": 3,
+    "dateStart": "2026-11-18",
+    "dateEnd": "2026-11-20",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "summary": "Fintech exhibition and selected stages with a free trade visitor pass.",
+    "fundingSummary": "Free Trade Visitor Pass for eligible visitors; access is limited by pass type.",
+    "costs": "No travel or accommodation grant established. Premium conference access may require a paid pass.",
+    "eligibility": "Trade visitors aged 16+; check current registration and access rules.",
+    "caution": "Free exhibition admission is not a fully funded conference trip.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official FAQs",
+        "url": "https://www.fintechfestival.sg/faq"
+      },
+      {
+        "label": "Festival overview",
+        "url": "https://www.fintechfestival.sg/festival-overview"
+      }
+    ]
+  },
+  {
+    "id": "eui-tax-governance-2027",
+    "title": "Global Tax Policy and Sustainable Governance",
+    "host": "European University Institute, STG",
+    "location": "Florence, Italy",
+    "region": "Europe",
+    "topics": [
+      "Tax",
+      "Governance",
+      "ESG",
+      "AI"
+    ],
+    "kind": "Course",
+    "role": "Participant",
+    "durationDays": 3,
+    "dateStart": "2027-02-17",
+    "dateEnd": "2027-02-19",
+    "deadline": "2027-01-18",
+    "availability": "watchlist",
+    "funding": "conditional",
+    "summary": "Three-day executive course on tax, governance, ESG and AI administration.",
+    "fundingSummary": "Separate scholarship policy mentions one to three full course-fee waivers; 2027 availability is unconfirmed.",
+    "costs": "€2,000 standard fee; €1,800 early registration by December 11. Travel and accommodation excluded from fee-waiver policy.",
+    "eligibility": "Course applications open until January 18. Scholarship selection and eligibility are separate.",
+    "caution": "Funding enquiry/watchlist: scholarship page’s January 11 deadline is undated and last updated in 2025. Do not assume a 2027 waiver is available.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official course",
+        "url": "https://exed.eui.eu/open-courses/global-tax-policy-and-sustainable-governance"
+      },
+      {
+        "label": "Scholarship policy",
+        "url": "https://www.eui.eu/en/academic-units/school-of-transnational-governance/the-stg-executive-training-hub/scholarships"
+      }
+    ]
+  },
+  {
+    "id": "young-bled-next",
+    "title": "Young Bled Strategic Forum · next-cycle watch",
+    "host": "Bled Strategic Forum",
+    "location": "Bled, Slovenia",
+    "region": "Europe",
+    "topics": [
+      "Policy",
+      "Leadership",
+      "Diplomacy"
+    ],
+    "kind": "Leadership programme",
+    "role": "Participant",
+    "durationDays": 5,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "summary": "Young-leaders programme alongside the Bled Strategic Forum.",
+    "fundingSummary": "Official 2026 call stated organiser-covered participation costs. Future-cycle funding is not confirmed.",
+    "costs": "Check exact travel, accommodation and incidental coverage in the next call.",
+    "eligibility": "2026 age range: 18–35. The April 19 application deadline has passed; new-cycle terms may change.",
+    "caution": "Last cycle: August 28–30 youth forum plus August 31–September 1 main forum, five days total. No verified 2027 call.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official 2026 call",
+        "url": "https://2025.bledstrategicforum.org/news/young-bled-strategic-forum-2026-applications-now-open/"
+      }
+    ]
+  },
+  {
+    "id": "harvard-investment-decisions",
+    "title": "Investment Decisions and Behavioral Finance · next-cycle watch",
+    "host": "Harvard Kennedy School",
+    "location": "Cambridge, Massachusetts, USA",
+    "region": "North America",
+    "topics": [
+      "Investment",
+      "Behavioral finance",
+      "Decision making"
+    ],
+    "kind": "Course",
+    "role": "Participant",
+    "durationDays": 3,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "summary": "Executive course connecting investment decisions and behavioural finance.",
+    "fundingSummary": "General HKS partial-tuition assistance may be available; no specific course award verified.",
+    "costs": "Last verified tuition was US$6,100. No funded-travel package established.",
+    "eligibility": "2026 course November 4–6; application deadline October 7 has passed. Next-cycle eligibility and fees need rechecking.",
+    "caution": "Closed application cycle, not a current funded offer. General financial aid policy does not establish an individual scholarship.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official course",
+        "url": "https://www.hks.harvard.edu/educational-programs/executive-education/investment-decisions-and-behavioral-finance"
+      },
+      {
+        "label": "Executive education funding policy",
+        "url": "https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-executive-education-program"
+      }
+    ]
+  },
+  {
+    "id": "harvard-leadership-decisions-2027",
+    "title": "Leadership Decision Making",
+    "host": "Harvard Kennedy School",
+    "location": "Cambridge, Massachusetts, USA",
+    "region": "North America",
+    "topics": [
+      "Leadership",
+      "Decision making",
+      "Behavioral science"
+    ],
+    "kind": "Course",
+    "role": "Participant",
+    "durationDays": 6,
+    "dateStart": "2027-06-21",
+    "dateEnd": "2027-06-26",
+    "deadline": "2027-04-26",
+    "availability": "watchlist",
+    "funding": "conditional",
+    "summary": "Six-day executive programme on leadership decisions.",
+    "fundingSummary": "Published fee includes housing and most meals. General partial-tuition assistance is discretionary, not a confirmed award.",
+    "costs": "US$11,300 published fee; travel self-funded. Any tuition assistance must be individually confirmed.",
+    "eligibility": "Course applications close April 26. Admission and financial-assistance selection are separate.",
+    "caution": "Six days. Retained as a longer-format funding enquiry, not a verified scholarship.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official course",
+        "url": "https://www.hks.harvard.edu/educational-programs/executive-education/leadership-decision-making"
+      },
+      {
+        "label": "General funding policy",
+        "url": "https://www.hks.harvard.edu/admissions-aid/funding-your-education/funding-your-executive-education-program"
       }
     ]
   },
