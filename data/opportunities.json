@@ -448,46 +448,6 @@
     ]
   },
   {
-    "id": "kubecon-eu-2027-scholarship",
-    "kind": "Scholarship",
-    "title": "KubeCon + CloudNativeCon Europe 2027 · travel / pass support",
-    "host": "Cloud Native Computing Foundation (Linux Foundation)",
-    "location": "Barcelona, Spain",
-    "region": "Europe",
-    "topics": [
-      "Engineering",
-      "AI",
-      "Cloud"
-    ],
-    "role": "Participant",
-    "durationDays": 4,
-    "dateStart": "2027-03-15",
-    "dateEnd": "2027-03-18",
-    "deadline": "2027-01-18",
-    "availability": "open",
-    "funding": "conditional",
-    "fundingSummary": "Separate need-based routes: travel grant reimburses economy travel, eligible hotel nights including the previous night and airport transfers; registration scholarship provides an All-Access pass.",
-    "costs": "Travel awards are reimbursements with programme-specific limits. Other costs and any uncovered travel remain the recipient’s responsibility.",
-    "eligibility": "Need-based support for people who could not otherwise attend. Applicants with employer funding should not apply. Travel-grant and registration-scholarship applications have different deadlines.",
-    "summary": "The largest cloud-native and platform-engineering conference in Europe, with a growing AI-infrastructure track.",
-    "caution": "Travel grant deadline: January 18, 2027. Registration-only scholarship deadline: February 5, 2027. Do not confuse a free pass with funded travel.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Scholarship application form",
-        "url": "https://www.surveymonkey.com/r/KCCNCEU27"
-      },
-      {
-        "label": "Official event page",
-        "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
-      },
-      {
-        "label": "Official scholarship and travel-funding terms",
-        "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/scholarships-travel-funding/"
-      }
-    ]
-  },
-  {
     "id": "icann-fellowship-agm-2027",
     "kind": "Fellowship",
     "title": "ICANN Fellowship · next newcomer round",
@@ -670,119 +630,6 @@
     "format": "Projects vary from 2 days to 3 weeks"
   },
   {
-    "id": "world-governments-summit-2027",
-    "kind": "Conference",
-    "title": "World Governments Summit 2027",
-    "host": "World Governments Summit Organization",
-    "location": "Dubai, UAE",
-    "region": "UAE",
-    "topics": [
-      "AI",
-      "Policy",
-      "Leadership",
-      "Innovation"
-    ],
-    "role": "Participant",
-    "durationDays": 3,
-    "dateStart": "2027-02-01",
-    "dateEnd": "2027-02-03",
-    "deadline": null,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "No verified individual travel scholarship or funded public application route.",
-    "costs": "Registration, invitation and funding terms must be confirmed with the organiser.",
-    "eligibility": "Individual attendance route not verified; check official registration/invitation arrangements.",
-    "summary": "Heads of government, ministers and tech CEOs in Dubai, with heavy AI-in-government programming.",
-    "caution": "February 1–3, 2027 dates confirmed. Do not treat local residence or institutional affiliation as an invitation.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official dates (UAE Media Office)",
-        "url": "https://mediaoffice.ae/en/news/2026/february/08-02/guided-by-the-vision-of-uae-president-and-mohammed-bin-rashid-wgs2027-set-from-1-to-3-feb"
-      },
-      {
-        "label": "Official site",
-        "url": "https://www.worldgovernmentssummit.org/"
-      }
-    ]
-  },
-  {
-    "id": "gitex-global-2026",
-    "kind": "Conference",
-    "title": "GITEX Global 2026 · summit and expo",
-    "host": "Dubai World Trade Centre",
-    "location": "Dubai World Trade Centre (summit); Dubai Exhibition Centre, Expo City (expo)",
-    "region": "UAE",
-    "topics": [
-      "AI",
-      "Engineering",
-      "Innovation"
-    ],
-    "role": "Participant",
-    "durationDays": 5,
-    "dateStart": "2026-12-07",
-    "dateEnd": "2026-12-11",
-    "deadline": null,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "No verified travel scholarship or free-ticket funding route in this scan.",
-    "costs": "Ticket prices and sponsored passes were not verified. Travel and incidental expenses are not established as covered.",
-    "eligibility": "Check the official registration terms for the desired ticket type.",
-    "summary": "December 7 summit at Dubai World Trade Centre, followed by the December 8–11 expo at Dubai Exhibition Centre, Expo City.",
-    "caution": "Two venues and separate programme dates. Removed unverified ticket-price and free-pass claims; check the official ticket route.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official site",
-        "url": "https://www.gitex.com/"
-      },
-      {
-        "label": "Discovery: event listing",
-        "url": "https://www.beri.net/events/gitex-global-2026"
-      },
-      {
-        "label": "Official 2026 dates and venues",
-        "url": "https://www.gitex.com/plan-your-visit-2026"
-      }
-    ]
-  },
-  {
-    "id": "ai-for-good-2027",
-    "kind": "Conference",
-    "title": "AI for Good Global Summit 2027",
-    "host": "ITU (UN agency) with 40+ UN partners",
-    "location": "Palexpo, Geneva, Switzerland",
-    "region": "Europe",
-    "topics": [
-      "AI",
-      "Policy",
-      "Leadership"
-    ],
-    "role": "Participant",
-    "durationDays": 4,
-    "dateStart": "2027-06-21",
-    "dateEnd": "2027-06-24",
-    "deadline": null,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "No verified 2027 travel/accommodation scholarship in this scan.",
-    "costs": "Participation fees and any financial support require confirmation; travel is not established as covered.",
-    "eligibility": "Open registration. Speaker, startup and partner calls run separately.",
-    "summary": "ITU’s cross-disciplinary AI summit at Palexpo, Geneva, June 21–24, 2027.",
-    "caution": "Official 2027 dates confirmed. Attendance, speaking and funding are separate application routes.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official site",
-        "url": "https://aiforgood.itu.int/"
-      },
-      {
-        "label": "Official 2027 summit",
-        "url": "https://2027summit.aiforgood.itu.int/"
-      }
-    ]
-  },
-  {
     "id": "pycon-us-2027-travel-grant",
     "kind": "Scholarship",
     "title": "PyCon US 2027 · travel grant watch",
@@ -816,190 +663,6 @@
         "url": "https://pycon.blogspot.com/2026/09/pycon-us-2026-recap-and-recordings.html"
       }
     ]
-  },
-  {
-    "id": "dubai-design-week-2026",
-    "kind": "Festival & culture",
-    "title": "Dubai Design Week 2026",
-    "host": "Dubai Design Week / d3",
-    "location": "Dubai Design District (d3), UAE",
-    "region": "UAE",
-    "topics": [
-      "Design",
-      "Art",
-      "Culture"
-    ],
-    "role": "Participant",
-    "durationDays": 6,
-    "dateStart": "2026-11-03",
-    "dateEnd": "2026-11-08",
-    "deadline": null,
-    "availability": "open",
-    "funding": "free",
-    "fundingSummary": "Free general entry, all ages. Separately ticketed Downtown Design runs November 4–8.",
-    "costs": "Own transport and any separately ticketed activities.",
-    "eligibility": "General festival open to all ages; individual workshops may have separate terms.",
-    "summary": "The region’s largest design festival: installations, talks, product and furniture design, and hands-on workshops.",
-    "caution": "Festival November 3–8, 2026. Downtown Design has separate admission terms.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official site",
-        "url": "https://www.dubaidesignweek.ae/"
-      },
-      {
-        "label": "Discovery: dates & what’s free",
-        "url": "https://www.emirates247.com/uae-guide/dubai-design-week-2026-dates-tickets-highlights-and-whats-free-at-the-12th-edition/7287"
-      },
-      {
-        "label": "Official visitor information",
-        "url": "https://www.dubaidesignweek.ae/visit/"
-      }
-    ]
-  },
-  {
-    "id": "sharjah-book-fair-2026",
-    "kind": "Festival & culture",
-    "title": "Sharjah International Book Fair 2026",
-    "host": "Sharjah Book Authority",
-    "location": "Expo Centre Sharjah, UAE",
-    "region": "UAE",
-    "topics": [
-      "Literature",
-      "Culture",
-      "Language"
-    ],
-    "role": "Participant",
-    "durationDays": 12,
-    "dateStart": "2026-11-04",
-    "dateEnd": "2026-11-15",
-    "deadline": null,
-    "availability": "open",
-    "funding": "unknown",
-    "fundingSummary": "Some individual workshops are explicitly free. General-entry and transport arrangements were not verified.",
-    "costs": "Confirm general admission and any specific activity costs. Own transport unless a current official shuttle is confirmed.",
-    "eligibility": "Public visitor event; individual workshops have age and booking requirements.",
-    "summary": "One of the world’s largest book fairs, with a 12-day programme of author talks and workshops.",
-    "caution": "November 4–15, 2026 dates at Expo Centre Sharjah confirmed. Workshop availability and booking vary.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official visitor information",
-        "url": "https://sibf.com/en/visit"
-      },
-      {
-        "label": "Official workshops",
-        "url": "https://sibf.com/en/activities-workshops"
-      }
-    ]
-  },
-  {
-    "id": "dubai-watch-week-2026",
-    "kind": "Festival & culture",
-    "title": "Dubai Watch Week 2027 · next-edition watch",
-    "host": "Dubai Watch Week (Ahmed Seddiqi & Sons)",
-    "location": "Burj Park, Downtown Dubai, UAE",
-    "region": "UAE",
-    "topics": [
-      "Watchmaking",
-      "Design",
-      "Culture"
-    ],
-    "role": "Participant",
-    "durationDays": 5,
-    "dateStart": "2027-11-17",
-    "dateEnd": "2027-11-21",
-    "deadline": null,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "2027 registration and fee terms are not yet verified.",
-    "costs": "Confirm admission, workshop and transport costs when the 2027 programme is published.",
-    "eligibility": "2027 age and participation requirements are not yet verified; no blanket 18+ restriction established.",
-    "summary": "Biennial horology festival with the next edition announced for November 17–21, 2027 at Dubai Mall / Burj Park.",
-    "caution": "Corrected from an unverified 2026 listing. Stable record ID retained to preserve saved notes and ratings.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official organiser announcement",
-        "url": "https://ae.linkedin.com/showcase/dubai-watch-week/"
-      },
-      {
-        "label": "Organiser-owned edition background",
-        "url": "https://seddiqiholding.com/news-and-insights/vision-driving-dubai-watch-weeks-global-ambitions-interview-hind-seddiqi"
-      }
-    ]
-  },
-  {
-    "id": "dubai-run-2026",
-    "kind": "Sport & wellbeing",
-    "title": "Dubai Run 2026 · Dubai Fitness Challenge",
-    "host": "Dubai Fitness Challenge",
-    "location": "Sheikh Zayed Road, Dubai, UAE",
-    "region": "UAE",
-    "topics": [
-      "Sport",
-      "Wellbeing"
-    ],
-    "role": "Participant",
-    "durationDays": 1,
-    "dateStart": "2026-11-22",
-    "dateEnd": "2026-11-22",
-    "deadline": null,
-    "availability": "open",
-    "funding": "free",
-    "fundingSummary": "Free; registration and an official bib are required. The wider challenge (31 Oct–29 Nov) has free daily events across the city.",
-    "costs": "Free participation; own transport and incidental costs.",
-    "eligibility": "All ages. Under-18s require adult accompaniment and guardian waiver; registration and official bib required.",
-    "summary": "Dubai Run on Sheikh Zayed Road, November 22, 2026, 06:30–09:00, with 5 km and 10 km routes.",
-    "caution": "Check registration availability and bib collection instructions before attending.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official Dubai Run",
-        "url": "https://www.dubaifitnesschallenge.com/en/dubai-run"
-      },
-      {
-        "label": "Official participation FAQs",
-        "url": "https://www.dubaifitnesschallenge.com/en/faqs"
-      }
-    ]
-  },
-  {
-    "id": "unesco-world-heritage-volunteers-2027",
-    "kind": "Festival & culture",
-    "title": "UNESCO World Heritage Volunteers 2027",
-    "host": "UNESCO World Heritage Centre",
-    "location": "World Heritage sites worldwide",
-    "region": "International",
-    "topics": [
-      "Culture",
-      "Heritage",
-      "Volunteering"
-    ],
-    "role": "Volunteer",
-    "durationDays": null,
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "Historical 2026 guidance: hosts should provide food, accommodation and local transport. 2027 project terms are not confirmed.",
-    "costs": "Historical guidance leaves travel to volunteers; partial participation fees are permitted. Check each 2027 host.",
-    "eligibility": "Youth-focused campaign: each project sets its own age range. Many accept adults, but check before applying.",
-    "summary": "Volunteer projects at World Heritage sites. UNESCO selects organisations, then volunteers apply to individual projects.",
-    "caution": "2026 guidance schedules the 2027 organisation call for November/December 2026. No guaranteed early-2027 project-list release or fixed 14-day duration.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "WHV 2026 campaign (UNESCO)",
-        "url": "https://whc.unesco.org/en/volunteers2026"
-      },
-      {
-        "label": "Official historical campaign guidance",
-        "url": "https://whc.unesco.org/document/223940"
-      }
-    ],
-    "format": "Project-specific; historical minimum 10 days, ideally 2–3 weeks"
   },
   {
     "id": "dubai-create-ai-agents",
@@ -1380,388 +1043,75 @@
     ]
   },
   {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "jlc-stellar-odyssey-workshop",
-    "kind": "Festival & culture",
-    "title": "Jaeger-LeCoultre watchmaking discovery workshop",
-    "host": "Jaeger-LeCoultre, Dubai Mall flagship",
-    "location": "The Dubai Mall, UAE",
-    "region": "UAE",
+    "id": "yenching-global-symposium-2027",
+    "kind": "Conference",
+    "title": "Yenching Global Symposium 2027 · Peking University",
+    "host": "Yenching Academy of Peking University",
+    "location": "Beijing, China",
+    "region": "Asia",
     "topics": [
-      "Watchmaking",
-      "Engineering"
+      "Leadership",
+      "Policy",
+      "Innovation",
+      "China"
     ],
-    "role": "Participant",
-    "format": "In person · 1.5 hours, max 6 people",
-    "durationDays": 1,
-    "availability": "ongoing",
-    "funding": "free",
-    "fundingSummary": "The “Stellar Odyssey” discovery workshop is free of charge and aimed at novices.",
-    "costs": "None. The hands-on Atelier d’Antoine masterclass (assembling with a watchmaker) is booked via a boutique sales associate; ask about its price.",
-    "eligibility": "Open to anyone; book online.",
-    "summary": "A small-group session in the boutique’s watchmaking room: how movements and complications work. The free workshop is mainly a talk; the masterclass is the hands-on next step.",
-    "caution": "Sessions depend on the boutique’s calendar; book through the online reservation page.",
-    "links": [
-      {
-        "label": "Book the free workshop",
-        "url": "https://online-booking.jaeger-lecoultre.com/reservations/reservation/46"
-      },
-      {
-        "label": "Atelier d’Antoine at Dubai Mall",
-        "url": "https://www.jaeger-lecoultre.com/sa-en/atelier-antoine-in-store-experiences-dubai-mall"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": "2027-04-09",
-    "dateEnd": "2027-04-11",
-    "deadline": null,
-    "id": "watches-and-wonders-2027",
-    "kind": "Festival & culture",
-    "title": "Watches and Wonders Geneva 2027 · public days",
-    "host": "Watches and Wonders Geneva Foundation",
-    "location": "Palexpo, Geneva, Switzerland",
-    "region": "Europe",
-    "topics": [
-      "Watchmaking",
-      "Design"
-    ],
-    "role": "Visitor",
-    "durationDays": 3,
-    "availability": "open",
-    "funding": "unknown",
-    "fundingSummary": "Public tickets go on sale 9 Feb 2027 on watchesandwonders.com only. Prices are not yet published. The free “In The City” programme runs across Geneva all week.",
-    "costs": "Flights and Geneva hotels: plan early, prices spike that week.",
-    "eligibility": "Public days are open to everyone with a ticket.",
-    "summary": "The world’s biggest watch fair: 75 brands including Rolex, Patek Philippe and the new Breitling stand, plus artisans demonstrating engraving, enamelling and assembly.",
-    "caution": "Buy only on the official site; scalped tickets get cancelled.",
-    "links": [
-      {
-        "label": "Official 2027 announcement (PDF)",
-        "url": "https://www.watchesandwonders.com/content/dam/waw/en/media-center/mc-geneva-2027/2026-06-23/pdf/WWG27_Press-Announcement_23.06.26_EN_Final.pdf"
-      },
-      {
-        "label": "Geneva tourism listing",
-        "url": "https://www.geneve.com/en/events/watches-and-wonders-2027"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": "2026-12-12",
-    "dateEnd": "2027-01-12",
-    "deadline": null,
-    "id": "al-dhafra-festival-2026",
-    "kind": "Festival & culture",
-    "title": "Al Dhafra Festival · camels, falconry & desert heritage",
-    "host": "Abu Dhabi Heritage Authority",
-    "location": "Al Dhafra region, Abu Dhabi, UAE",
-    "region": "UAE",
-    "topics": [
-      "Heritage",
-      "Culture",
-      "Falconry"
-    ],
-    "role": "Visitor",
-    "durationDays": 1,
-    "availability": "open",
-    "funding": "free",
-    "fundingSummary": "General entry was free in the last edition. Good as a weekend day trip.",
-    "costs": "Fuel or transport to the desert; stay overnight only if you want to.",
-    "eligibility": "Open to everyone.",
-    "summary": "Bedouin culture up close: camel beauty contests, falconry and saluki competitions, camel-milking contests and a traditional market. The finale (3–12 Jan) has the heritage competitions.",
-    "caution": "Free entry is from the 2025 listing; check the Falak Al Namoos app or abudhabiculture.ae.",
-    "links": [
-      {
-        "label": "Official dates (WAM)",
-        "url": "https://www.wam.ae/en/article/c132qw2-under-patronage-uae-president-20th-dhafra-festival"
-      },
-      {
-        "label": "Abu Dhabi Culture",
-        "url": "https://abudhabiculture.ae/en/events/al-dhafra-festival-2025"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "sikka-2027",
-    "kind": "Festival & culture",
-    "title": "Sikka Art & Design Festival 2027",
-    "host": "Dubai Culture & Arts Authority",
-    "location": "Al Shindagha & Al Fahidi, Dubai, UAE",
-    "region": "UAE",
-    "topics": [
-      "Art",
-      "Design",
-      "Culture"
-    ],
-    "role": "Participant",
-    "durationDays": 10,
-    "availability": "watchlist",
-    "funding": "free",
-    "fundingSummary": "Past editions were free to enter; workshops were free with registration.",
-    "costs": "None expected.",
-    "eligibility": "Open to everyone.",
-    "summary": "Ten days of art in Old Dubai’s alleyways: installations, music, and free hands-on workshops by local artists. Exact January 2027 dates are not out yet.",
-    "caution": "Register for workshops early; popular ones fill up.",
-    "links": [
-      {
-        "label": "Sikka at Dubai Culture",
-        "url": "https://dubaiculture.gov.ae/en/about-us/sikka-2025"
-      },
-      {
-        "label": "2027 edition announced",
-        "url": "https://www.artdayme.news/en/tiny/news-1332"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": "2027-01-23",
-    "dateEnd": "2027-01-25",
-    "deadline": null,
-    "id": "global-game-jam-2027",
-    "kind": "Festival & culture",
-    "title": "Global Game Jam 2027 · make a game in 48 hours",
-    "host": "Global Game Jam",
-    "location": "Local jam sites worldwide (look for a Dubai/Abu Dhabi site)",
-    "region": "International",
-    "topics": [
-      "Engineering",
-      "Design",
-      "Gaming"
-    ],
-    "role": "Participant",
-    "durationDays": 3,
-    "availability": "open",
-    "funding": "free",
-    "fundingSummary": "No cost to participants. Sites usually provide space, and often food.",
-    "costs": "None; bring a laptop.",
-    "eligibility": "Open to all skill levels. Individual registration opens 1 Dec 2026.",
-    "summary": "Join a team of strangers, get a secret theme, and ship a game in one weekend. Coders, artists, musicians and total beginners all welcome. If no UAE site appears, you can host one.",
-    "caution": "Sources disagree on 23–25 Jan vs the 25–31 Jan jam week. Check the site list on globalgamejam.org.",
-    "links": [
-      {
-        "label": "Official site",
-        "url": "https://globalgamejam.org/"
-      },
-      {
-        "label": "2027 dates (Pocket Gamer)",
-        "url": "https://www.pocketgamer.biz/events/global-game-jam-2027/"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "wwoof-italy-harvest",
-    "kind": "Festival & culture",
-    "title": "Grape harvest on an Italian vineyard · WWOOF Italia",
-    "host": "WWOOF Italia",
-    "location": "Organic farms across Italy (e.g. Piedmont, Veneto)",
-    "region": "Europe",
-    "topics": [
-      "Winemaking",
-      "Language",
-      "Italian",
-      "Nature"
-    ],
-    "role": "Volunteer",
-    "durationDays": 14,
-    "availability": "watchlist",
-    "funding": "partial",
-    "fundingSummary": "Free room and meals on the farm in exchange for about half a day of work. Membership is about €25–35/year and includes insurance.",
-    "costs": "Membership fee, flights, visa if needed.",
-    "eligibility": "18+. You pick the host and agree dates directly; one- or two-week stays are common.",
-    "summary": "Learn winemaking from the vine up during the vendemmia (Sep–Oct), live with an Italian family, and practise your Italian every day. Many hosts also make olive oil or cheese.",
-    "caution": "Harvest dates depend on the weather. Contact hosts in spring and confirm visa rules for your passport.",
-    "links": [
-      {
-        "label": "WWOOF Italia",
-        "url": "https://www.wwoof.it/en/"
-      },
-      {
-        "label": "Membership & insurance FAQ",
-        "url": "https://help.wwoof.net/hc/en-us/sections/16604461035933-Memberships"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "angloville-english-mentor",
-    "kind": "Festival & culture",
-    "title": "Angloville · free stay in Central Europe for English speakers",
-    "host": "Angloville",
-    "location": "Resorts in Poland, Hungary and other Central European countries",
-    "region": "Europe",
-    "topics": [
-      "Language",
-      "Culture",
-      "Travel"
-    ],
-    "role": "Volunteer",
-    "format": "In person · 3–11 day programmes",
+    "role": "Delegate",
     "durationDays": 7,
-    "availability": "ongoing",
-    "funding": "partial",
-    "fundingSummary": "Free hotel and all meals during the programme in exchange for conversation with local professionals and students.",
-    "costs": "Flights not included.",
-    "eligibility": "18+. Native English speakers, or non-native speakers who can show native-level English. No teaching experience needed.",
-    "summary": "Spend a week chatting, playing games and doing presentations with locals who want to practise English. A cheap way to see a new country and meet people.",
-    "caution": "Listings conflict on whether non-native speakers qualify; ask them directly when applying.",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "full",
+    "verifiedAt": "2026-11-02",
+    "fundingSummary": "2026 delegates had flights, lodging, food and local transport covered.",
+    "costs": "Visa fees, and any travel before or after the symposium.",
+    "eligibility": "2026 rules: born on or after May 1995, bachelor’s degree or higher, strong English, and no previous attendance. You are right at the age limit, so check your birth month against the 2027 rule.",
+    "summary": "A selective, fully funded week in Beijing run by Peking University’s Yenching Academy: talks with Chinese and international leaders, site visits and a strong alumni network.",
+    "caution": "The 2026 deadline was 5 Jan 2026, so expect the 2027 call around Dec 2026–Jan 2027. Funding details come from aggregator sites; confirm with the organisers.",
     "links": [
       {
-        "label": "Angloville",
-        "url": "https://www.angloville.com/"
+        "label": "Discovery: past call (Opportunity Desk)",
+        "url": "https://opportunitydesk.org/2024/01/08/yenching-global-symposium-2024-fully-funded-to-china/"
       },
       {
-        "label": "Discovery: volunteer listing",
-        "url": "https://youthtimemag.com/volunteer-abroad-and-discover-europe-for-free-with-angloville"
+        "label": "Discovery: 2026 eligibility",
+        "url": "https://www.heysuccess.com/opportunity/Yenching-Global-Symposium-2026-%E2%80%9CSymposium-about-China-in-China%E2%80%9D-20657"
       }
     ]
   },
   {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "pueblo-ingles-diverbo",
-    "kind": "Festival & culture",
-    "title": "Pueblo Inglés · a week in a Spanish village, free",
-    "host": "Diverbo",
-    "location": "Rural Spain (bus from Madrid)",
-    "region": "Europe",
+    "id": "mirai-japan-2027",
+    "kind": "Fellowship",
+    "title": "MIRAI Visiting Japan Program · AI Startup track",
+    "host": "Ministry of Foreign Affairs of Japan (run by JICE)",
+    "location": "Tokyo and other cities, Japan",
+    "region": "Asia",
     "topics": [
-      "Language",
-      "Spanish",
-      "Culture",
-      "Travel"
-    ],
-    "role": "Volunteer",
-    "format": "In person · about 1 week",
-    "durationDays": 7,
-    "availability": "ongoing",
-    "funding": "partial",
-    "fundingSummary": "All accommodation and three meals a day during the programme, in exchange for speaking English with Spanish professionals.",
-    "costs": "Your flight to Madrid and any nights before the bus departs.",
-    "eligibility": "Adults who speak English fluently; check whether they require native speakers.",
-    "summary": "Spanish executives pay to be immersed in English. You keep them talking over long Spanish lunches. Great for your beginner Spanish too.",
-    "caution": "Diverbo’s website did not load when checked on 2 Nov 2026, so the programme may have changed or stopped. Search “Pueblo Inglés” for the current organiser before planning. Older sources only.",
-    "links": [
-      {
-        "label": "Discovery: Matador Network",
-        "url": "https://matadornetwork.com/change/pueblo-ingles-quite-possibly-the-single-best-volunteer-experience-in-spain"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "vipassana-10-day",
-    "kind": "Sport & wellbeing",
-    "title": "Vipassana 10-day silent meditation retreat",
-    "host": "Vipassana Meditation (S.N. Goenka tradition)",
-    "location": "Centres worldwide; check dhamma.org for the nearest",
-    "region": "International",
-    "topics": [
-      "Wellbeing",
-      "Meditation"
+      "AI",
+      "Innovation",
+      "Japan"
     ],
     "role": "Participant",
-    "format": "In person · 10 days residential, silent",
-    "durationDays": 10,
-    "availability": "ongoing",
-    "funding": "free",
-    "fundingSummary": "Course, lodging and meals are completely free. Only people who have finished a course may donate.",
-    "costs": "Travel to the centre.",
-    "eligibility": "Open to anyone who can commit to the full 10 days and the code of discipline (no phone, no talking).",
-    "summary": "Ten days of silence and about 10 hours of meditation a day. Hard but famously life-changing.",
-    "caution": "Popular courses fill months ahead. Check the worldwide schedule for Gulf or Caucasus courses.",
+    "durationDays": 7,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "full",
+    "verifiedAt": "2026-11-02",
+    "fundingSummary": "Fully covered by Japan’s Ministry of Foreign Affairs: return economy flight, accommodation, meals, insurance, local transport and activity fees.",
+    "costs": "None during the programme.",
+    "eligibility": "Citizenship-based. Each round targets specific countries (Europe, Western Balkans, Central Asia and the Caucasus), and the Central Asia and Caucasus round had an “AI Startup” group open to young professionals. You apply through the Japanese embassy of your country of citizenship. Check the age rule in the official guidelines.",
+    "summary": "A one-week official Japanese government visit: AI startups, companies and government briefings, cultural visits, plus a certificate of completion and the MIRAI alumni network.",
+    "caution": "The 2026/27 round (Japan, 20–26 Jan 2027) closed around late August 2026. Watch the Japanese embassy page of your citizenship country from spring 2027.",
     "links": [
       {
-        "label": "Worldwide course schedule",
-        "url": "https://www.dhamma.org/en/courses/search"
+        "label": "Embassy of Japan in Tajikistan (Central Asia & Caucasus AI track)",
+        "url": "https://www.tj.emb-japan.go.jp/itprtop_ru/11_000001_00910.html"
       },
       {
-        "label": "How courses are funded",
-        "url": "https://austria.dhamma.org/about-vipassana/course-finances"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "areni-wine-festival-2027",
-    "kind": "Festival & culture",
-    "title": "Areni Wine Festival 2027",
-    "host": "Areni community / Armenia Travel",
-    "location": "Areni village, Vayots Dzor, Armenia",
-    "region": "Armenia",
-    "topics": [
-      "Winemaking",
-      "Culture",
-      "Heritage"
-    ],
-    "role": "Visitor",
-    "durationDays": 1,
-    "availability": "watchlist",
-    "funding": "free",
-    "fundingSummary": "Free entry (2026 edition).",
-    "costs": "Travel to Armenia and transport from Yerevan (about 2 hours).",
-    "eligibility": "Open to everyone.",
-    "summary": "Village wine festival next to the cave where the world’s oldest known winery was found. Tastings, grape-stomping, music and food. Usually the first Saturday of October.",
-    "caution": "The 2027 date is not announced yet.",
-    "links": [
-      {
-        "label": "Armenia Travel event page",
-        "url": "https://armenia.travel/events/areni-wine-festival/"
-      }
-    ]
-  },
-  {
-    "verifiedAt": "2026-11-02",
-    "dateStart": null,
-    "dateEnd": null,
-    "deadline": null,
-    "id": "yerevan-wine-days-2027",
-    "kind": "Festival & culture",
-    "title": "Yerevan Wine Days 2027",
-    "host": "Yerevan Wine Days",
-    "location": "Central Yerevan, Armenia",
-    "region": "Armenia",
-    "topics": [
-      "Winemaking",
-      "Culture"
-    ],
-    "role": "Visitor",
-    "durationDays": 3,
-    "availability": "watchlist",
-    "funding": "unknown",
-    "fundingSummary": "The street festival is open to walk around; tastings are usually paid per glass.",
-    "costs": "Tastings, travel.",
-    "eligibility": "Open to everyone.",
-    "summary": "Three days of Armenian winemakers on Saryan Street in early June. A good way to meet small producers and arrange winery visits.",
-    "caution": "2027 dates are not announced; it is usually early June.",
-    "links": [
-      {
-        "label": "Official site",
-        "url": "https://www.yerewinedays.am/en/yerevan-wine-days/"
+        "label": "MIRAI 2026/27 FAQ (PDF)",
+        "url": "https://www.rycowb.org/wp-content/uploads/2026/08/FAQ-MIRAI-Program-2026-2027.pdf"
       }
     ]
   }
