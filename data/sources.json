@@ -1,0 +1,379 @@
+[
+  {
+    "id": "opportunity-desk",
+    "name": "Opportunity Desk",
+    "url": "https://opportunitydesk.org/category/training-and-conference/",
+    "category": "Funding & fellowships",
+    "topics": [
+      "Policy",
+      "Leadership",
+      "Training"
+    ],
+    "region": "Global",
+    "description": "Training, conferences and scholarship calls across disciplines.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "for9a",
+    "name": "For9a",
+    "url": "https://www.for9a.com/en",
+    "category": "Funding & fellowships",
+    "topics": [
+      "Training",
+      "Leadership",
+      "Scholarships"
+    ],
+    "region": "Global",
+    "description": "Opportunity directory with funding, nationality and subject filters.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "oya-opportunities",
+    "name": "OYA Opportunities",
+    "url": "https://oyaop.com/opportunities/conferences/?mode=grid",
+    "category": "Funding & fellowships",
+    "topics": [
+      "Conferences",
+      "Leadership",
+      "Policy"
+    ],
+    "region": "Global",
+    "description": "International conference and scholarship listings.",
+    "caution": "Some listings remain marked ongoing after deadlines; verify the current cycle and organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "cfp-watch",
+    "name": "CFP Watch",
+    "url": "https://cfp.watch/",
+    "category": "Speaking",
+    "topics": [
+      "Engineering",
+      "AI",
+      "Design"
+    ],
+    "region": "Global",
+    "description": "Speaker calls with travel, hotel and fee information.",
+    "caution": "Benefits and limits differ by conference; confirm against the actual CFP.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "dev-events",
+    "name": "dev.events",
+    "url": "https://dev.events/",
+    "category": "Technology",
+    "topics": [
+      "Engineering",
+      "AI",
+      "Software"
+    ],
+    "region": "Global",
+    "description": "Developer and technology conference discovery.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "confs-tech",
+    "name": "Confs.tech",
+    "url": "https://confs.tech/",
+    "category": "Technology",
+    "topics": [
+      "Engineering",
+      "Software",
+      "Data"
+    ],
+    "region": "Global",
+    "description": "Community-maintained technology conference and CFP directory.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "fintech-news",
+    "name": "FinTech News events",
+    "url": "https://fintechnews.sg/fintech-events-worldwide/",
+    "category": "Finance",
+    "topics": [
+      "Fintech",
+      "Banking",
+      "Investing"
+    ],
+    "region": "Global",
+    "description": "Worldwide fintech events calendar.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "fintech-weekly",
+    "name": "FinTech Weekly conferences",
+    "url": "https://www.fintechweekly.com/fintech-conferences/",
+    "category": "Finance",
+    "topics": [
+      "Fintech",
+      "Banking"
+    ],
+    "region": "Global",
+    "description": "Finance and technology conference listings.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "altallo",
+    "name": "Altallo events",
+    "url": "https://www.altallo.com/events",
+    "category": "Finance",
+    "topics": [
+      "Investing",
+      "Finance"
+    ],
+    "region": "Global",
+    "description": "Financial-industry event discovery.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "liquidityfinder",
+    "name": "LiquidityFinder events",
+    "url": "https://liquidityfinder.com/events",
+    "category": "Finance",
+    "topics": [
+      "Markets",
+      "Trading",
+      "Fintech"
+    ],
+    "region": "Global",
+    "description": "Financial-market, trading and fintech event calendar.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "researchcal",
+    "name": "ResearchCal",
+    "url": "https://researchcal.com/",
+    "category": "Policy & research",
+    "topics": [
+      "Politics",
+      "Economics",
+      "Finance",
+      "International relations"
+    ],
+    "region": "Global",
+    "description": "Multi-organizer research events and calls for papers.",
+    "caution": "Academic-heavy; check whether practitioner participation is supported.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "psa",
+    "name": "Political Studies Association listings",
+    "url": "https://www.psa.ac.uk/events/listings/",
+    "category": "Policy & research",
+    "topics": [
+      "Politics",
+      "Policy"
+    ],
+    "region": "United Kingdom / Global",
+    "description": "Political-science event listings including external organizers.",
+    "caution": "Often UK-focused and academic; conference funding is not implied.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "10times-dubai",
+    "name": "10times · Dubai",
+    "url": "https://10times.com/dubai-ae",
+    "category": "Broad events",
+    "topics": [
+      "Business",
+      "Banking",
+      "Technology",
+      "Law"
+    ],
+    "region": "UAE",
+    "description": "Broad Dubai event discovery across business and professional fields.",
+    "caution": "Sponsored and directory entries can contain incorrect dates or venues; verify independently.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "10times-armenia",
+    "name": "10times · Armenia",
+    "url": "https://10times.com/armenia",
+    "category": "Broad events",
+    "topics": [
+      "Business",
+      "Technology",
+      "Healthcare",
+      "Culture"
+    ],
+    "region": "Armenia",
+    "description": "Cross-sector Armenia conference and exhibition listings.",
+    "caution": "Some directory dates and venues conflict; use organizer and venue confirmation.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "clocate",
+    "name": "Clocate",
+    "url": "https://www.clocate.com/",
+    "category": "Broad events",
+    "topics": [
+      "Business",
+      "Policy",
+      "Science",
+      "Technology"
+    ],
+    "region": "Global",
+    "description": "Broad conference directory across disciplines.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "conference-alerts",
+    "name": "Conference Alerts (Conal)",
+    "url": "https://conferencealerts.com/",
+    "category": "Broad events",
+    "topics": [
+      "Science",
+      "Humanities",
+      "Economics",
+      "Engineering"
+    ],
+    "region": "Global",
+    "description": "Academic and professional conference discovery.",
+    "caution": "This is ConferenceAlerts.com (Conal), not similarly named directories. Listing is not an endorsement.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "eventbrite-dubai",
+    "name": "Eventbrite · Dubai",
+    "url": "https://www.eventbrite.com/d/united-arab-emirates--dubai/events/",
+    "category": "Broad events",
+    "topics": [
+      "Business",
+      "Culture",
+      "Workshops"
+    ],
+    "region": "UAE",
+    "description": "Local workshops, professional events and community gatherings.",
+    "caution": "Free admission does not imply travel or accommodation funding.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "eventseye-uae",
+    "name": "EventsEye · UAE",
+    "url": "https://www.eventseye.com/fairs/c1_trade-shows_uae-united-arab-emirates.html",
+    "category": "Broad events",
+    "topics": [
+      "Business",
+      "Industry",
+      "Trade"
+    ],
+    "region": "UAE",
+    "description": "Trade-show and exhibition calendar.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "tradefairdates",
+    "name": "TradeFairDates",
+    "url": "https://www.tradefairdates.com/",
+    "category": "Broad events",
+    "topics": [
+      "Industry",
+      "Trade",
+      "Business"
+    ],
+    "region": "Global",
+    "description": "International trade-fair and exhibition discovery.",
+    "caution": "Use for discovery; verify dates, eligibility and funding with the organizer.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "esora",
+    "name": "Esora · Yerevan",
+    "url": "https://esora.app/en/yerevan",
+    "category": "Local events",
+    "topics": [
+      "Culture",
+      "Design",
+      "Business",
+      "Workshops"
+    ],
+    "region": "Armenia",
+    "description": "Local events and ticketing, including interactive workshops and creative festivals.",
+    "caution": "Ticket listing establishes advertised access, not a speaking invitation or travel grant.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "darpass",
+    "name": "Darpass events",
+    "url": "https://darpass.com/events/",
+    "category": "Local events",
+    "topics": [
+      "Technology",
+      "Business",
+      "Leadership"
+    ],
+    "region": "Armenia",
+    "description": "Armenian technology and business event calendar.",
+    "caution": "Check organizer dates: some listing metadata has been inconsistent with event descriptions.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "tomsarkgh",
+    "name": "Tomsarkgh",
+    "url": "https://www.tomsarkgh.am/en",
+    "category": "Local events",
+    "topics": [
+      "Culture",
+      "Arts",
+      "Entertainment"
+    ],
+    "region": "Armenia",
+    "description": "Armenian cultural events and ticketing.",
+    "caution": "Many listings are performances rather than participatory learning or networking.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "imf-youth",
+    "name": "IMF youth opportunities",
+    "url": "https://www.imf.org/en/about/partners/youth",
+    "category": "Institutional",
+    "topics": [
+      "Economics",
+      "Policy"
+    ],
+    "region": "Global",
+    "description": "Official IMF youth initiatives hub.",
+    "caution": "Historical pages and alumni activities do not establish a current fellowship call.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "salzburg",
+    "name": "Salzburg Global programmes",
+    "url": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society",
+    "category": "Institutional",
+    "topics": [
+      "Culture",
+      "Policy",
+      "Cross-disciplinary"
+    ],
+    "region": "Global",
+    "description": "Official residential-programme and scholarship information.",
+    "caution": "Scholarships are programme-specific; travel is only sometimes supported.",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "one-young-world",
+    "name": "One Young World",
+    "url": "https://www.oneyoungworld.com/future-summits",
+    "category": "Institutional",
+    "topics": [
+      "Leadership",
+      "Development",
+      "Climate"
+    ],
+    "region": "Global",
+    "description": "Official summit dates and a starting point for sponsor-specific scholarships.",
+    "caution": "Check each scholarship’s age, country, impact and coverage requirements; summit dates alone do not mean funding is open.",
+    "verifiedAt": "2026-11-02"
+  }
+]

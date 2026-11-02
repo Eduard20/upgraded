@@ -1,0 +1,375 @@
+[
+  {
+    "id": "dutch-ai-2027",
+    "title": "Dutch AI Conference · speaker call",
+    "host": "Dutch AI Conference",
+    "location": "Amsterdam, Netherlands",
+    "region": "Europe",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Leadership"
+    ],
+    "role": "Speaker",
+    "durationDays": 1,
+    "dateStart": "2027-03-18",
+    "dateEnd": "2027-03-18",
+    "deadline": "2026-12-18",
+    "availability": "open",
+    "funding": "partial",
+    "fundingSummary": "Selected international speakers: organizer-booked travel, airport transfers, two hotel nights, conference access, speaker dinner and afterparty. Workshop speakers receive three hotel nights.",
+    "costs": "Visa, insurance and meals outside the stated package are not explicitly covered. No application fee stated.",
+    "eligibility": "Open to all ages. Selection is competitive; proposals can cover applied AI, architecture, ethics, team management and soft skills.",
+    "summary": "Contribute a practical talk and meet engineers and leaders. The AI conference is one day; sister conferences run March 16–19.",
+    "caution": "Core travel and accommodation are explicit, but not every incidental expense. Confirm exact itinerary with the organizer before booking.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official call and speaker benefits",
+        "url": "https://aiconference.nl/call-for-papers-is-open-speak-at-the-dutch-ai-conference/"
+      },
+      {
+        "label": "Discovery: CFP Watch",
+        "url": "https://cfp.watch/cfps/2027-dutch-ai-conference/"
+      }
+    ]
+  },
+  {
+    "id": "devsum-2027",
+    "title": "DevSum · speaker call",
+    "host": "DevSum",
+    "location": "Stockholm, Sweden",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "AI",
+      "Leadership"
+    ],
+    "role": "Speaker",
+    "durationDays": 2,
+    "dateStart": "2027-05-27",
+    "dateEnd": "2027-05-28",
+    "deadline": "2026-12-08",
+    "availability": "open",
+    "funding": "partial",
+    "fundingSummary": "Selected speakers receive travel and hotel coverage and free conference admission.",
+    "costs": "Meal, visa, insurance and reimbursement-cap details were not established in the inspected call.",
+    "eligibility": "Competitive talk selection. No age restriction identified in the inspected call; verify any additional requirements before submission.",
+    "summary": "Two-day developer conference with a funded speaking route.",
+    "caution": "CFP closes December 8 at 23:59 CET. Detailed coverage and payment arrangements need confirmation.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official submission and terms",
+        "url": "https://sessionize.com/devsum-2027"
+      }
+    ]
+  },
+  {
+    "id": "pixel-pioneers-2027",
+    "title": "Pixel Pioneers · speaker call",
+    "host": "Pixel Pioneers",
+    "location": "Bristol, United Kingdom",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "Design",
+      "Web"
+    ],
+    "role": "Speaker",
+    "durationDays": 1,
+    "dateStart": "2027-06-11",
+    "dateEnd": "2027-06-11",
+    "deadline": "2027-03-20",
+    "availability": "open",
+    "funding": "partial",
+    "fundingSummary": "Speaking fee plus travel and hotel support are stated by the organizer.",
+    "costs": "Airfare limits, incidental expenses and exact payment arrangements were not verified.",
+    "eligibility": "Competitive speaker selection; front-end and UX perspectives. No age restriction identified in the inspected call.",
+    "summary": "Compact conference bringing together web developers and designers.",
+    "caution": "Travel support is not an independently confirmed promise to pay every trip expense.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official speaker call",
+        "url": "https://pixelpioneers.co/call-for-speakers"
+      }
+    ]
+  },
+  {
+    "id": "csis-aila-2027",
+    "title": "AILA International Fellowship",
+    "host": "Center for Strategic and International Studies (CSIS)",
+    "location": "Washington, D.C., United States",
+    "region": "North America",
+    "topics": [
+      "Geopolitics",
+      "Leadership",
+      "Policy"
+    ],
+    "role": "Fellow",
+    "durationDays": 5,
+    "dateStart": "2027-05-10",
+    "dateEnd": "2027-05-14",
+    "deadline": "2027-01-11",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Extremely limited full or partial tuition scholarships. Published application guidance generally prioritizes nonprofit and developing-country applicants.",
+    "costs": "Standard tuition: US$5,000. Travel and lodging are not covered; budget for these even if tuition is waived.",
+    "eligibility": "International and corporate professionals can apply. Scholarship eligibility and selection are separate from programme eligibility.",
+    "summary": "Five-day executive leadership programme exploring global strategy and policy.",
+    "caution": "Not a fully funded trip. The inspected 2026 application explicitly excludes travel/lodging assistance; check the 2027 award terms before accepting.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official 2027 programme",
+        "url": "https://www.csis.org/index.php/executive-education/courses/aila-international-fellowship"
+      },
+      {
+        "label": "Scholarship limits: official application, question 26",
+        "url": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-09/Spring%202026%20AILA%20International%20Fellowship%20Application%20-%20PDF_0.pdf"
+      }
+    ]
+  },
+  {
+    "id": "hisa-fdf-2027",
+    "title": "Future Diplomats Forum · advertised scholarships",
+    "host": "Headway Institute of Strategic Alliance (HISA)",
+    "location": "Geneva, Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Diplomacy",
+      "Policy",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "durationDays": 4,
+    "dateStart": "2027-02-10",
+    "dateEnd": "2027-02-13",
+    "deadline": "2026-11-10",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Private organizer advertises 50 full scholarships including round-trip airfare, twin-share hotel, meals, transfers and forum access; its FAQ also lists visa costs.",
+    "costs": "US$16.50 application fee, non-refundable and non-transferable for funded categories. Travel must be paid upfront; policy says reimbursement takes 4–8 weeks after attendance and bank-detail submission.",
+    "eligibility": "Published age range: 18–45. Competitive application considered across three funding tiers. Results advertised for November 25.",
+    "summary": "Short diplomacy forum with advertised funding; a lead for further due diligence rather than an institutional endorsement.",
+    "caution": "No official UN/UN Geneva/UNESCO partnership or vetting established. No airfare cap found in inspected terms, which does not guarantee unlimited reimbursement. Confirm written award and refund terms before spending.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official event",
+        "url": "https://headwayinstitute.org/future-diplomats-forum-2027-geneva/"
+      },
+      {
+        "label": "Application, deadline and fee",
+        "url": "https://headwayinstitute.org/product/fully-funded-form-fdf-2027-in-geneva-switzerland/"
+      },
+      {
+        "label": "Refund and reimbursement policy",
+        "url": "https://headwayinstitute.org/refund-policy/"
+      }
+    ]
+  },
+  {
+    "id": "cgdl-ygf-2027",
+    "title": "Youth Global Forum · advertised scholarships",
+    "host": "Centre for Global Dialogue and Leadership (CGDL)",
+    "location": "Paris, France",
+    "region": "Europe",
+    "topics": [
+      "Diplomacy",
+      "Policy",
+      "Leadership"
+    ],
+    "role": "Participant",
+    "durationDays": 4,
+    "dateStart": "2027-01-20",
+    "dateEnd": "2027-01-23",
+    "deadline": "2026-11-20",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Private organizer advertises 30 funded places including hotel, meals and airfare support.",
+    "costs": "US$16.99 non-refundable application fee. Airfare reimbursement is capped at an amount set by CGDL; the inspected terms do not publish the cap. Travel is normally not advanced.",
+    "eligibility": "Published age range: 16–46. Competitive funded-place selection.",
+    "summary": "Four-day international forum with a partially funded or capped-reimbursement route.",
+    "caution": "No official UN/UNESCO partnership or vetting established. Institutional visits depend on availability and approval. Do not treat the advertised “fully funded” label as guaranteed full airfare.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official event and application",
+        "url": "https://thecgdl.org/ygf2027/"
+      },
+      {
+        "label": "Official terms, section 12",
+        "url": "https://thecgdl.org/term-conditions/"
+      }
+    ]
+  },
+  {
+    "id": "world-bank-youth-summit",
+    "title": "World Bank Youth Summit · next pitch cycle",
+    "host": "World Bank Group",
+    "location": "Washington, D.C., United States",
+    "region": "North America",
+    "topics": [
+      "Development",
+      "Entrepreneurship",
+      "Economics",
+      "Technology"
+    ],
+    "role": "Pitch finalist",
+    "durationDays": 2,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "fundingSummary": "The 2026 competition said travel, lodging and a nominal stipend may be provided for one representative per finalist team, subject to eligibility and availability.",
+    "costs": "Other team members and general attendance are not automatically funded. Visa remains the participant’s responsibility; support letters may be offered.",
+    "eligibility": "Past cycle: ages 18–35 and World Bank member-country nationality. Idea-stage entries and working professionals were eligible. New-cycle terms must be rechecked.",
+    "summary": "Institutional pitch competition worth watching for a concrete development or technology solution.",
+    "caution": "No verified 2027 application call found. Last verified summit was June 11–12, 2026 and has passed. No separate “Tech Leader Track” was established.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official 2026 summit",
+        "url": "https://www.worldbank.org/en/events/2026/06/11/youth-summit-2026-future-works-designing-jobs-for-the-digital-age"
+      },
+      {
+        "label": "Official competition FAQs",
+        "url": "https://www.worldbank.org/content/dam/photos/768x384/2026/jan/PC26%20FAQs.pdf"
+      }
+    ]
+  },
+  {
+    "id": "one-young-world-2027",
+    "title": "One Young World · Tokyo scholarship watch",
+    "host": "One Young World",
+    "location": "Tokyo, Japan",
+    "region": "Asia",
+    "topics": [
+      "Leadership",
+      "Climate",
+      "Human rights",
+      "Health",
+      "Development"
+    ],
+    "role": "Scholarship delegate",
+    "durationDays": 4,
+    "dateStart": "2027-09-28",
+    "dateEnd": "2027-10-01",
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "fundingSummary": "Past corporate scholarships have covered airfare, accommodation, summit access and specified meals. Each award has its own terms.",
+    "costs": "2027 scholarship terms and application fees, if any, have not been established. Some programmes include extra pre-summit days.",
+    "eligibility": "Many awards target ages 18–30 but some past schemes considered over-30 applicants. Relevant demonstrated impact, nationality and residence rules vary by sponsor.",
+    "summary": "Four-day global summit with multiple competitive scholarship programmes.",
+    "caution": "Summit dates are announced, but matching 2027 scholarship calls were not verified open. Past awards are not current offers or proof of age eligibility.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official future summits",
+        "url": "https://www.oneyoungworld.com/future-summits"
+      },
+      {
+        "label": "Example past award: Audi 2026",
+        "url": "https://www.oneyoungworld.com/scholarship/audi-environmental-foundation-scholarship-2026"
+      }
+    ]
+  },
+  {
+    "id": "salzburg-global",
+    "title": "Salzburg Global · programme watch",
+    "host": "Salzburg Global",
+    "location": "Salzburg, Austria",
+    "region": "Europe",
+    "topics": [
+      "Culture",
+      "Policy",
+      "Economics",
+      "Cross-disciplinary"
+    ],
+    "role": "Fellow",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "conditional",
+    "fundingSummary": "Programme-specific scholarships can cover session costs and room/board. Travel support exists only in some cases.",
+    "costs": "Travel or other expenses may remain self-funded. Institutional support is encouraged where available.",
+    "eligibility": "Selection depends on the programme’s subject matter and professional contribution. No blanket short-course scholarship for corporate participants.",
+    "summary": "Small residential discussions bringing different professions together.",
+    "caution": "No verified open call meeting a five-day maximum and broadly applicable eligibility in this scan. Cultural Futures Forum 2027 was closed; other inspected calls were six days or restricted by residence/theme.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official programme and scholarship policy",
+        "url": "https://www.salzburgglobal.org/topics/culture/culture-arts-and-society"
+      }
+    ]
+  },
+  {
+    "id": "imf-youth-fellowship",
+    "title": "IMF Youth Fellowship · next-call watch",
+    "host": "International Monetary Fund",
+    "location": "Location to be announced",
+    "region": "Global",
+    "topics": [
+      "Economics",
+      "Policy",
+      "Development"
+    ],
+    "role": "Fellow",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Historical editions included funded attendance, but current award terms have not been established.",
+    "costs": "Unknown until a new official call is published.",
+    "eligibility": "Historical age and leadership requirements must not be assumed to apply to a future edition.",
+    "summary": "Potential IMF route when a new official recruitment cycle is published.",
+    "caution": "No verified open 2026/2027 call found. An alumni reunion is not a new fellowship application.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official IMF youth hub",
+        "url": "https://www.imf.org/en/about/partners/youth"
+      }
+    ]
+  },
+  {
+    "id": "imf-cef-commercial-bank",
+    "title": "IMF CEF courses · eligibility restriction",
+    "host": "IMF Middle East Center for Economics and Finance",
+    "location": "Kuwait / programme-specific",
+    "region": "Middle East",
+    "topics": [
+      "Economics",
+      "Finance",
+      "Policy"
+    ],
+    "role": "Government official",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "excluded",
+    "funding": "conditional",
+    "fundingSummary": "Eligible nominated government officials may receive economy travel, hotel, meals and an incidental allowance.",
+    "costs": "Allowances may not cover all additional expenses.",
+    "eligibility": "Standard residential training explicitly excludes commercial-bank employees and requires eligible government-agency employment and official nomination.",
+    "summary": "Retained as an eligibility note to avoid repeatedly recommending the wrong route.",
+    "caution": "Commercial-bank seniority or regional residence does not satisfy government-official eligibility.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official administrative and eligibility terms",
+        "url": "https://www.cef.imf.org/content/cef-imf/en1/Training/AdministrativeArrangements.html"
+      }
+    ]
+  }
+]
