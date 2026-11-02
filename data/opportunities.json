@@ -1214,5 +1214,149 @@
         "url": "https://2021.hack.digitalfestival.ch/faq"
       }
     ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": null,
+    "availability": "watchlist",
+    "id": "atcoder-world-tour-finals-2027",
+    "kind": "Competition",
+    "title": "AtCoder World Tour Finals 2027 · Tokyo",
+    "host": "AtCoder (Japan)",
+    "location": "Tokyo, Japan",
+    "region": "Asia",
+    "topics": [
+      "Engineering",
+      "Algorithms",
+      "Japan"
+    ],
+    "role": "Competitor",
+    "format": "Qualify through a year of online AtCoder contests; top 12 invited to Tokyo",
+    "funding": "full",
+    "fundingSummary": "For the 2025 finals the organisers covered finalists’ flights and hotels in Tokyo. The 2027 terms are not yet published.",
+    "costs": "None for finalists if the 2025 terms repeat.",
+    "eligibility": "Open to anyone; you qualify by ranking among the top 12 on the season’s qualifying contests (Algorithm or Heuristic track). AHC069 in July 2026 already counted toward 2027.",
+    "summary": "The world final of Japan’s main competitive-programming platform. The Heuristic (optimisation) track rewards practical engineering more than pure algorithm puzzles.",
+    "caution": "Very elite: realistic only if you already compete seriously. The online contests themselves are free practice.",
+    "links": [
+      {
+        "label": "WTF 2026 announcement",
+        "url": "https://atcoder.jp/posts/1394"
+      },
+      {
+        "label": "WTF 2025 announcement (travel covered)",
+        "url": "https://atcoder.jp/posts/1164"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": null,
+    "availability": "watchlist",
+    "id": "dubai-police-esports",
+    "kind": "Competition",
+    "title": "Dubai Police Esports Tournament · next edition",
+    "host": "Dubai Police",
+    "location": "Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Esports",
+      "Gaming"
+    ],
+    "role": "Competitor",
+    "format": "Online qualifiers + live finals in Dubai",
+    "funding": "free",
+    "fundingSummary": "Free to enter; the prize pool has reached up to AED 200,000.",
+    "costs": "None. It is local to you.",
+    "eligibility": "The 5th edition (Aug 2025) was open to ages 10–35, so you qualify.",
+    "summary": "A government-run esports tournament across several titles, with big cash prizes and finals in Dubai.",
+    "caution": "No 2026/27 edition has been announced yet; past editions ran in the summer.",
+    "links": [
+      {
+        "label": "5th edition (Khaleej Times)",
+        "url": "https://www.khaleejtimes.com/uae/dubai-police-esports-dh200000-prize"
+      },
+      {
+        "label": "Registration announcement (WAM)",
+        "url": "https://www.wam.ae/en/article/bkxzp9v-dubai-police-opens-registration-for-5th-esports"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": null,
+    "availability": "watchlist",
+    "id": "dubai-esports-festival-2027",
+    "kind": "Competition",
+    "title": "Dubai Esports & Games Festival 2027 · amateur tournaments",
+    "host": "Dubai Esports & Games Festival (with Red Bull, EA SPORTS and others)",
+    "location": "Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Esports",
+      "Gaming"
+    ],
+    "role": "Competitor",
+    "format": "Spring qualifiers; live finals at the festival (May–June)",
+    "funding": "free",
+    "fundingSummary": "Amateur brackets, such as Red Bull’s FC 26 Championship (AED 5,000 prize), were free for UAE residents, with finals on the festival stage.",
+    "costs": "None.",
+    "eligibility": "UAE residents; the Red Bull FC bracket required age 16+.",
+    "summary": "The city’s main gaming festival runs several open amateur tournaments that end in live finals in Dubai.",
+    "caution": "The 2027 line-up is not announced. Brackets open around April.",
+    "links": [
+      {
+        "label": "2026 Red Bull FC 26 bracket",
+        "url": "https://tbreak.com/red-bull-fc-26-tournament-uae-2026/"
+      },
+      {
+        "label": "Festival announcement (WAM)",
+        "url": "https://www.wam.ae/en/article/bywhja1-dubai-esports-games-festival-kick-off-may"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": null,
+    "availability": "watchlist",
+    "id": "uae-open-chess-2027",
+    "kind": "Competition",
+    "title": "Dubai Open & Sharjah Masters chess · 2027",
+    "host": "Dubai Chess & Culture Club / Sharjah Cultural & Chess Club",
+    "location": "Dubai and Sharjah, UAE",
+    "region": "UAE",
+    "topics": [
+      "Chess"
+    ],
+    "role": "Competitor",
+    "format": "FIDE-rated open tournaments, about 9 rounds over 8–9 days",
+    "funding": "unknown",
+    "fundingSummary": "Local to you. Entry fees for amateur players are not stated in the sources; titled players often get free entry or conditions.",
+    "costs": "Entry fee (check with the clubs).",
+    "eligibility": "Open tournaments: Sharjah Masters has A (2500+), B and C sections for lower-rated players; the Dubai Open is a long-running international open.",
+    "summary": "The two strongest international chess opens in the UAE (Dubai’s has run 25 editions), with grandmasters from dozens of countries. You can earn a FIDE rating at home.",
+    "caution": "2027 dates are not announced. Recent editions ran April–June.",
+    "links": [
+      {
+        "label": "Sharjah Masters 2026 (ChessBase India)",
+        "url": "https://chessbase.in/news/sharjah-masters-9th-edition-starts-from-20th-april-2026"
+      },
+      {
+        "label": "Dubai Open (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Dubai_Open_Chess_Tournament"
+      }
+    ]
   }
 ]
