@@ -734,38 +734,6 @@
     ]
   },
   {
-    "id": "tokyo-forum-2026",
-    "title": "Tokyo Forum 2026",
-    "host": "University of Tokyo & Chey Institute",
-    "location": "Tokyo, Japan",
-    "region": "Asia",
-    "topics": [
-      "AI",
-      "Society",
-      "Governance"
-    ],
-    "kind": "Conference",
-    "role": "Participant",
-    "durationDays": 2,
-    "dateStart": "2026-11-20",
-    "dateEnd": "2026-11-21",
-    "deadline": "2026-11-21",
-    "availability": "open",
-    "funding": "free",
-    "summary": "English-language public forum on AI, society and governance.",
-    "fundingSummary": "Free admission only.",
-    "costs": "Travel, hotel and incidental costs are not funded.",
-    "eligibility": "Public and corporate participants welcome; registration subject to capacity.",
-    "caution": "Registration through November 21, subject to remaining capacity. No open speaker call verified.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official University of Tokyo event",
-        "url": "https://www.u-tokyo.ac.jp/focus/en/events/z1311_00011.html"
-      }
-    ]
-  },
-  {
     "id": "liveability-challenge-2027",
     "title": "The Liveability Challenge 2027",
     "host": "Temasek Foundation",
@@ -861,43 +829,6 @@
       {
         "label": "Official conference and call",
         "url": "https://aiifl.law.hku.hk/projects/money-private-law-and-regulation/"
-      }
-    ]
-  },
-  {
-    "id": "singapore-fintech-festival-2026",
-    "title": "Singapore FinTech Festival · trade visitor pass",
-    "host": "GFTN",
-    "location": "Singapore",
-    "region": "Asia",
-    "topics": [
-      "Fintech",
-      "Banking",
-      "AI",
-      "Investment"
-    ],
-    "kind": "Conference",
-    "role": "Trade visitor",
-    "durationDays": 3,
-    "dateStart": "2026-11-18",
-    "dateEnd": "2026-11-20",
-    "deadline": null,
-    "availability": "open",
-    "funding": "free",
-    "summary": "Fintech exhibition and selected stages with a free trade visitor pass.",
-    "fundingSummary": "Free Trade Visitor Pass for eligible visitors; access is limited by pass type.",
-    "costs": "No travel or accommodation grant established. Premium conference access may require a paid pass.",
-    "eligibility": "Trade visitors aged 16+; check current registration and access rules.",
-    "caution": "Free exhibition admission is not a fully funded conference trip.",
-    "verifiedAt": "2026-11-02",
-    "links": [
-      {
-        "label": "Official FAQs",
-        "url": "https://www.fintechfestival.sg/faq"
-      },
-      {
-        "label": "Festival overview",
-        "url": "https://www.fintechfestival.sg/festival-overview"
       }
     ]
   },
