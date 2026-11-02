@@ -687,7 +687,7 @@
     "fundingSummary": "Free entry, workshops and mentorship. Four winners receive US$150,000 each.",
     "costs": "Prizes are not participation or travel funding. Development time, travel and business obligations are not covered by a generic grant.",
     "eligibility": "Individuals or teams of up to six; all ages, with category-specific rules. Original participant-owned intellectual property is required. Winners must establish a Dubai company.",
-    "caution": "English page says registration until January 2027, without an exact day; older Arabic material says December. Verify the current deadline. This is not a short funded retreat.",
+    "caution": "English page says registration until January 2027, without an exact day; older Arabic material says December. Verify the current deadline. This is not a short funded retreat. Registration closes in December 2026 per Dubai government and Business Wire releases; the prototype, pitch deck and demo video are due around January 2027.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -1080,6 +1080,138 @@
       {
         "label": "ISF Asia at RSIS",
         "url": "https://rsis.edu.sg/outreach/international-strategy-forum-asia-isf-asia/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": null,
+    "id": "bis-g20-techsprint",
+    "kind": "Competition",
+    "title": "G20 TechSprint · BIS Innovation Hub",
+    "host": "Bank for International Settlements Innovation Hub with the G20 presidency’s central bank",
+    "location": "Mostly remote, with a showcase hosted by the G20 presidency",
+    "region": "International",
+    "topics": [
+      "Fintech",
+      "AI",
+      "Engineering"
+    ],
+    "role": "Team member",
+    "format": "Multi-month team challenge; call usually opens May",
+    "availability": "watchlist",
+    "funding": "conditional",
+    "fundingSummary": "Cash prizes: in 2021 each shortlisted team received €10,000 and the three winners €50,000 each. Prize levels change every year.",
+    "costs": "Your team’s time. Travel to any showcase is not guaranteed to be paid.",
+    "eligibility": "Open to global teams from companies, startups and individuals, with no age limit. In 2025, 165+ teams from 30+ countries took part. You may need Emirates NBD’s permission if you enter on work topics.",
+    "summary": "The central bankers’ own hackathon: each year the G20 presidency and the BIS set real problem statements (CBDC, green finance, regtech) and select finalists. Winners are announced by the BIS and the host central bank, which looks strong on a banker’s CV.",
+    "caution": "No 2026/27 call was found yet. Past calls opened in May and closed in early July.",
+    "links": [
+      {
+        "label": "2025 winners (BIS press release)",
+        "url": "https://www.bis.org/press/p251111.htm"
+      },
+      {
+        "label": "G20 TechSprint 2025 (SARB)",
+        "url": "https://www.resbank.co.za/en/home/what-we-do/fintech/techsprint"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": "2027-06-24",
+    "dateEnd": "2027-06-24",
+    "deadline": null,
+    "durationDays": null,
+    "id": "ai-for-good-innovation-factory-2027",
+    "kind": "Competition",
+    "title": "AI for Good Innovation Factory 2027 · startup pitching",
+    "host": "ITU (UN agency for digital technologies)",
+    "location": "Online monthly pitches; Grand Finale in Geneva",
+    "region": "International",
+    "topics": [
+      "AI",
+      "Innovation",
+      "Entrepreneurship"
+    ],
+    "role": "Founder",
+    "format": "Monthly pitching rounds Sep 2026–May 2027; finale 24 Jun 2027",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Winners of the regional or thematic rounds get sponsored travel and accommodation for one representative to the AI for Good Global Summit in Geneva.",
+    "costs": "Only round winners are funded; other finalists pay their own way.",
+    "eligibility": "AI startups solving a UN Sustainable Development Goal problem. You need a startup or a serious side venture to pitch.",
+    "summary": "A UN-run pitch competition with a Geneva grand finale on the main AI for Good stage, plus mentoring and investor exposure.",
+    "caution": "Only relevant if you have or plan an AI venture. Pick the round that matches your theme on the Innovation Factory page.",
+    "links": [
+      {
+        "label": "Official Innovation Factory page",
+        "url": "https://aiforgood.itu.int/about/innovation-factory/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": 3,
+    "id": "junction-2027",
+    "kind": "Competition",
+    "title": "Junction 2027 · Europe’s largest hackathon",
+    "host": "Junction (Aalto University community)",
+    "location": "Espoo/Helsinki, Finland",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "AI"
+    ],
+    "role": "Hacker",
+    "availability": "watchlist",
+    "funding": "partial",
+    "fundingSummary": "A limited number of travel grants (2026: up to €300) go to the strongest international applications. Food and a place to sleep at the venue are usually provided.",
+    "costs": "Flights beyond the grant.",
+    "eligibility": "Open application; selection is competitive. No upper age limit stated.",
+    "summary": "1,000+ engineers and designers build for company challenges over one weekend in November, with sponsor prizes and recruiting.",
+    "caution": "The 2026 travel-grant deadline was 6 Sep 2026; expect the 2027 call in summer.",
+    "links": [
+      {
+        "label": "Junction 2026 listing (City of Espoo)",
+        "url": "https://www.espoo.fi/en/events/espooevents:agp767vqb4"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "durationDays": 3,
+    "id": "hackzurich-2027",
+    "kind": "Competition",
+    "title": "HackZurich 2027",
+    "host": "HackZurich (Digital Festival Zurich)",
+    "location": "Zurich, Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "AI"
+    ],
+    "role": "Hacker",
+    "availability": "watchlist",
+    "funding": "partial",
+    "fundingSummary": "Past editions reimbursed travel by distance, up to CHF 300 from outside Europe, if you attended in person and submitted a project. Food and venue are provided.",
+    "costs": "Flights beyond the cap; hotel if you don’t sleep at the venue.",
+    "eligibility": "Competitive application, usually opening in June. No upper age limit stated.",
+    "summary": "One of Europe’s biggest hackathons, built around corporate challenges from Swiss banks, insurers and tech firms. Good networking for a fintech engineer.",
+    "caution": "Dates and caps come from the 2022–23 FAQs; check hackzurich.com for 2027.",
+    "links": [
+      {
+        "label": "Past FAQ (reimbursement rules)",
+        "url": "https://2021.hack.digitalfestival.ch/faq"
       }
     ]
   }
