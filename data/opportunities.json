@@ -957,5 +957,391 @@
         "url": "https://whc.unesco.org/en/volunteers2026"
       }
     ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "jlc-stellar-odyssey-workshop",
+    "kind": "Festival & culture",
+    "title": "Jaeger-LeCoultre watchmaking discovery workshop",
+    "host": "Jaeger-LeCoultre, Dubai Mall flagship",
+    "location": "The Dubai Mall, UAE",
+    "region": "UAE",
+    "topics": [
+      "Watchmaking",
+      "Engineering"
+    ],
+    "role": "Participant",
+    "format": "In person · 1.5 hours, max 6 people",
+    "durationDays": 1,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "The “Stellar Odyssey” discovery workshop is free of charge and aimed at novices.",
+    "costs": "None. The hands-on Atelier d’Antoine masterclass (assembling with a watchmaker) is booked via a boutique sales associate; ask about its price.",
+    "eligibility": "Open to anyone; book online.",
+    "summary": "A small-group session in the boutique’s watchmaking room: how movements and complications work. The free workshop is mainly a talk; the masterclass is the hands-on next step.",
+    "caution": "Sessions depend on the boutique’s calendar; book through the online reservation page.",
+    "links": [
+      {
+        "label": "Book the free workshop",
+        "url": "https://online-booking.jaeger-lecoultre.com/reservations/reservation/46"
+      },
+      {
+        "label": "Atelier d’Antoine at Dubai Mall",
+        "url": "https://www.jaeger-lecoultre.com/sa-en/atelier-antoine-in-store-experiences-dubai-mall"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": "2027-04-09",
+    "dateEnd": "2027-04-11",
+    "deadline": null,
+    "id": "watches-and-wonders-2027",
+    "kind": "Festival & culture",
+    "title": "Watches and Wonders Geneva 2027 · public days",
+    "host": "Watches and Wonders Geneva Foundation",
+    "location": "Palexpo, Geneva, Switzerland",
+    "region": "Europe",
+    "topics": [
+      "Watchmaking",
+      "Design"
+    ],
+    "role": "Visitor",
+    "durationDays": 3,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Public tickets go on sale 9 Feb 2027 on watchesandwonders.com only. Prices are not yet published. The free “In The City” programme runs across Geneva all week.",
+    "costs": "Flights and Geneva hotels: plan early, prices spike that week.",
+    "eligibility": "Public days are open to everyone with a ticket.",
+    "summary": "The world’s biggest watch fair: 75 brands including Rolex, Patek Philippe and the new Breitling stand, plus artisans demonstrating engraving, enamelling and assembly.",
+    "caution": "Buy only on the official site; scalped tickets get cancelled.",
+    "links": [
+      {
+        "label": "Official 2027 announcement (PDF)",
+        "url": "https://www.watchesandwonders.com/content/dam/waw/en/media-center/mc-geneva-2027/2026-06-23/pdf/WWG27_Press-Announcement_23.06.26_EN_Final.pdf"
+      },
+      {
+        "label": "Geneva tourism listing",
+        "url": "https://www.geneve.com/en/events/watches-and-wonders-2027"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": "2026-12-12",
+    "dateEnd": "2027-01-12",
+    "deadline": null,
+    "id": "al-dhafra-festival-2026",
+    "kind": "Festival & culture",
+    "title": "Al Dhafra Festival · camels, falconry & desert heritage",
+    "host": "Abu Dhabi Heritage Authority",
+    "location": "Al Dhafra region, Abu Dhabi, UAE",
+    "region": "UAE",
+    "topics": [
+      "Heritage",
+      "Culture",
+      "Falconry"
+    ],
+    "role": "Visitor",
+    "durationDays": 1,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "General entry was free in the last edition. Good as a weekend day trip.",
+    "costs": "Fuel or transport to the desert; stay overnight only if you want to.",
+    "eligibility": "Open to everyone.",
+    "summary": "Bedouin culture up close: camel beauty contests, falconry and saluki competitions, camel-milking contests and a traditional market. The finale (3–12 Jan) has the heritage competitions.",
+    "caution": "Free entry is from the 2025 listing; check the Falak Al Namoos app or abudhabiculture.ae.",
+    "links": [
+      {
+        "label": "Official dates (WAM)",
+        "url": "https://www.wam.ae/en/article/c132qw2-under-patronage-uae-president-20th-dhafra-festival"
+      },
+      {
+        "label": "Abu Dhabi Culture",
+        "url": "https://abudhabiculture.ae/en/events/al-dhafra-festival-2025"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "sikka-2027",
+    "kind": "Festival & culture",
+    "title": "Sikka Art & Design Festival 2027",
+    "host": "Dubai Culture & Arts Authority",
+    "location": "Al Shindagha & Al Fahidi, Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Art",
+      "Design",
+      "Culture"
+    ],
+    "role": "Participant",
+    "durationDays": 10,
+    "availability": "watchlist",
+    "funding": "free",
+    "fundingSummary": "Past editions were free to enter; workshops were free with registration.",
+    "costs": "None expected.",
+    "eligibility": "Open to everyone.",
+    "summary": "Ten days of art in Old Dubai’s alleyways: installations, music, and free hands-on workshops by local artists. Exact January 2027 dates are not out yet.",
+    "caution": "Register for workshops early; popular ones fill up.",
+    "links": [
+      {
+        "label": "Sikka at Dubai Culture",
+        "url": "https://dubaiculture.gov.ae/en/about-us/sikka-2025"
+      },
+      {
+        "label": "2027 edition announced",
+        "url": "https://www.artdayme.news/en/tiny/news-1332"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": "2027-01-23",
+    "dateEnd": "2027-01-25",
+    "deadline": null,
+    "id": "global-game-jam-2027",
+    "kind": "Festival & culture",
+    "title": "Global Game Jam 2027 · make a game in 48 hours",
+    "host": "Global Game Jam",
+    "location": "Local jam sites worldwide (look for a Dubai/Abu Dhabi site)",
+    "region": "International",
+    "topics": [
+      "Engineering",
+      "Design",
+      "Gaming"
+    ],
+    "role": "Participant",
+    "durationDays": 3,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "No cost to participants. Sites usually provide space, and often food.",
+    "costs": "None; bring a laptop.",
+    "eligibility": "Open to all skill levels. Individual registration opens 1 Dec 2026.",
+    "summary": "Join a team of strangers, get a secret theme, and ship a game in one weekend. Coders, artists, musicians and total beginners all welcome. If no UAE site appears, you can host one.",
+    "caution": "Sources disagree on 23–25 Jan vs the 25–31 Jan jam week. Check the site list on globalgamejam.org.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://globalgamejam.org/"
+      },
+      {
+        "label": "2027 dates (Pocket Gamer)",
+        "url": "https://www.pocketgamer.biz/events/global-game-jam-2027/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "wwoof-italy-harvest",
+    "kind": "Festival & culture",
+    "title": "Grape harvest on an Italian vineyard · WWOOF Italia",
+    "host": "WWOOF Italia",
+    "location": "Organic farms across Italy (e.g. Piedmont, Veneto)",
+    "region": "Europe",
+    "topics": [
+      "Winemaking",
+      "Language",
+      "Italian",
+      "Nature"
+    ],
+    "role": "Volunteer",
+    "durationDays": 14,
+    "availability": "watchlist",
+    "funding": "partial",
+    "fundingSummary": "Free room and meals on the farm in exchange for about half a day of work. Membership is about €25–35/year and includes insurance.",
+    "costs": "Membership fee, flights, visa if needed.",
+    "eligibility": "18+. You pick the host and agree dates directly; one- or two-week stays are common.",
+    "summary": "Learn winemaking from the vine up during the vendemmia (Sep–Oct), live with an Italian family, and practise your Italian every day. Many hosts also make olive oil or cheese.",
+    "caution": "Harvest dates depend on the weather. Contact hosts in spring and confirm visa rules for your passport.",
+    "links": [
+      {
+        "label": "WWOOF Italia",
+        "url": "https://www.wwoof.it/en/"
+      },
+      {
+        "label": "Membership & insurance FAQ",
+        "url": "https://help.wwoof.net/hc/en-us/sections/16604461035933-Memberships"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "angloville-english-mentor",
+    "kind": "Festival & culture",
+    "title": "Angloville · free stay in Central Europe for English speakers",
+    "host": "Angloville",
+    "location": "Resorts in Poland, Hungary and other Central European countries",
+    "region": "Europe",
+    "topics": [
+      "Language",
+      "Culture",
+      "Travel"
+    ],
+    "role": "Volunteer",
+    "format": "In person · 3–11 day programmes",
+    "durationDays": 7,
+    "availability": "ongoing",
+    "funding": "partial",
+    "fundingSummary": "Free hotel and all meals during the programme in exchange for conversation with local professionals and students.",
+    "costs": "Flights not included.",
+    "eligibility": "18+. Native English speakers, or non-native speakers who can show native-level English. No teaching experience needed.",
+    "summary": "Spend a week chatting, playing games and doing presentations with locals who want to practise English. A cheap way to see a new country and meet people.",
+    "caution": "Listings conflict on whether non-native speakers qualify; ask them directly when applying.",
+    "links": [
+      {
+        "label": "Angloville",
+        "url": "https://www.angloville.com/"
+      },
+      {
+        "label": "Discovery: volunteer listing",
+        "url": "https://youthtimemag.com/volunteer-abroad-and-discover-europe-for-free-with-angloville"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "pueblo-ingles-diverbo",
+    "kind": "Festival & culture",
+    "title": "Pueblo Inglés · a week in a Spanish village, free",
+    "host": "Diverbo",
+    "location": "Rural Spain (bus from Madrid)",
+    "region": "Europe",
+    "topics": [
+      "Language",
+      "Spanish",
+      "Culture",
+      "Travel"
+    ],
+    "role": "Volunteer",
+    "format": "In person · about 1 week",
+    "durationDays": 7,
+    "availability": "ongoing",
+    "funding": "partial",
+    "fundingSummary": "All accommodation and three meals a day during the programme, in exchange for speaking English with Spanish professionals.",
+    "costs": "Your flight to Madrid and any nights before the bus departs.",
+    "eligibility": "Adults who speak English fluently; check whether they require native speakers.",
+    "summary": "Spanish executives pay to be immersed in English. You keep them talking over long Spanish lunches. Great for your beginner Spanish too.",
+    "caution": "Diverbo’s website did not load when checked on 2 Nov 2026, so the programme may have changed or stopped. Search “Pueblo Inglés” for the current organiser before planning. Older sources only.",
+    "links": [
+      {
+        "label": "Discovery: Matador Network",
+        "url": "https://matadornetwork.com/change/pueblo-ingles-quite-possibly-the-single-best-volunteer-experience-in-spain"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "vipassana-10-day",
+    "kind": "Sport & wellbeing",
+    "title": "Vipassana 10-day silent meditation retreat",
+    "host": "Vipassana Meditation (S.N. Goenka tradition)",
+    "location": "Centres worldwide; check dhamma.org for the nearest",
+    "region": "International",
+    "topics": [
+      "Wellbeing",
+      "Meditation"
+    ],
+    "role": "Participant",
+    "format": "In person · 10 days residential, silent",
+    "durationDays": 10,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "Course, lodging and meals are completely free. Only people who have finished a course may donate.",
+    "costs": "Travel to the centre.",
+    "eligibility": "Open to anyone who can commit to the full 10 days and the code of discipline (no phone, no talking).",
+    "summary": "Ten days of silence and about 10 hours of meditation a day. Hard but famously life-changing.",
+    "caution": "Popular courses fill months ahead. Check the worldwide schedule for Gulf or Caucasus courses.",
+    "links": [
+      {
+        "label": "Worldwide course schedule",
+        "url": "https://www.dhamma.org/en/courses/search"
+      },
+      {
+        "label": "How courses are funded",
+        "url": "https://austria.dhamma.org/about-vipassana/course-finances"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "areni-wine-festival-2027",
+    "kind": "Festival & culture",
+    "title": "Areni Wine Festival 2027",
+    "host": "Areni community / Armenia Travel",
+    "location": "Areni village, Vayots Dzor, Armenia",
+    "region": "Armenia",
+    "topics": [
+      "Winemaking",
+      "Culture",
+      "Heritage"
+    ],
+    "role": "Visitor",
+    "durationDays": 1,
+    "availability": "watchlist",
+    "funding": "free",
+    "fundingSummary": "Free entry (2026 edition).",
+    "costs": "Travel to Armenia and transport from Yerevan (about 2 hours).",
+    "eligibility": "Open to everyone.",
+    "summary": "Village wine festival next to the cave where the world’s oldest known winery was found. Tastings, grape-stomping, music and food. Usually the first Saturday of October.",
+    "caution": "The 2027 date is not announced yet.",
+    "links": [
+      {
+        "label": "Armenia Travel event page",
+        "url": "https://armenia.travel/events/areni-wine-festival/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-02",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "id": "yerevan-wine-days-2027",
+    "kind": "Festival & culture",
+    "title": "Yerevan Wine Days 2027",
+    "host": "Yerevan Wine Days",
+    "location": "Central Yerevan, Armenia",
+    "region": "Armenia",
+    "topics": [
+      "Winemaking",
+      "Culture"
+    ],
+    "role": "Visitor",
+    "durationDays": 3,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "The street festival is open to walk around; tastings are usually paid per glass.",
+    "costs": "Tastings, travel.",
+    "eligibility": "Open to everyone.",
+    "summary": "Three days of Armenian winemakers on Saryan Street in early June. A good way to meet small producers and arrange winery visits.",
+    "caution": "2027 dates are not announced; it is usually early June.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://www.yerewinedays.am/en/yerevan-wine-days/"
+      }
+    ]
   }
 ]
