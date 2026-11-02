@@ -405,8 +405,8 @@
     "fundingSummary": "Free meeting ticket, travel and accommodation, plus coaching, public-speaking training and a peer group.",
     "costs": "No stipend mentioned. Visa and some travel costs may not be fully covered; reimbursement is not possible for residents of certain countries.",
     "eligibility": "18+ and resident in the RIPE NCC service region (the UAE is in it). You must work or study in a field directly tied to Internet technical coordination/operations. General IT or software roles alone are not enough. You must pass the free RIPE 101 course quiz before you are invited to apply.",
-    "summary": "A week at Europe’s main network-operator meeting: routing, DNS, security, policy. A strong fit only if your bank role touches infrastructure, networking or Internet security.",
-    "caution": "Deadline is 23 Nov 2026 and the RIPE 101 quiz comes first, so start now. Frame your infrastructure/ops responsibilities clearly.",
+    "summary": "A week at Europe’s main network-operator meeting (routing, DNS, security, Internet policy), with your ticket, travel and hotel paid.",
+    "caution": "Engineers qualify if their work touches networks, infrastructure, cloud or platform operations, DNS or security. Pure app or software development alone is not enough, so put the infrastructure side of your role first. Pass the RIPE 101 quiz before 23 Nov.",
     "verifiedAt": "2026-11-02",
     "links": [
       {
@@ -978,6 +978,282 @@
       {
         "label": "FutureLearn course page",
         "url": "https://www.futurelearn.com/courses/learn-italian"
+      }
+    ]
+  },
+  {
+    "id": "dubai-design-week-2026",
+    "kind": "Festival & culture",
+    "title": "Dubai Design Week 2026",
+    "host": "Dubai Design Week / d3",
+    "location": "Dubai Design District (d3), UAE",
+    "region": "UAE",
+    "topics": [
+      "Design",
+      "Art",
+      "Culture"
+    ],
+    "role": "Participant",
+    "durationDays": 6,
+    "dateStart": "2026-11-03",
+    "dateEnd": "2026-11-08",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free entry. Most workshops are free walk-ins; some need pre-registration.",
+    "costs": "Downtown Design (4–8 Nov) is ticketed. Parking and transport are on you.",
+    "eligibility": "Open to everyone.",
+    "summary": "The region’s largest design festival: installations, talks, product and furniture design, and hands-on workshops.",
+    "caution": "It starts tomorrow. Check dubaidesignweek.ae for workshops that need booking.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://www.dubaidesignweek.ae/"
+      },
+      {
+        "label": "Discovery: dates & what’s free",
+        "url": "https://www.emirates247.com/uae-guide/dubai-design-week-2026-dates-tickets-highlights-and-whats-free-at-the-12th-edition/7287"
+      }
+    ]
+  },
+  {
+    "id": "sharjah-book-fair-2026",
+    "kind": "Festival & culture",
+    "title": "Sharjah International Book Fair 2026",
+    "host": "Sharjah Book Authority",
+    "location": "Expo Centre Sharjah, UAE",
+    "region": "UAE",
+    "topics": [
+      "Literature",
+      "Culture",
+      "Language"
+    ],
+    "role": "Participant",
+    "durationDays": 12,
+    "dateStart": "2026-11-04",
+    "dateEnd": "2026-11-15",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free entry, with free shuttle buses announced. Registering in advance skips queues.",
+    "costs": "Books and some workshops are extra.",
+    "eligibility": "Open to everyone.",
+    "summary": "One of the world’s largest book fairs, with a 12-day programme of author talks and workshops.",
+    "caution": "Free entry comes from a guide, not the official site; confirm on sibf.com.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Dates (Khaleej Times)",
+        "url": "https://www.khaleejtimes.com/uae/sharjah-international-book-fair-2026-november-4-to-15"
+      },
+      {
+        "label": "Official site",
+        "url": "https://www.sibf.com/"
+      }
+    ]
+  },
+  {
+    "id": "dubai-watch-week-2026",
+    "kind": "Festival & culture",
+    "title": "Dubai Watch Week 2026 · free watchmaking masterclasses",
+    "host": "Dubai Watch Week (Ahmed Seddiqi & Sons)",
+    "location": "Burj Park, Downtown Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Watchmaking",
+      "Design",
+      "Culture"
+    ],
+    "role": "Participant",
+    "durationDays": 5,
+    "dateStart": "2026-11-18",
+    "dateEnd": "2026-11-22",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free admission with online pre-registration. In 2025 it included hands-on masterclasses (e.g. Hublot Watch Academy movement casing, Hermès) and collector talks.",
+    "costs": "None for entry. Popular masterclasses fill fast.",
+    "eligibility": "Open to everyone 18+ who registers.",
+    "summary": "The region’s main horology festival: brand masterclasses where you handle real movements, talks by watchmakers, and exhibitions under the Burj Khalifa.",
+    "caution": "The 2026 dates (18–22 Nov) come from one article, so confirm on dubaiwatchweek.com and book sessions as soon as registration opens.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://www.dubaiwatchweek.com/"
+      },
+      {
+        "label": "Discovery: 2026 dates",
+        "url": "https://www.luxuryproperty.com/blog/dubai-watch-week-2026"
+      }
+    ]
+  },
+  {
+    "id": "hsny-watch-lectures",
+    "kind": "Course",
+    "title": "Horological Society of New York · free watchmaking lectures",
+    "host": "Horological Society of New York",
+    "location": "Online (YouTube) + New York",
+    "region": "International",
+    "topics": [
+      "Watchmaking",
+      "Engineering"
+    ],
+    "role": "Learner",
+    "format": "Online · monthly recorded lectures",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "free",
+    "fundingSummary": "All lectures are free and recorded. They are public on YouTube after a two-month delay.",
+    "costs": "None. Membership gives instant access, and HSNY also runs hands-on courses (paid) that travel to other cities.",
+    "eligibility": "Open to everyone.",
+    "summary": "Talks by independent watchmakers (e.g. Kari Voutilainen on guilloché, Armin Strom on resonance), with years of recordings in the archive.",
+    "caution": "This is free theory. For hands-on practice, combine it with the Dubai Watch Week masterclasses.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://hs-ny.org/"
+      }
+    ]
+  },
+  {
+    "id": "dubai-run-2026",
+    "kind": "Sport & wellbeing",
+    "title": "Dubai Run 2026 · Dubai Fitness Challenge",
+    "host": "Dubai Fitness Challenge",
+    "location": "Sheikh Zayed Road, Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Sport",
+      "Wellbeing"
+    ],
+    "role": "Participant",
+    "durationDays": 1,
+    "dateStart": "2026-11-22",
+    "dateEnd": "2026-11-22",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free; registration and an official bib are required. The wider challenge (31 Oct–29 Nov) has free daily events across the city.",
+    "costs": "None.",
+    "eligibility": "Open to everyone. 5 km and 10 km routes.",
+    "summary": "Run down a closed Sheikh Zayed Road with roughly 300,000 people. The challenge month also includes free yoga, paddle and fitness villages.",
+    "caution": "Places have run out in past years, so register early on dubairun.com.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Official Dubai Run page",
+        "url": "https://www.dubaifitnesschallenge.com/en/whats-on/events/dubai-run/"
+      },
+      {
+        "label": "Dates (UAE Media Office)",
+        "url": "https://prod.mediaoffice.ae/en/news/2026/august/13-08/dubai-fitness-challenge-returns-for-tenth-edition-from-31-october-to-29-november"
+      }
+    ]
+  },
+  {
+    "id": "yale-science-of-wellbeing",
+    "kind": "Course",
+    "title": "The Science of Well-Being (Yale)",
+    "host": "Yale University on Coursera",
+    "location": "Online",
+    "region": "International",
+    "topics": [
+      "Wellbeing",
+      "Psychology",
+      "Leadership"
+    ],
+    "role": "Learner",
+    "format": "Online · self-paced, about 10 weeks light",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "ongoing",
+    "funding": "conditional",
+    "fundingSummary": "Free to audit; the certificate has historically cost about $49.",
+    "costs": "Optional certificate.",
+    "eligibility": "Open to all.",
+    "summary": "Yale’s most popular class ever, by Laurie Santos: evidence-based habits for happiness. Useful for yourself and for leading teams.",
+    "caution": "Audit terms come from older reports; check the Coursera page.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Coursera course page",
+        "url": "https://www.coursera.org/learn/the-science-of-well-being"
+      }
+    ]
+  },
+  {
+    "id": "clid-emirates-italian",
+    "kind": "Language",
+    "title": "Italian courses · CLID Emirates (Siena × Italian Cultural Institute)",
+    "host": "Università per Stranieri di Siena & Istituto Italiano di Cultura Abu Dhabi",
+    "location": "Online live classes for UAE residents",
+    "region": "UAE",
+    "topics": [
+      "Language",
+      "Italian"
+    ],
+    "role": "Learner",
+    "format": "Online live · 12-week sessions",
+    "durationDays": null,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "A paid course; fees are not published in the results. The institute also runs occasional free conversation classes during Italian Language Week.",
+    "costs": "Course fee. Ask the institute.",
+    "eligibility": "UAE residents. Levels from beginner up.",
+    "summary": "Official live Italian classes for people in the UAE. Sessions in 2026 started in January, April, July and October, so the next one likely starts in January 2027.",
+    "caution": "Not free. Listed because it is the official, most direct route for a UAE-based beginner.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "Programme page (Italian MFA)",
+        "url": "https://italiana.esteri.it/italiana/en/corsi/clid-emirates-a-collaboration-between-the-university-for-foreigners-of-siena-and-the-italian-cultural-institute-in-abu-dhabi/"
+      },
+      {
+        "label": "Institute events",
+        "url": "https://iicabudhabi.esteri.it/en/gli_eventi/calendario/"
+      }
+    ]
+  },
+  {
+    "id": "unesco-world-heritage-volunteers-2027",
+    "kind": "Festival & culture",
+    "title": "UNESCO World Heritage Volunteers 2027",
+    "host": "UNESCO World Heritage Centre",
+    "location": "World Heritage sites worldwide",
+    "region": "International",
+    "topics": [
+      "Culture",
+      "Heritage",
+      "Volunteering"
+    ],
+    "role": "Volunteer",
+    "durationDays": 14,
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Set by each host project; many camps provide food and lodging but not travel.",
+    "costs": "Usually your travel, sometimes a participation fee.",
+    "eligibility": "Youth-focused campaign: each project sets its own age range. Many accept adults, but check before applying.",
+    "summary": "Two-week-ish volunteer camps restoring and promoting World Heritage sites, worldwide. UNESCO picks organisations first, then volunteers apply to each project.",
+    "caution": "The project list for 2027 is expected around early 2027.",
+    "verifiedAt": "2026-11-02",
+    "links": [
+      {
+        "label": "WHV 2026 campaign (UNESCO)",
+        "url": "https://whc.unesco.org/en/volunteers2026"
       }
     ]
   }

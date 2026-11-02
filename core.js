@@ -1,6 +1,6 @@
 export const STATUSES = ['new', 'saved', 'applied', 'accepted', 'declined'];
 export const INTERESTS = ['like', 'dislike'];
-export const KINDS = ['Conference', 'Speaker call', 'Fellowship', 'Leadership programme', 'Scholarship', 'Course', 'Language'];
+export const KINDS = ['Conference', 'Speaker call', 'Fellowship', 'Leadership programme', 'Scholarship', 'Course', 'Language', 'Festival & culture', 'Sport & wellbeing'];
 export function safeUrl(value) { try { const url = new URL(value); return url.protocol === 'https:' ? url.href : '#'; } catch { return '#'; } }
 export function effectiveAvailability(item, today = new Date().toISOString().slice(0,10)) { return item.availability === 'open' && ((item.deadline && item.deadline < today) || (item.dateEnd && item.dateEnd < today)) ? 'closed' : item.availability; }
 function matchesInterest(filter, interest) {
