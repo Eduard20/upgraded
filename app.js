@@ -11,7 +11,7 @@ function persist(next){try{writeRecords(storage,next);records=next;return true;}
 function filters(){return Object.fromEntries(FILTERS.map(id=>[id,$(id).value]).concat([['query',$('search').value.trim()]]));}
 function render(){
 $('opportunities-tab').toggleAttribute('aria-current',tab==='opportunities');$('sources-tab').toggleAttribute('aria-current',tab==='sources');
-$(tab+'-tab').setAttribute('aria-current','page');$('filters').hidden=tab==='sources';$('scope').textContent=tab==='sources'?'Discovery first. Verify with organisers.':'Short or part-time · free or funded · 👍/👎 to teach the search';
+$(tab+'-tab').setAttribute('aria-current','page');$('filters').hidden=tab==='sources';$('scope').textContent=tab==='sources'?'Discovery first. Verify with organisers.':'UAE events + global opportunities · check costs · 👍/👎 to teach the search';
 if(tab==='sources'){
 const q=$('search').value.toLowerCase().trim();const items=sources.filter(s=>[s.name,s.category,s.region,s.description,...s.topics].join(' ').toLowerCase().includes(q));
 $('result-count').textContent=`${items.length} source${items.length===1?'':'s'}`;

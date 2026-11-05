@@ -592,5 +592,108 @@
     "description": "Startup challenges and team-level travel/participation grants.",
     "caution": "Last audited cycle closed; prizes separate from travel support.",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "tatweer-hackathon",
+    "name": "Tatweer Hackathon",
+    "url": "https://tatweerhackathon.com/hackathon",
+    "category": "Competition directory",
+    "topics": [
+      "Hackathon",
+      "Community",
+      "Climate"
+    ],
+    "description": "Official UAE hackathon editions, entry terms and build milestones.",
+    "caution": "Check mandatory milestones, open-source requirements and finalist travel costs."
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "sorbonne-abu-dhabi-events",
+    "name": "Sorbonne University Abu Dhabi · events",
+    "url": "https://www.sorbonne.ae/events",
+    "category": "University / research",
+    "topics": [
+      "AI",
+      "Law",
+      "Research",
+      "Culture"
+    ],
+    "description": "Public lectures, conferences and university workshops.",
+    "caution": "Confirm the event’s current date fields, registration route and fee; URL years can be stale."
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "step-dubai",
+    "name": "Step Dubai · volunteer opportunities",
+    "url": "https://stepconference.com/dubai/2027/volunteer",
+    "category": "Technology",
+    "topics": [
+      "Entrepreneurship",
+      "Technology"
+    ],
+    "description": "Official volunteer route into Step Dubai 2027.",
+    "caution": "Free access is conditional on selection and volunteer work; no travel funding stated."
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "gitex-conferences",
+    "name": "GITEX Global · conferences",
+    "url": "https://www.gitex.com/conference-overview-2026",
+    "category": "Technology",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Security"
+    ],
+    "description": "Official conference programme and ticket links.",
+    "caution": "Check the venue for each day and conference access in the selected ticket tier."
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "abu-dhabi-finance-week",
+    "name": "Abu Dhabi Finance Week",
+    "url": "https://www.adfw.com/",
+    "category": "Finance",
+    "topics": [
+      "Finance",
+      "AI",
+      "Fintech"
+    ],
+    "description": "ADGM’s annual finance, technology and investment event.",
+    "caution": "Pass prices, session eligibility and private-event invitations require separate checks."
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "dubai-arbitration-week",
+    "name": "Dubai Arbitration Week · calendar",
+    "url": "https://www.dubaiarbitrationweek.com/calender/",
+    "category": "Law & policy",
+    "topics": [
+      "Law",
+      "Governance",
+      "AI"
+    ],
+    "description": "Official programme of independently hosted arbitration sessions.",
+    "caution": "Registration, host approval and fees vary by session."
+  },
+  {
+    "id": "master-moves-tournaments",
+    "name": "Master Moves Chess Club · tournaments",
+    "url": "https://www.mastermoveschess.com/",
+    "category": "Competition directory",
+    "topics": [
+      "Chess"
+    ],
+    "region": "UAE",
+    "description": "Official Dubai rapid chess tournaments and regulations.",
+    "caution": "Separate adult/open sections from junior-only events; check fees and FIDE ID requirements.",
+    "verifiedAt": "2026-11-05"
   }
 ]

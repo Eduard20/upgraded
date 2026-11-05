@@ -4,7 +4,7 @@ A minimal, mobile-first opportunity tracker and source directory. Static, depend
 
 ## Use
 
-Browse open opportunities, self-paced courses or the watchlist, filter by type/funding/region/progress, and open a card for the actual coverage, eligibility, deadline and official links. Sources is the reusable discovery directory. The initial research snapshot is **2 November 2026**, not a live feed. There is no scheduled scraping or recurring search yet.
+Browse open opportunities, self-paced courses or the watchlist, filter by type/funding/region/progress, and open a card for the actual coverage, eligibility, deadline and official links. Sources is the reusable discovery directory. The initial research snapshot is **2 November 2026**, with a UAE events expansion verified **5 November 2026**. It is not a live feed. There is no scheduled scraping or recurring search yet.
 
 Statuses and private notes are saved **only in the current browser** with localStorage. No account or cross-device sync. Export/import a JSON backup to move progress between devices. Clearing site data can erase progress. Import merges records and replaces matching records only after confirmation. Event/source data in this repository is public; do not commit personal notes or CVs.
 
@@ -32,6 +32,6 @@ No third-party secrets, database or paid hosting required. Deployment still depe
 
 ## Maintain the directory
 
-Edit `data/opportunities.json` and `data/sources.json`, then run `npm test`. Each opportunity has a stable ID (used by local progress), official links, an ISO verification date, funding details and caveats. Do not rename existing IDs. Use null for unknown dates rather than guessing. Each record has a `kind` (see `KINDS` in `core.js`). Availability (`open`, `ongoing` for self-paced/rolling courses with a `format`, `watchlist`, `excluded`) is separate from personal progress. Open entries need a start date and run at most 14 days. Funding `free` is for no-cost courses. The UI automatically marks published open entries closed after their deadline or end date passes; it does not infer future calls.
+Edit `data/opportunities.json` and `data/sources.json`, then run `npm test`. Each opportunity has a stable ID (used by local progress), official links, an ISO verification date, funding details and caveats. Do not rename existing IDs. Use null for unknown dates rather than guessing. Each record has a `kind` (see `KINDS` in `core.js`). Availability (`open`, `ongoing` for self-paced/rolling courses with a `format`, `watchlist`, `excluded`) is separate from personal progress. Open entries need a start date and run at most 14 days. Funding `free` is for no-cost entry or courses, not covered travel. UAE event listings can include paid or unconfirmed access; always read the costs field. The UI automatically marks published open entries closed after their deadline or end date passes; it does not infer future calls.
 
 Funding labels are deliberately cautious: full means an advertised package, not selection or reimbursement guaranteed. Conditional means a competitive/discretionary award or unclear airfare cap. Tuition-only scholarships must not be described as fully funded travel. Private summit organisers must not be labelled UN-backed simply because an institutional visit is mentioned.

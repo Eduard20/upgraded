@@ -1289,7 +1289,7 @@
     ]
   },
   {
-    "verifiedAt": "2026-11-02",
+    "verifiedAt": "2026-11-05",
     "dateStart": null,
     "dateEnd": null,
     "deadline": null,
@@ -1306,13 +1306,13 @@
       "Gaming"
     ],
     "role": "Competitor",
-    "format": "Spring qualifiers; live finals at the festival (May–June)",
+    "format": "2027 qualifiers and live finals in Dubai; tournament dates to be confirmed",
     "funding": "free",
     "fundingSummary": "Amateur brackets, such as Red Bull’s FC 26 Championship (AED 5,000 prize), were free for UAE residents, with finals on the festival stage.",
     "costs": "None.",
     "eligibility": "UAE residents; the Red Bull FC bracket required age 16+.",
     "summary": "The city’s main gaming festival runs several open amateur tournaments that end in live finals in Dubai.",
-    "caution": "The 2027 line-up is not announced. Brackets open around April.",
+    "caution": "A current 2027 amateur tournament bracket and entry rules have not been verified. Do not infer qualifier dates from the linked 2026 examples.",
     "links": [
       {
         "label": "2026 Red Bull FC 26 bracket",
@@ -1356,6 +1356,573 @@
       {
         "label": "Dubai Open (Wikipedia)",
         "url": "https://en.wikipedia.org/wiki/Dubai_Open_Chess_Tournament"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "itu-ai-for-good-uae-2026",
+    "kind": "Competition",
+    "title": "ITU AI for Good Lab Hackathon · UAE",
+    "host": "International Telecommunication Union (ITU)",
+    "location": "Online build; Dubai, UAE finals",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Policy",
+      "Hackathon"
+    ],
+    "role": "Team member",
+    "dateStart": "2026-12-08",
+    "dateEnd": "2026-12-10",
+    "deadline": "2026-11-05",
+    "durationDays": null,
+    "format": "Online development; Dubai final 8 December and awards 10 December 2026",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Prizes include CHF 1,500, CHF 1,000 and CHF 600. Travel sponsorship is offered to selected overseas teams, not all entrants.",
+    "costs": "Entry fee and local expenses are not stated.",
+    "eligibility": "Students, researchers and professionals can contribute. Teams have at most four members, including any internal mentor.",
+    "summary": "Build an AI agent with a policy-grounded knowledge base and submit a technical report, code and knowledge base.",
+    "caution": "Registration ends 5 November, with cutoff time unspecified; submissions end 10 November. Do not confuse the two. Confirm whether registration remains available. This is separate from ITU Innovation Factory.",
+    "links": [
+      {
+        "label": "Official rules, registration and timeline",
+        "url": "https://aiforgood.itu.int/event/ai-for-good-sandbox-hackathon-united-arab-emirates/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "tatweer-al-dhafra-2026",
+    "kind": "Competition",
+    "title": "Tatweer Hackathon · Al Dhafra Edition 2",
+    "host": "Tatweer Hackathon; Ruler’s Representative Court, Al Dhafra Region; Abu Dhabi University",
+    "location": "Online build; Liwa, Al Dhafra, Abu Dhabi, UAE",
+    "topics": [
+      "Hackathon",
+      "Engineering",
+      "Climate",
+      "Community"
+    ],
+    "role": "Builder",
+    "dateStart": "2026-12-01",
+    "dateEnd": "2026-12-27",
+    "deadline": "2026-11-30",
+    "durationDays": null,
+    "format": "Build 1–19 December; selected Community teams demo 26 December, Environment teams 27 December",
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "No entry fee; AED 100,000 advertised prize pool.",
+    "costs": "Local travel, accommodation and project costs are not confirmed covered.",
+    "eligibility": "Open to people in the UAE, with no nationality restriction. Enter solo or form a team of up to five. The separate Education track is for Al Dhafra school students.",
+    "summary": "Create environmental or community solutions, with finalists presenting in Liwa.",
+    "caution": "Not just a weekend event: milestones on 5, 10, 15 and 19 December are mandatory. New code must be written during the hackathon; submissions must be open-sourced. Registration closes 30 November.",
+    "links": [
+      {
+        "label": "Official event",
+        "url": "https://tatweerhackathon.com/hackathon"
+      },
+      {
+        "label": "Registration and eligibility",
+        "url": "https://tatweerhackathon.com/register"
+      },
+      {
+        "label": "Schedule",
+        "url": "https://tatweerhackathon.com/schedule"
+      },
+      {
+        "label": "Rules and intellectual property",
+        "url": "https://tatweerhackathon.com/terms"
+      },
+      {
+        "label": "Free-entry FAQ",
+        "url": "https://tatweerhackathon.com/faq"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "figma-makeathon-dubai-2026",
+    "kind": "Competition",
+    "title": "Figma Make-a-Thon · Dubai",
+    "host": "Friends of Figma Dubai with Logitech MX",
+    "location": "in5 Tech, Dubai, UAE",
+    "topics": [
+      "Hackathon",
+      "Design",
+      "AI",
+      "Product"
+    ],
+    "role": "Participant",
+    "dateStart": "2026-11-28",
+    "dateEnd": "2026-11-28",
+    "deadline": null,
+    "durationDays": 1,
+    "format": "09:30–15:00 UAE time; 90-minute design challenge",
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free participation, refreshments and Logitech MX prizes for the top three teams.",
+    "costs": "Bring your own laptop and charger; travel is not stated as covered.",
+    "eligibility": "Solo registration and team matching are available; designers, product thinkers and people exploring AI design are welcome. Maximum 25 teams.",
+    "summary": "Build and pitch a working prototype with Figma Make and AI tools.",
+    "caution": "Spaces are limited; no cutoff is published. The event page says teams of 3–4, while the registration form reports 2–4. Confirm final team size with the organizer.",
+    "links": [
+      {
+        "label": "Official event and registration link",
+        "url": "https://friends.figma.com/events/details/figma-dubai-presents-figma-make-a-thon-create-together/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "global-ai-show-abu-dhabi-2027",
+    "kind": "Conference",
+    "title": "Global AI Show · Abu Dhabi 2027",
+    "host": "VAP Group",
+    "location": "Space42 Arena, Abu Dhabi, UAE",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Entrepreneurship",
+      "Leadership"
+    ],
+    "role": "Attendee",
+    "dateStart": "2027-03-23",
+    "dateEnd": "2027-03-24",
+    "deadline": null,
+    "durationDays": 2,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "A Standard Pass is currently advertised free. Paid upgrades are optional; no travel funding is established.",
+    "costs": "Business and VIP passes display $199 and $999. Confirm currency, taxes and the exact inclusions before payment; local travel is extra.",
+    "eligibility": "Ticket registration for AI practitioners, enterprise teams, founders and other attendees.",
+    "summary": "Two days of applied AI, agentic systems, infrastructure and business networking.",
+    "caution": "The current organizer site gives 23–24 March 2027, replacing stale November 2026 listings. Free-pass capacity and prices can change.",
+    "links": [
+      {
+        "label": "Current official dates and venue",
+        "url": "https://www.globalaishow.com/abu-dhabi/"
+      },
+      {
+        "label": "Official pass options",
+        "url": "https://www.globalaishow.com/abu-dhabi/tickets/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "sorbonne-llm-public-sector-2026",
+    "kind": "Conference",
+    "title": "LLMs in the Public Sector · Sorbonne Abu Dhabi",
+    "host": "Sorbonne University Abu Dhabi and HEG Geneva",
+    "location": "Abu Dhabi, UAE / online",
+    "topics": [
+      "AI",
+      "Governance",
+      "Policy",
+      "Sustainability"
+    ],
+    "role": "Attendee",
+    "dateStart": "2026-11-09",
+    "dateEnd": "2026-11-11",
+    "deadline": null,
+    "durationDays": 3,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "The university states attendance is free for presenters and attendees.",
+    "costs": "No travel or accommodation support established.",
+    "eligibility": "Multidisciplinary audience including technology, governance and information professionals.",
+    "summary": "Explore ethical governance and sustainability of public-sector LLM deployment.",
+    "caution": "Paper deadlines have passed; this is the attendee route. Sessions run at the SUAD campus on 9–10 November and National Library and Archives on 11 November. Registration and online session links are on the event page.",
+    "links": [
+      {
+        "label": "Official event, attendee registration and online sessions",
+        "url": "https://www.sorbonne.ae/events/conference-llms-and-their-impact-on-public-information-and-issues-of-sustainability"
+      },
+      {
+        "label": "University announcement and terms",
+        "url": "https://www.sorbonne.ae/research/partnerships-and-collaborations/collaborate-with-safir/grants-project-calls/calls-for-papers"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "maris-ai-2027",
+    "kind": "Speaker call",
+    "title": "MARIS-AI 2027 · research talk/poster call",
+    "host": "Sorbonne University Abu Dhabi",
+    "location": "Sorbonne University Abu Dhabi, UAE",
+    "topics": [
+      "AI",
+      "Robotics",
+      "Oceans",
+      "Sustainability"
+    ],
+    "role": "Research presenter",
+    "dateStart": "2027-01-20",
+    "dateEnd": "2027-01-21",
+    "deadline": "2026-11-15",
+    "durationDays": 2,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "No registration-fee waiver or travel package established.",
+    "costs": "Confirm fees and travel costs with the symposium.",
+    "eligibility": "Research contributions in marine AI, robotics and sustainability; competitive talk/poster selection. Student poster award has separate eligibility.",
+    "summary": "Two-day marine AI and robotics symposium with IEEE Oceanic Engineering Society technical sponsorship.",
+    "caution": "Paper deadline 15 November 2026. This is a specialist research route, not a general-interest speaking invitation.",
+    "links": [
+      {
+        "label": "University call",
+        "url": "https://www.sorbonne.ae/research/partnerships-and-collaborations/collaborate-with-safir/grants-project-calls/calls-for-papers"
+      },
+      {
+        "label": "Official symposium",
+        "url": "https://sites.google.com/view/maris-ai2027/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "courtside-arbitratead-2026",
+    "kind": "Conference",
+    "title": "Courtside with arbitrateAD · arbitrator conduct and AI",
+    "host": "arbitrateAD",
+    "location": "Al Tamimi & Company, Central Park Towers, DIFC, Dubai, UAE",
+    "topics": [
+      "Law",
+      "AI",
+      "Governance"
+    ],
+    "role": "Attendee",
+    "dateStart": "2026-11-11",
+    "dateEnd": "2026-11-11",
+    "deadline": null,
+    "durationDays": 1,
+    "format": "15:00–17:30 UAE time",
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free attendance at this Dubai Arbitration Week session.",
+    "costs": "Local transport and other personal costs are not stated as covered.",
+    "eligibility": "Registration is required and subject to host validation; primarily a legal and arbitration audience.",
+    "summary": "A discussion of arbitrator conduct and award challenges, including AI use in awards.",
+    "caution": "A focused professional session rather than a general AI conference. Wait for registration confirmation before attending.",
+    "links": [
+      {
+        "label": "Official event and registration",
+        "url": "https://www.dubaiarbitrationweek.com/events-2026/courtside-with-arbitratead-award-challenges-in-the-courts-based-on-arbitrator-conduct/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "healthx-ajyal-2026",
+    "kind": "Competition",
+    "title": "HealthX Ajyal Hackathon · Abu Dhabi",
+    "host": "Department of Health Abu Dhabi; delivered by Upstart Bar",
+    "location": "DOH Incubator, Masdar City, Abu Dhabi, UAE",
+    "topics": [
+      "Hackathon",
+      "AI",
+      "Health",
+      "Entrepreneurship"
+    ],
+    "role": "Team member",
+    "dateStart": "2026-11-17",
+    "dateEnd": "2026-11-22",
+    "deadline": "2026-11-14",
+    "durationDays": null,
+    "format": "Build 17–21 November; in-person hackathon and showcase 22 November",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "AED 30,000 total grants: AED 15,000 / 10,000 / 5,000. Half is paid after the grant agreement; later payments depend on milestones.",
+    "costs": "Entry fee, travel and accommodation are not stated as covered.",
+    "eligibility": "Age 18+ and able to attend in person. Teams of 2–4 must include a university student. Individuals and teams without a student can apply for matching.",
+    "summary": "Build health solutions in fertility, women’s health, longevity or Alzheimer’s disease.",
+    "caution": "Apply by 14 November, 23:59 GST. First and second place need a licensed UAE company for the final grant milestone; third place does not. This is intended to continue beyond the event. No identifiable patient data permitted.",
+    "links": [
+      {
+        "label": "Official application, schedule and grant conditions",
+        "url": "https://upstartbar.com/ajyal/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "cbuae-financial-health-challenge-2026",
+    "kind": "Competition",
+    "title": "CBUAE Financial Health Innovation Challenge · organizations",
+    "host": "Central Bank of the UAE; delivered by Alliance for Innovative Regulation",
+    "location": "UAE; matching and pilot stages include in-person participation",
+    "topics": [
+      "Fintech",
+      "Finance",
+      "Innovation"
+    ],
+    "role": "Organization applicant",
+    "dateStart": null,
+    "dateEnd": null,
+    "deadline": "2026-11-30",
+    "durationDays": null,
+    "format": "Multi-stage institutional matching and pilot programme; dates communicated to selected applicants",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Up to seven shortlisted organizations can receive AED 30,000 participation grants; approved pilots may receive up to AED 90,000 more in milestone payments.",
+    "costs": "Grants may not cover all participation or pilot expenses. Additional travel help is discretionary.",
+    "eligibility": "Organizations only, including eligible overseas firms. A tested, working, market-ready solution and ability to pilot with a UAE-licensed financial institution are required.",
+    "summary": "Develop practical solutions improving financial health for individuals or smaller businesses in the UAE.",
+    "caution": "Apply by 30 November at 23:30 GST. Not an individual idea-stage hackathon. Funding, pilots and procurement are not guaranteed; due diligence and grant agreements apply.",
+    "links": [
+      {
+        "label": "Official challenge, eligibility and application",
+        "url": "https://regulationinnovation.org/fhic/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "step-dubai-volunteer-2027",
+    "kind": "Conference",
+    "title": "Step Dubai 2027 · volunteer route",
+    "host": "Step Conference",
+    "location": "Dubai Internet City, Dubai, UAE",
+    "topics": [
+      "Technology",
+      "Entrepreneurship",
+      "AI"
+    ],
+    "role": "Volunteer",
+    "dateStart": "2027-02-03",
+    "dateEnd": "2027-02-04",
+    "deadline": null,
+    "durationDays": 2,
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "Selected volunteers receive free conference access and volunteer recognition.",
+    "costs": "Volunteer work is required. Travel, lodging and other personal expenses are not stated as covered.",
+    "eligibility": "Apply to help with attendee guidance, check-in, speakers, sessions or the pitch competition. Acceptance and duties must be confirmed by the team.",
+    "summary": "A hands-on way into Dubai’s startup and technology conference.",
+    "caution": "This is not an unconditional free attendee ticket. No application cutoff or shift schedule was published on the inspected page.",
+    "links": [
+      {
+        "label": "Official volunteer application and benefits",
+        "url": "https://stepconference.com/dubai/2027/volunteer"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "gitex-global-conferences-2026",
+    "kind": "Conference",
+    "title": "GITEX Global 2026 · summit and conferences",
+    "host": "GITEX Global / Dubai World Trade Centre",
+    "location": "Dubai World Trade Centre (7 Dec); Dubai Exhibition Centre, Expo City (8–11 Dec), UAE",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Technology",
+      "Security"
+    ],
+    "role": "Attendee",
+    "dateStart": "2026-12-07",
+    "dateEnd": "2026-12-11",
+    "deadline": null,
+    "durationDays": 5,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Ticketing is available; no attendee funding verified.",
+    "costs": "Current ticket price and taxes were not established. Check the pass needed for each conference or summit, plus local transport.",
+    "eligibility": "Register for the appropriate visitor/delegate pass. Conference, summit and exhibition access can differ.",
+    "summary": "AI, computing, robotics, cybersecurity and technology-business discussions across a summit and conference programme.",
+    "caution": "Two venues: the 7 December summit is at DWTC; 8–11 December is at Dubai Exhibition Centre, Expo City. Do not assume a basic exhibition ticket includes conference sessions.",
+    "links": [
+      {
+        "label": "Official conference dates, venues and tickets",
+        "url": "https://www.gitex.com/conference-overview-2026"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "abu-dhabi-finance-week-2026",
+    "kind": "Conference",
+    "title": "Abu Dhabi Finance Week 2026",
+    "host": "ADGM",
+    "location": "ADGM, Abu Dhabi, UAE",
+    "topics": [
+      "Finance",
+      "Fintech",
+      "AI",
+      "Investment"
+    ],
+    "role": "Attendee",
+    "dateStart": "2026-12-07",
+    "dateEnd": "2026-12-10",
+    "deadline": null,
+    "durationDays": 4,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Registration is promoted by ADGM; no participant funding verified.",
+    "costs": "Current pass prices, taxes and access tiers were not established. Travel and accommodation are not confirmed covered.",
+    "eligibility": "Register through the official event site; check individual-session and invitation requirements.",
+    "summary": "Finance, asset management, fintech, AI and sustainable-finance forums. Day three focuses on AI and financial innovation.",
+    "caution": "Registration does not imply access to every summit or private session. Overlaps GITEX on 7–10 December.",
+    "links": [
+      {
+        "label": "ADGM announcement and official registration link",
+        "url": "https://www.adgm.com/media/announcements/abu-dhabi-finance-week-2026-expands-global-reach-with-new-summits-and-strategic-partnerships"
+      },
+      {
+        "label": "Official event registration",
+        "url": "https://www.adfw.com/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "ai-suad-summit-2027",
+    "kind": "Conference",
+    "title": "AI SUAD Summit 2027 · health and precision medicine",
+    "host": "Sorbonne University Abu Dhabi, IIT Delhi and Franco-Indian Campus for Health & AI",
+    "location": "Zayed Theatre, Sorbonne University Abu Dhabi, UAE",
+    "topics": [
+      "AI",
+      "Health",
+      "Research"
+    ],
+    "role": "Attendee",
+    "dateStart": "2027-01-13",
+    "dateEnd": "2027-01-14",
+    "deadline": null,
+    "durationDays": 2,
+    "availability": "watchlist",
+    "funding": "free",
+    "fundingSummary": "The university’s event listings advertise free public attendance.",
+    "costs": "Travel and accommodation support is not established.",
+    "eligibility": "Open to the public; English-language programme. Current registration has not been verified.",
+    "summary": "Precision medicine, public health and responsible medical AI for underserved populations.",
+    "caution": "The page URL still says 2026, but its current heading and date fields specify 13–14 January 2027. Watch for registration details; the agenda is provisional.",
+    "links": [
+      {
+        "label": "Official 2027 dates and programme",
+        "url": "https://www.sorbonne.ae/events/ai-suad-summit-2026"
+      },
+      {
+        "label": "University listing confirming free public access",
+        "url": "https://www.sorbonne.ae/events/conference-llms-and-their-impact-on-public-information-and-issues-of-sustainability"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "master-moves-open-rapid-2026",
+    "kind": "Competition",
+    "title": "Master Moves Chess Festival · FIDE Open Rapid",
+    "host": "Master Moves Chess Club",
+    "location": "Bay Avenue Mall, Business Bay, Dubai, UAE",
+    "topics": [
+      "Chess"
+    ],
+    "role": "Competitor",
+    "dateStart": "2026-11-21",
+    "dateEnd": "2026-11-21",
+    "deadline": "2026-11-17",
+    "durationDays": 1,
+    "format": "Report 15:30; first round 16:00 UAE time. Rapid: 10 minutes + 3 seconds per move.",
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Paid entry; the organizer advertises an AED 6,000 top prize for the Open Rapid.",
+    "costs": "AED 150 entry, or AED 100 for Master Moves members. Local travel is extra; no participation funding established.",
+    "eligibility": "Open to all ages and ratings; a valid FIDE ID is required.",
+    "summary": "The adult-accessible open section of the 20–22 November chess festival.",
+    "caution": "Register by 17 November at 15:00 UAE time. Choose the 21 November Open Rapid, not the junior events. The homepage and rules PDF link different registration forms; confirm the correct current form with the organizer before paying.",
+    "links": [
+      {
+        "label": "Official 2026 tournament and registration",
+        "url": "https://www.mastermoveschess.com/"
+      },
+      {
+        "label": "Official regulations and entry deadline",
+        "url": "https://www.mastermoveschess.com/Master_Moves_Chess_Festival_2026_3rd_Edition.pdf"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "shift-game-jam-2026",
+    "kind": "Competition",
+    "title": "Shift Game Jam · Abu Dhabi",
+    "host": "Abu Dhabi Gaming with Unity",
+    "location": "Nabdh MBZ, Al Manhal, Abu Dhabi, UAE",
+    "topics": [
+      "Hackathon",
+      "Gaming",
+      "Engineering",
+      "Design"
+    ],
+    "role": "Game creator",
+    "dateStart": "2026-11-13",
+    "dateEnd": "2026-11-15",
+    "deadline": "2026-11-06",
+    "durationDays": 3,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free entry and mentoring. AED 60,000 prize pool is paid as vouchers, not cash: AED 30,000 / 20,000 / 10,000.",
+    "costs": "Bring your own computer and tools. Travel, accommodation and meals are not stated as covered.",
+    "eligibility": "Professionals, hobbyists, students and beginners welcome. Enter solo or in teams of up to five; solo team matching is available.",
+    "summary": "Create a playable game around a theme announced at kickoff, then publish and present it.",
+    "caution": "Register by 6 November; cutoff time is not stated. Attendance across all three days is required, but not overnight. New game work starts at kickoff; disclose AI-generated content and credit licensed assets.",
+    "links": [
+      {
+        "label": "Official registration, schedule and prize rules",
+        "url": "https://www.shiftgamejam.com/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-05",
+    "id": "true-gamers-rocket-league-nov-2026",
+    "kind": "Competition",
+    "title": "True Gamers · Rocket League 2v2 tournament",
+    "host": "True Gamers",
+    "location": "Participating True Gamers clubs, UAE",
+    "topics": [
+      "Esports",
+      "Gaming"
+    ],
+    "role": "Competitor",
+    "dateStart": "2026-11-08",
+    "dateEnd": "2026-11-08",
+    "deadline": null,
+    "durationDays": 1,
+    "format": "8 November at 18:00; arrive 15 minutes early",
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Paid entry; total advertised prize pool is 2,000 bonus credits, not a verified cash award.",
+    "costs": "AED 50 fee displayed. The page does not specify whether this is per person or team; confirm with the club.",
+    "eligibility": "Two-player teams. All players must register and confirm participation through the organizer’s Discord. Age and residence restrictions were not established.",
+    "summary": "Single-elimination Rocket League Soccar competition, with best-of-three matches and best-of-five semifinals/final.",
+    "caution": "Confirm the participating branch, local start time, fee basis and bonus-credit redemption rules before committing. Pay the fee at the club before play.",
+    "links": [
+      {
+        "label": "Official tournament and rules",
+        "url": "https://tournaments.truegamers.world/rl811"
       }
     ]
   }
