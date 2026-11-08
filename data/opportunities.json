@@ -1925,5 +1925,172 @@
         "url": "https://tournaments.truegamers.world/rl811"
       }
     ]
+  },
+  {
+    "verifiedAt": "2026-11-08",
+    "availability": "open",
+    "deadline": "2026-12-31",
+    "id": "nordic-tech-days-2027",
+    "kind": "Speaker call",
+    "title": "Nordic Tech Days 2027 · speaker call",
+    "host": "Nordic Tech Days",
+    "location": "Tallinn Creative Hub, Tallinn, Estonia",
+    "region": "Europe",
+    "topics": [
+      "Engineering",
+      "AI",
+      "Leadership"
+    ],
+    "role": "Speaker",
+    "durationDays": 2,
+    "dateStart": "2027-06-02",
+    "dateEnd": "2027-06-03",
+    "funding": "partial",
+    "fundingSummary": "Selected speakers: travel up to €350 (€500 for transatlantic flights), two hotel nights with breakfast and conference admission.",
+    "costs": "Flights above the cap, extra nights and unspecified incidental costs remain self-funded.",
+    "eligibility": "Competitive proposals for talks or workshops on testing, DevOps, platform engineering, practical AI and leadership. No age cap stated.",
+    "summary": "Two-day engineering conference with a capped travel-and-hotel speaking route.",
+    "caution": "Deadline 31 December, 23:59 UTC+2. Talk co-presenters share one travel allowance and hotel room; workshop support covers up to two presenters individually.",
+    "links": [
+      {
+        "label": "Official call, dates and funding terms",
+        "url": "https://sessionize.com/ntd-2027/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-08",
+    "availability": "open",
+    "deadline": "2027-01-31",
+    "id": "data-point-prague-2027",
+    "kind": "Speaker call",
+    "title": "Data Point Prague 2027 · workshop/speaker call",
+    "host": "DataBrothers and Czech/Slovak data community",
+    "location": "VŠE (19 May); CUBEX (20 May), Prague, Czechia",
+    "region": "Europe",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Data",
+      "Finance"
+    ],
+    "role": "Speaker or workshop instructor",
+    "durationDays": 2,
+    "dateStart": "2027-05-19",
+    "dateEnd": "2027-05-20",
+    "funding": "partial",
+    "fundingSummary": "Workshop instructors: travel and accommodation plus revenue sharing. Other accepted speakers: free ticket and one hotel night, not advertised airfare.",
+    "costs": "Travel caps, visa and incidental costs are not specified. Ordinary talk speakers should budget for travel.",
+    "eligibility": "Competitive in-person proposals on data platforms, AI agents, analytics, governance and FinOps; new speakers welcome. No age cap stated.",
+    "summary": "A data and AI engineering conference with stronger travel support for selected full-day workshop instructors.",
+    "caution": "CFP closes 31 January at 23:59 Prague time. Workshop is 19 May; main conference 20 May. Do not apply workshop funding terms to a regular talk.",
+    "links": [
+      {
+        "label": "Official submission and speaker benefits",
+        "url": "https://sessionize.com/data-point-prague-2027/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-08",
+    "availability": "open",
+    "deadline": null,
+    "id": "devfest-armenia-2026",
+    "kind": "Conference",
+    "title": "DevFest Armenia 2026",
+    "host": "GDG Yerevan and ACSE at American University of Armenia",
+    "location": "American University of Armenia, 40 Marshal Baghramyan Avenue, Yerevan",
+    "region": "Armenia",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Web"
+    ],
+    "role": "Attendee",
+    "durationDays": 1,
+    "dateStart": "2026-11-21",
+    "dateEnd": "2026-11-21",
+    "funding": "unknown",
+    "fundingSummary": "Organizer RSVP is available; no travel or accommodation funding established.",
+    "costs": "No price is stated on the inspected official event listing. Confirm any admission conditions when registering.",
+    "eligibility": "Developers, engineers, students, researchers and technology enthusiasts; no age cap stated.",
+    "summary": "Full-day developer conference with practical software engineering and emerging-technology talks across two tracks.",
+    "caution": "09:30–18:00 Armenia time. RSVP availability does not guarantee a place; check the final agenda and registration terms.",
+    "links": [
+      {
+        "label": "Official GDG event and RSVP",
+        "url": "https://gdg.community.dev/events/details/google-gdg-yerevan-presents-devfest-armenia-2026/"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-08",
+    "availability": "open",
+    "deadline": null,
+    "id": "digitec-armenia-2026",
+    "kind": "Conference",
+    "title": "DigiTec 2026 · AI conference and free expo",
+    "host": "Union of Advanced Technology Enterprises (UATE)",
+    "location": "Meridian Expo Center, 1 Voskerichneri Street, Yerevan, Armenia",
+    "region": "Armenia",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Technology",
+      "Investment"
+    ],
+    "role": "Attendee",
+    "durationDays": 3,
+    "dateStart": "2026-11-20",
+    "dateEnd": "2026-11-22",
+    "funding": "unknown",
+    "fundingSummary": "Expo entry is free. Conference access is paid; no attendee travel funding verified.",
+    "costs": "Published regular conference ticket: AMD 20,000 for three days, workshops and networking. Tickets are non-refundable. Travel and lodging extra.",
+    "eligibility": "Open conference/expo registration; select the appropriate access route. Conference programme is in English.",
+    "summary": "Three-day AI conference and exhibition covering infrastructure, models, applications and investment.",
+    "caution": "Free expo access does not include the paid conference. Check final checkout fees and registration requirements before paying.",
+    "links": [
+      {
+        "label": "Official event",
+        "url": "https://digitec.am/en-US"
+      },
+      {
+        "label": "Official ticket prices and access terms",
+        "url": "https://digitec.am/en-US/buy-ticket"
+      }
+    ]
+  },
+  {
+    "verifiedAt": "2026-11-08",
+    "availability": "open",
+    "deadline": "2026-11-10",
+    "id": "voice-oasis-elevenlabs-2026",
+    "kind": "Competition",
+    "title": "Voice of the Oasis · ElevenLabs voice AI hackathon",
+    "host": "The Doers Company / Doers Summit; technology partner ElevenLabs",
+    "location": "Dtec, Dubai Silicon Oasis, Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "AI",
+      "Hackathon",
+      "Engineering"
+    ],
+    "role": "Builder",
+    "durationDays": 2,
+    "dateStart": "2026-11-24",
+    "dateEnd": "2026-11-25",
+    "format": "24 November 11:00 to 25 November 13:00 Dubai time; building begins at noon",
+    "funding": "conditional",
+    "fundingSummary": "Accepted participants receive ElevenLabs credits, mentoring and a free Doers Summit Dubai pass. No travel or hotel package verified.",
+    "costs": "Hackathon entry price is not explicitly stated in the inspected organizer text. Travel, lodging and meals are not confirmed covered.",
+    "eligibility": "Developers, AI engineers, designers and product people. Teams of up to five; solo applicants can be matched. Places require host approval.",
+    "summary": "Build voice agents for district navigation, business setup or city services; top teams demo at Doers Summit.",
+    "caution": "Apply by 10 November; cutoff time unspecified. Summit pass covers 25–26 November, extending beyond the hackathon itself. No guaranteed cash prize stated.",
+    "links": [
+      {
+        "label": "Organizer application and schedule",
+        "url": "https://luma.com/voice-of-the-oasis"
+      }
+    ]
   }
 ]
