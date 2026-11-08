@@ -4,7 +4,7 @@ A minimal, mobile-first opportunity tracker and source directory. Static, depend
 
 ## Use
 
-Browse open opportunities, self-paced courses or the watchlist, filter by type/funding/region/progress, and open a card for the actual coverage, eligibility, deadline and official links. Sources is the reusable discovery directory. The initial research snapshot is **2 November 2026**, with a UAE events expansion verified **5 November 2026** and five additional events verified **8 November 2026**. It is not a live feed. There is no scheduled scraping or recurring search yet.
+Browse open opportunities, self-paced courses or the watchlist, filter by type/funding/region/progress, and open a card for the actual coverage, eligibility, deadline and official links. Sources is the reusable discovery directory. The initial research snapshot is **2 November 2026**, with a UAE events expansion verified **5 November 2026** and four additional events verified **8 November 2026**. It is not a live feed. There is no scheduled scraping or recurring search yet.
 
 Statuses and private notes are saved **only in the current browser** with localStorage. No account or cross-device sync. Export/import a JSON backup to move progress between devices. Clearing site data can erase progress. Import merges records and replaces matching records only after confirmation. Event/source data in this repository is public; do not commit personal notes or CVs.
 
