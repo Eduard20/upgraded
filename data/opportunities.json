@@ -2059,38 +2059,5 @@
         "url": "https://digitec.am/en-US/buy-ticket"
       }
     ]
-  },
-  {
-    "verifiedAt": "2026-11-08",
-    "availability": "open",
-    "deadline": "2026-11-10",
-    "id": "voice-oasis-elevenlabs-2026",
-    "kind": "Competition",
-    "title": "Voice of the Oasis · ElevenLabs voice AI hackathon",
-    "host": "The Doers Company / Doers Summit; technology partner ElevenLabs",
-    "location": "Dtec, Dubai Silicon Oasis, Dubai, UAE",
-    "region": "UAE",
-    "topics": [
-      "AI",
-      "Hackathon",
-      "Engineering"
-    ],
-    "role": "Builder",
-    "durationDays": 2,
-    "dateStart": "2026-11-24",
-    "dateEnd": "2026-11-25",
-    "format": "24 November 11:00 to 25 November 13:00 Dubai time; building begins at noon",
-    "funding": "conditional",
-    "fundingSummary": "Accepted participants receive ElevenLabs credits, mentoring and a free Doers Summit Dubai pass. No travel or hotel package verified.",
-    "costs": "Hackathon entry price is not explicitly stated in the inspected organizer text. Travel, lodging and meals are not confirmed covered.",
-    "eligibility": "Developers, AI engineers, designers and product people. Teams of up to five; solo applicants can be matched. Places require host approval.",
-    "summary": "Build voice agents for district navigation, business setup or city services; top teams demo at Doers Summit.",
-    "caution": "Apply by 10 November; cutoff time unspecified. Summit pass covers 25–26 November, extending beyond the hackathon itself. No guaranteed cash prize stated.",
-    "links": [
-      {
-        "label": "Organizer application and schedule",
-        "url": "https://luma.com/voice-of-the-oasis"
-      }
-    ]
   }
 ]
