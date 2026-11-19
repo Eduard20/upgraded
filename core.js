@@ -9,7 +9,7 @@ if (filter === 'hide-disliked') return interest !== 'dislike';
 if (filter === 'unrated') return !interest;
 return interest === filter; }
 export function filterOpportunities(items, filters, records = {}, today) { return items.filter(item => {
-const text = [item.title,item.host,item.location,item.summary,item.kind,...item.topics].join(' ').toLowerCase();
+const text = [item.title,item.host,item.location,item.summary,item.kind,item.badge,...item.topics].join(' ').toLowerCase();
 const availability = effectiveAvailability(item,today);
 return (!filters.query || text.includes(filters.query.toLowerCase())) && (filters.availability === 'all' || availability === filters.availability || (filters.availability === 'open' && availability === 'ongoing')) && (filters.funding === 'all' || item.funding === filters.funding) && (!filters.topic || filters.topic === 'all' || item.topics.includes(filters.topic)) && (!filters.kind || filters.kind === 'all' || item.kind === filters.kind) && (filters.region === 'all' || (filters.region === 'International' ? !['UAE','Armenia'].includes(item.region) : item.region === filters.region)) && (filters.status === 'all' || (records[item.id]?.status || 'new') === filters.status) && matchesInterest(filters.interest, records[item.id]?.interest);
 }).sort((a,b)=>(a.deadline || '9999').localeCompare(b.deadline || '9999')); }

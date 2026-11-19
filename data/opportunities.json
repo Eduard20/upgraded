@@ -1925,5 +1925,45 @@
         "url": "https://tournaments.truegamers.world/rl811"
       }
     ]
+  },
+  {
+    "id": "wn-dubai-2027",
+    "title": "WN Dubai ’27 · Developer Showcase & Indie Pitch",
+    "host": "WN Media Group",
+    "location": "Sheraton Grand Hotel, Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Game development",
+      "Entrepreneurship"
+    ],
+    "role": "Exhibitor or pitch presenter",
+    "durationDays": 2,
+    "dateStart": "2027-02-04",
+    "dateEnd": "2027-02-05",
+    "deadline": "2027-01-28",
+    "availability": "open",
+    "funding": "conditional",
+    "fundingSummary": "One complimentary Standard Pass for one person per accepted showcase team.",
+    "costs": "Bring your own demo equipment. A second pass is not included; the listed Standard ticket is €399 plus VAT. No travel or hotel coverage is stated.",
+    "eligibility": "Apply with a playable build or gameplay video. Works in progress are welcome. Acceptance and eligibility for an already-released iOS title are not confirmed.",
+    "summary": "Demo an original game to attendees, pitch live to an expert jury, or apply for both.",
+    "caution": "The exact application cutoff time and Dubai-specific terms for a second pass are not published.",
+    "verifiedAt": "2026-11-19",
+    "links": [
+      {
+        "label": "Official event",
+        "url": "https://wnhub.io/event-info/dubai-27"
+      },
+      {
+        "label": "Showcase and Indie Pitch application",
+        "url": "https://wnhub.io/event-info/dubai-27/showcase/dubai-27"
+      },
+      {
+        "label": "Participant guide",
+        "url": "https://wnhub.io/showcase-guide-page"
+      }
+    ],
+    "kind": "Conference",
+    "badge": "Interesting"
   }
 ]
