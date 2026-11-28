@@ -1361,12 +1361,12 @@
   },
   {
     "region": "UAE",
-    "verifiedAt": "2026-11-05",
+    "verifiedAt": "2026-11-28",
     "id": "itu-ai-for-good-uae-2026",
     "kind": "Competition",
     "title": "ITU AI for Good Lab Hackathon · UAE",
     "host": "International Telecommunication Union (ITU)",
-    "location": "Online build; Dubai, UAE finals",
+    "location": "Online build; TDRA Dubai office, UAE",
     "topics": [
       "AI",
       "Engineering",
@@ -1374,18 +1374,18 @@
       "Hackathon"
     ],
     "role": "Team member",
-    "dateStart": "2026-12-08",
-    "dateEnd": "2026-12-10",
+    "dateStart": "2026-12-09",
+    "dateEnd": "2026-12-09",
     "deadline": "2026-11-05",
     "durationDays": null,
-    "format": "Online development; Dubai final 8 December and awards 10 December 2026",
+    "format": "ITU event listing: 9 December, 09:00–17:00 Dubai time, at the TDRA Dubai office",
     "availability": "open",
     "funding": "conditional",
     "fundingSummary": "Prizes include CHF 1,500, CHF 1,000 and CHF 600. Travel sponsorship is offered to selected overseas teams, not all entrants.",
     "costs": "Entry fee and local expenses are not stated.",
     "eligibility": "Students, researchers and professionals can contribute. Teams have at most four members, including any internal mentor.",
     "summary": "Build an AI agent with a policy-grounded knowledge base and submit a technical report, code and knowledge base.",
-    "caution": "Registration ends 5 November, with cutoff time unspecified; submissions end 10 November. Do not confuse the two. Confirm whether registration remains available. This is separate from ITU Innovation Factory.",
+    "caution": "Applications are closed; no public spectator registration is confirmed. The current event header gives 9 December at TDRA, while the older timeline on the same page still lists GITEX dates. Confirm with the organiser before travelling.",
     "links": [
       {
         "label": "Official rules, registration and timeline",
@@ -1395,7 +1395,7 @@
   },
   {
     "region": "UAE",
-    "verifiedAt": "2026-11-05",
+    "verifiedAt": "2026-11-28",
     "id": "tatweer-al-dhafra-2026",
     "kind": "Competition",
     "title": "Tatweer Hackathon · Al Dhafra Edition 2",
@@ -1419,7 +1419,7 @@
     "costs": "Local travel, accommodation and project costs are not confirmed covered.",
     "eligibility": "Open to people in the UAE, with no nationality restriction. Enter solo or form a team of up to five. The separate Education track is for Al Dhafra school students.",
     "summary": "Create environmental or community solutions, with finalists presenting in Liwa.",
-    "caution": "Not just a weekend event: milestones on 5, 10, 15 and 19 December are mandatory. New code must be written during the hackathon; submissions must be open-sourced. Registration closes 30 November.",
+    "caution": "Four pass/fail submissions on 5, 10, 15 and 19 December: team and problem, plan and first build, working core with user feedback, then final demo and deck. Live check-ins are not stated on the published schedule. New code must be written during the event and submissions open-sourced. Registration closes 30 November. The 25–27 December demo days are open to the public.",
     "links": [
       {
         "label": "Official event",
