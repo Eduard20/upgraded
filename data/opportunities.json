@@ -2160,5 +2160,46 @@
     ],
     "kind": "Speaker call",
     "badge": "Interesting"
+  },
+  {
+    "id": "disney-live-orchestra-yas-december-2026",
+    "title": "Frozen & The Lion King · live orchestra matinees",
+    "host": "Etihad Arena · Armenian State Symphony Orchestra",
+    "location": "Etihad Arena, Yas Island, Abu Dhabi, UAE",
+    "region": "UAE",
+    "topics": [
+      "Music",
+      "Film",
+      "Family"
+    ],
+    "role": "Audience",
+    "durationDays": 2,
+    "dateStart": "2026-12-19",
+    "dateEnd": "2026-12-20",
+    "deadline": null,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Ticketed; no funding or discount assumed.",
+    "costs": "Listed from AED 80 per person per film. Seats and final checkout prices may vary.",
+    "eligibility": "All ages. Children under 2 are free on a parent or guardian’s lap; ages 2 and up need a ticket. Under-16s must be accompanied by an adult aged 21 or older.",
+    "summary": "The Armenian State Symphony Orchestra plays live alongside Frozen on Saturday 19 December and The Lion King on Sunday 20 December. Both start at 14:00 UAE time; doors open at 13:00.",
+    "caution": "Each ticket is for one film. Films are in English with Arabic subtitles. Adjacent seats and final prices were not verified.",
+    "verifiedAt": "2026-11-28",
+    "links": [
+      {
+        "label": "Yas Island series overview",
+        "url": "https://www.yasisland.com/en/packages-and-offers/disney-movies-live-concert-abu-dhabi"
+      },
+      {
+        "label": "Frozen matinee details and tickets",
+        "url": "https://abu-dhabi.platinumlist.net/event-tickets/107715/disneys-frozen-live-in-concert"
+      },
+      {
+        "label": "The Lion King matinee details and tickets",
+        "url": "https://abu-dhabi.platinumlist.net/event-tickets/107724/disneys-the-lion-king-live-in-concert"
+      }
+    ],
+    "kind": "Festival & culture",
+    "badge": "Interesting"
   }
 ]
