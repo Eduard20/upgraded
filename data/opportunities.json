@@ -1722,7 +1722,7 @@
   },
   {
     "region": "UAE",
-    "verifiedAt": "2026-11-05",
+    "verifiedAt": "2026-11-28",
     "id": "gitex-global-conferences-2026",
     "kind": "Conference",
     "title": "GITEX Global 2026 · summit and conferences",
@@ -1742,20 +1742,32 @@
     "availability": "open",
     "funding": "unknown",
     "fundingSummary": "Ticketing is available; no attendee funding verified.",
-    "costs": "Current ticket price and taxes were not established. Check the pass needed for each conference or summit, plus local transport.",
+    "costs": "Focus Softnet offers a limited complimentary exhibition visitor pass; availability is not guaranteed. Check paid-pass pricing and seat requirements separately.",
     "eligibility": "Register for the appropriate visitor/delegate pass. Conference, summit and exhibition access can differ.",
     "summary": "AI, computing, robotics, cybersecurity and technology-business discussions across a summit and conference programme.",
-    "caution": "Two venues: the 7 December summit is at DWTC; 8–11 December is at Dubai Exhibition Centre, Expo City. Do not assume a basic exhibition ticket includes conference sessions.",
+    "caution": "The exhibitor guest badge registration deadline is 30 November. The visitor pass does not establish summit or workshop access. The provisional 9 December agenda lists AI observability (11:45) and a Gemini Live voice-agent build (13:00); confirm times, pass entitlement and seats before buying.",
     "links": [
       {
         "label": "Official conference dates, venues and tickets",
         "url": "https://www.gitex.com/conference-overview-2026"
+      },
+      {
+        "label": "Focus Softnet complimentary visitor pass request",
+        "url": "https://www.focussoftnet.com/gitex-2026"
+      },
+      {
+        "label": "DWTC exhibitor guest badge deadline",
+        "url": "https://dwtc.exhibitoronlinemanual.com/gitex-global-2026/exb/disable_msg"
+      },
+      {
+        "label": "28 November draft workshop agenda (provisional)",
+        "url": "https://fliphtml5.com/ecetg/chdq/"
       }
     ]
   },
   {
     "region": "UAE",
-    "verifiedAt": "2026-11-05",
+    "verifiedAt": "2026-11-28",
     "id": "abu-dhabi-finance-week-2026",
     "kind": "Conference",
     "title": "Abu Dhabi Finance Week 2026",
@@ -1775,7 +1787,7 @@
     "availability": "open",
     "funding": "unknown",
     "fundingSummary": "Registration is promoted by ADGM; no participant funding verified.",
-    "costs": "Current pass prices, taxes and access tiers were not established. Travel and accommodation are not confirmed covered.",
+    "costs": "Organizer-listed prices including VAT: USD 500 for the 9 December Fintech single-day pass or USD 1,000 for all four days. Live checkout and session capacity were not verified.",
     "eligibility": "Register through the official event site; check individual-session and invitation requirements.",
     "summary": "Finance, asset management, fintech, AI and sustainable-finance forums. Day three focuses on AI and financial innovation.",
     "caution": "Registration does not imply access to every summit or private session. Overlaps GITEX on 7–10 December.",
@@ -1787,6 +1799,10 @@
       {
         "label": "Official event registration",
         "url": "https://www.adfw.com/"
+      },
+      {
+        "label": "Organizer ticket tiers and prices",
+        "url": "https://www.adfw.com/event/2026/tickets"
       }
     ]
   },
@@ -1965,5 +1981,107 @@
     ],
     "kind": "Conference",
     "badge": "Interesting"
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-28",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Mobile"
+    ],
+    "dateStart": "2026-12-06",
+    "dateEnd": "2026-12-06",
+    "deadline": null,
+    "durationDays": 1,
+    "availability": "open",
+    "badge": "Interesting",
+    "id": "gdg-dubai-gitex-lead-catcher-2026",
+    "title": "GDG Dubai · GITEX Lead Catcher workshop",
+    "host": "GDG Dubai",
+    "location": "Deriv, One by Omniyat, 24th floor, Business Bay, Dubai, UAE",
+    "kind": "Course",
+    "role": "Builder",
+    "funding": "free",
+    "fundingSummary": "Free workshop; the best app wins one GITEX All Access pass.",
+    "costs": "Bring your own equipment; travel is not covered.",
+    "eligibility": "Open to beginners. Bring a laptop with Google Antigravity, a Google account, an Android phone and test business cards.",
+    "summary": "Build and demo an Android business-card scanner with Gemini and Antigravity.",
+    "format": "6 December, 10:30–12:30 UAE time",
+    "caution": "RSVP is available; no public cutoff or remaining capacity was verified. Overlaps the start of the DMCC workshops at another venue.",
+    "links": [
+      {
+        "label": "Organizer details and RSVP",
+        "url": "https://gdg.community.dev/events/details/google-gdg-dubai-presents-workshop-gitex-lead-catcher-build-your-own-ai-business-card-scanner-with-antigravity/"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-28",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Hackathon"
+    ],
+    "dateStart": "2026-12-06",
+    "dateEnd": "2026-12-06",
+    "deadline": null,
+    "durationDays": 1,
+    "availability": "open",
+    "badge": "Interesting",
+    "id": "dmcc-agentic-ai-production-2026",
+    "title": "DMCC · Agentic AI in Action",
+    "host": "DMCC, with Google and JetBrains",
+    "location": "SO/ Uptown Dubai, P3 Ballroom, Dubai, UAE",
+    "kind": "Conference",
+    "role": "Workshop participant",
+    "funding": "unknown",
+    "fundingSummary": "Attendee pricing not verified.",
+    "costs": "Confirm price and admission with the organizer before travelling.",
+    "eligibility": "Request admission and select one technical workshop. Watching finalist pitches is separate from entering the startup competition.",
+    "summary": "Parallel hands-on sessions include building production agents with Google and an Agent Client Protocol workshop with JetBrains.",
+    "format": "6 December, 09:00–17:00 UAE time; workshops 12:00–14:00, finalist pitches 15:00–16:30",
+    "caution": "Request is not a confirmed seat. The November 30 deadline is for startup competition entry, not workshop admission. The workshops overlap the GDG event at a different venue.",
+    "links": [
+      {
+        "label": "Organizer agenda and registration",
+        "url": "https://landing.dmcc.ae/agentic-ai-in-action-from-uae-vision-to-production-reality-6-december"
+      }
+    ]
+  },
+  {
+    "region": "UAE",
+    "verifiedAt": "2026-11-28",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Hackathon"
+    ],
+    "dateStart": "2026-12-07",
+    "dateEnd": "2026-12-07",
+    "deadline": null,
+    "durationDays": 1,
+    "availability": "open",
+    "badge": "Interesting",
+    "id": "nebius-builders-brews-dubai-2026",
+    "title": "Nebius & Tavily · Builders & Brews Dubai",
+    "host": "Nebius and Tavily",
+    "location": "DMCC AI Centre, Uptown Tower level 12, Dubai, UAE",
+    "kind": "Competition",
+    "role": "Builder",
+    "funding": "free",
+    "fundingSummary": "No entry fee; admission is approval-based.",
+    "costs": "Bring a laptop and charger; travel is not covered.",
+    "eligibility": "Solo builders and existing teams welcome; join a team on site if useful.",
+    "summary": "Build an AI prototype in 90 minutes, then share a short demo and get feedback.",
+    "format": "7 December, 16:00–21:00 UAE time",
+    "caution": "Request to attend through the organizer page. No published cutoff or guaranteed admission.",
+    "links": [
+      {
+        "label": "Nebius event listing and attendance request",
+        "url": "https://nebius.com/events/gitex-global-dubai"
+      }
+    ]
   }
 ]
