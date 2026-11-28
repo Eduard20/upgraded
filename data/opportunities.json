@@ -2083,5 +2083,41 @@
         "url": "https://nebius.com/events/gitex-global-dubai"
       }
     ]
+  },
+  {
+    "id": "ferrari-world-f1-fanzone-2026",
+    "title": "Ferrari World Supercharged FanZone · free F1 race screening",
+    "host": "Ferrari World Yas Island",
+    "location": "Yas Leisure Drive, next to Etihad Park, Abu Dhabi, UAE",
+    "region": "UAE",
+    "topics": [
+      "Motorsport",
+      "Family"
+    ],
+    "role": "Spectator",
+    "durationDays": 5,
+    "dateStart": "2026-12-02",
+    "dateEnd": "2026-12-06",
+    "deadline": null,
+    "availability": "open",
+    "funding": "free",
+    "fundingSummary": "Free access to the FanZone and live F1 screening.",
+    "costs": "Ferrari World rides and attractions require a separate park ticket.",
+    "eligibility": "Use the public FanZone entrance on Yas Leisure Drive next to Etihad Park. No Grand Prix ticket needed for this screening.",
+    "summary": "Watch the Abu Dhabi Grand Prix live on a screen on Sunday, 6 December. The race is scheduled to start at 17:00 UAE time.",
+    "caution": "This is a screening, not admission to Yas Marina Circuit. FanZone hours, capacity and advance booking requirements are not confirmed.",
+    "verifiedAt": "2026-11-28",
+    "links": [
+      {
+        "label": "FanZone details and entrance map",
+        "url": "https://www.ferrariworldabudhabi.com/en/events/supercharged-fanzone"
+      },
+      {
+        "label": "Official Formula 1 race timetable",
+        "url": "https://www.formula1.com/en/latest/article/formula-1-etihad-airways-abu-dhabi-grand-prix-2026.5mmDojxBdiltjPgeIxAKOq"
+      }
+    ],
+    "kind": "Sport & wellbeing",
+    "badge": "Interesting"
   }
 ]
