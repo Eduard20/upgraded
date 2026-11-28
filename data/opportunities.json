@@ -2119,5 +2119,46 @@
     ],
     "kind": "Sport & wellbeing",
     "badge": "Interesting"
+  },
+  {
+    "id": "gitex-ai-belgrade-2027",
+    "title": "GITEX AI Belgrade · speaker enquiry",
+    "host": "GITEX AI Belgrade",
+    "location": "Belgrade Fair, Belgrade, Serbia",
+    "region": "Europe",
+    "topics": [
+      "AI",
+      "Engineering",
+      "Technology"
+    ],
+    "role": "Prospective speaker",
+    "durationDays": 3,
+    "dateStart": "2027-05-25",
+    "dateEnd": "2027-05-27",
+    "deadline": null,
+    "availability": "watchlist",
+    "funding": "unknown",
+    "fundingSummary": "Speaker fees, passes and travel or accommodation support are not published.",
+    "costs": "Visitor pricing and speaker coverage are not verified; an expression of interest is not a ticket.",
+    "eligibility": "The organizer’s enquiry form asks for a proposed topic, affiliation and contact information. Selection criteria and deadline are not published.",
+    "summary": "The announced StackCon builder track plans live builds and practical engineering talks. Use the organizer’s speaker enquiry to express interest.",
+    "caution": "The Belgrade programme and speaker lineup are not yet published. This is an enquiry, not an invitation, ticket, or funding offer.",
+    "verifiedAt": "2026-11-28",
+    "links": [
+      {
+        "label": "Official event and tracks",
+        "url": "https://www.gitexbelgrade.com/"
+      },
+      {
+        "label": "Organizer speaker enquiry",
+        "url": "https://event.gitexbelgrade.com/speaker-enquiry"
+      },
+      {
+        "label": "Belgrade Fair calendar",
+        "url": "https://sajam.rs/en/calendar-2027/gitex/"
+      }
+    ],
+    "kind": "Speaker call",
+    "badge": "Interesting"
   }
 ]
