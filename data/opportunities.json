@@ -2201,5 +2201,42 @@
     ],
     "kind": "Festival & culture",
     "badge": "Interesting"
+  },
+  {
+    "id": "terra-rooted-in-nature-2026",
+    "title": "Rooted in Nature · UAE National Day at Terra",
+    "host": "Terra, Expo City Dubai",
+    "location": "Terra Pavilion, Expo City Dubai, UAE",
+    "region": "UAE",
+    "topics": [
+      "Nature",
+      "Culture",
+      "Family"
+    ],
+    "role": "Visitor",
+    "durationDays": 2,
+    "dateStart": "2026-12-02",
+    "dateEnd": "2026-12-03",
+    "deadline": null,
+    "availability": "open",
+    "funding": "unknown",
+    "fundingSummary": "Terra advertises 55% off attraction tickets for 2–4 December.",
+    "costs": "Published standard pavilion admission: AED 100 adults, AED 80 children aged 4+, free for ages 3 and under. Date-specific checkout prices and workshop fees are not verified.",
+    "eligibility": "Family programme with sensory play and crafts. Check individual workshop age and booking requirements.",
+    "summary": "On 2–3 December, 10:00–18:00 UAE time: leaf and petal pressing, Al Sadu weaving, native-plant garden tours, crafts and an outdoor market.",
+    "caution": "The 4 December date is part of the ticket promotion, not the activities programme. Workshop times, fees and places can vary.",
+    "verifiedAt": "2026-11-28",
+    "links": [
+      {
+        "label": "Official programme and holiday offer",
+        "url": "https://terra.expocitydubai.com/en/poi/rooted-in-nature-national-day"
+      },
+      {
+        "label": "Terra standard admission and visitor information",
+        "url": "https://www.expocitydubai.com/en/things-to-do/attractions/terra-pavilion/"
+      }
+    ],
+    "kind": "Festival & culture",
+    "badge": "Interesting"
   }
 ]
